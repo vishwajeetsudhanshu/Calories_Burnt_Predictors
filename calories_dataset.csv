@@ -1,0 +1,5001 @@
+Age,Gender,Weight (kg),Height (cm),Activity,Duration (minutes),Calories
+20,Female,51,188,Jump rope,30,313.65
+28,Male,86,177,Cycling,20,229.33
+30,Male,87,180,Walking,35,177.62
+57,Male,66,164,Jump rope,65,879.45
+34,Male,64,167,Walking,45,168.0
+33,Female,95,186,Running,10,155.17
+39,Female,78,165,Yoga,20,65.0
+41,Female,97,163,Walking,40,226.33
+58,Male,76,150,Yoga,20,63.33
+27,Male,67,177,Swimming,40,312.67
+36,Male,100,151,Running,90,1470.0
+30,Female,77,187,Swimming,50,449.17
+40,Female,53,186,Running,80,692.53
+55,Female,76,190,Running,50,620.67
+22,Female,45,164,Yoga,30,56.25
+37,Female,65,160,Swimming,70,530.83
+46,Male,69,171,Walking,40,161.0
+42,Female,94,180,Jump rope,45,867.15
+40,Female,79,150,Running,70,903.23
+37,Female,79,169,Yoga,25,82.29
+58,Male,97,172,Yoga,45,181.88
+48,Female,94,166,Walking,75,411.25
+38,Female,46,163,Jump rope,55,518.65
+34,Female,75,163,Swimming,60,525.0
+47,Male,58,180,Yoga,45,108.75
+44,Female,97,185,Running,15,237.65
+45,Female,97,175,Swimming,20,226.33
+42,Female,45,185,Cycling,50,300.0
+53,Male,57,171,Jump rope,40,467.4
+38,Male,73,185,Walking,40,170.33
+39,Female,49,151,Jump rope,15,150.68
+57,Female,64,157,Swimming,20,149.33
+39,Female,51,160,Running,80,666.4
+34,Female,85,168,Swimming,20,198.33
+55,Male,48,180,Yoga,90,180.0
+36,Male,81,152,Jump rope,80,1328.4
+21,Male,67,166,Cycling,25,223.33
+56,Female,45,164,Yoga,80,150.0
+57,Female,75,179,Cycling,75,750.0
+34,Male,47,184,Swimming,70,383.83
+40,Male,58,153,Running,90,852.6
+24,Male,51,150,Jump rope,90,940.95
+50,Female,65,190,Yoga,15,40.62
+41,Female,98,185,Yoga,45,183.75
+32,Female,82,164,Swimming,40,382.67
+58,Female,45,158,Running,65,477.75
+30,Male,52,170,Walking,85,257.83
+59,Male,65,169,Walking,35,132.71
+30,Male,87,159,Yoga,55,199.38
+47,Male,68,168,Running,35,388.73
+42,Male,47,166,Cycling,15,94.0
+46,Male,88,155,Cycling,50,586.67
+22,Female,80,159,Jump rope,50,820.0
+45,Male,58,162,Jump rope,45,535.05
+35,Female,45,189,Running,65,477.75
+19,Female,90,170,Jump rope,75,1383.75
+54,Female,64,187,Yoga,75,200.0
+42,Female,46,181,Jump rope,10,94.3
+24,Male,59,189,Walking,20,68.83
+44,Female,98,181,Running,55,880.37
+40,Female,71,184,Running,85,985.72
+55,Female,87,182,Walking,55,279.12
+59,Male,52,158,Walking,20,60.67
+51,Female,80,164,Running,10,130.67
+50,Male,50,157,Jump rope,70,717.5
+47,Male,83,189,Cycling,30,332.0
+35,Male,75,159,Jump rope,10,153.75
+55,Male,60,188,Yoga,90,225.0
+48,Male,64,184,Swimming,85,634.67
+21,Female,99,165,Yoga,20,82.5
+52,Female,58,173,Running,35,331.57
+29,Female,50,155,Cycling,75,500.0
+56,Male,64,162,Walking,40,149.33
+34,Female,99,177,Cycling,75,990.0
+56,Male,69,154,Swimming,85,684.25
+36,Male,51,156,Jump rope,35,365.93
+28,Male,94,174,Jump rope,20,385.4
+22,Male,48,151,Swimming,85,476.0
+60,Male,90,185,Yoga,60,225.0
+39,Male,98,188,Running,25,400.17
+49,Male,98,189,Jump rope,85,1707.65
+25,Male,76,165,Jump rope,50,779.0
+18,Female,77,179,Swimming,80,718.67
+26,Female,83,161,Swimming,40,387.33
+22,Male,62,179,Swimming,65,470.17
+45,Male,52,153,Swimming,50,303.33
+40,Male,50,187,Walking,60,175.0
+41,Female,81,166,Cycling,30,324.0
+30,Male,68,163,Jump rope,35,487.9
+33,Male,80,172,Yoga,85,283.33
+25,Male,83,174,Walking,40,193.67
+22,Female,100,188,Running,55,898.33
+34,Female,48,180,Yoga,15,30.0
+33,Male,98,173,Yoga,30,122.5
+25,Male,91,189,Walking,70,371.58
+44,Female,87,163,Yoga,90,326.25
+33,Male,62,154,Jump rope,40,508.4
+41,Male,60,170,Jump rope,50,615.0
+33,Female,67,155,Jump rope,30,412.05
+39,Male,66,190,Walking,75,288.75
+40,Male,96,155,Jump rope,50,984.0
+46,Female,73,190,Running,35,417.32
+25,Female,46,188,Running,65,488.37
+46,Female,77,169,Jump rope,15,236.78
+44,Female,51,181,Running,50,416.5
+45,Female,48,177,Swimming,45,252.0
+23,Male,78,190,Walking,60,273.0
+29,Male,76,188,Running,80,993.07
+42,Female,66,178,Jump rope,50,676.5
+53,Female,58,159,Yoga,25,60.42
+59,Male,91,164,Running,60,891.8
+21,Male,92,187,Jump rope,45,848.7
+48,Male,85,155,Running,80,1110.67
+50,Female,76,158,Yoga,60,190.0
+25,Male,58,188,Running,85,805.23
+45,Male,85,187,Swimming,15,148.75
+39,Male,69,173,Jump rope,85,1202.33
+45,Male,91,181,Swimming,90,955.5
+49,Female,86,170,Yoga,65,232.92
+39,Male,95,164,Cycling,30,380.0
+34,Male,45,190,Yoga,45,84.38
+50,Female,56,174,Jump rope,20,229.6
+19,Female,64,172,Walking,35,130.67
+36,Male,98,188,Walking,80,457.33
+20,Male,59,153,Running,55,530.02
+40,Male,80,184,Swimming,10,93.33
+19,Female,98,162,Swimming,30,343.0
+27,Female,51,174,Running,20,166.6
+41,Male,51,178,Running,20,166.6
+52,Male,74,156,Swimming,25,215.83
+43,Male,92,182,Jump rope,30,565.8
+52,Female,54,172,Walking,25,78.75
+56,Male,86,174,Yoga,85,304.58
+56,Male,66,158,Swimming,75,577.5
+29,Female,73,159,Cycling,30,292.0
+50,Female,73,185,Swimming,80,681.33
+28,Male,45,155,Walking,80,210.0
+20,Female,52,165,Yoga,60,130.0
+58,Male,68,180,Jump rope,90,1254.6
+53,Female,67,187,Jump rope,90,1236.15
+45,Female,50,174,Swimming,50,291.67
+25,Female,86,161,Cycling,40,458.67
+36,Female,94,154,Swimming,90,987.0
+57,Female,79,185,Swimming,15,138.25
+28,Female,83,171,Walking,60,290.5
+48,Male,59,157,Walking,65,223.71
+28,Male,64,165,Swimming,35,261.33
+57,Male,62,185,Running,25,253.17
+22,Male,91,165,Jump rope,75,1399.12
+52,Male,73,161,Yoga,60,182.5
+52,Female,69,177,Running,70,788.9
+55,Female,80,184,Yoga,65,216.67
+35,Female,57,175,Cycling,20,152.0
+39,Male,83,169,Running,50,677.83
+44,Female,93,173,Running,60,911.4
+59,Female,55,177,Running,45,404.25
+20,Male,50,187,Swimming,55,320.83
+51,Male,96,177,Cycling,35,448.0
+37,Female,52,179,Yoga,40,86.67
+29,Male,74,178,Walking,65,280.58
+53,Female,63,175,Cycling,90,756.0
+58,Female,57,159,Swimming,25,166.25
+34,Male,61,175,Swimming,50,355.83
+22,Male,77,173,Cycling,85,872.67
+24,Female,57,151,Running,45,418.95
+40,Male,50,171,Yoga,25,52.08
+46,Female,71,180,Yoga,20,59.17
+51,Male,79,182,Walking,15,69.12
+30,Male,93,160,Walking,25,135.62
+58,Male,45,156,Cycling,45,270.0
+59,Male,79,152,Running,65,838.72
+45,Female,73,178,Swimming,65,553.58
+42,Male,91,150,Swimming,50,530.83
+43,Female,56,154,Jump rope,85,975.8
+53,Male,77,177,Running,25,314.42
+59,Female,56,166,Walking,65,212.33
+33,Male,93,154,Walking,40,217.0
+30,Male,88,173,Walking,15,77.0
+44,Female,69,187,Running,30,338.1
+55,Male,51,153,Yoga,70,148.75
+30,Male,52,156,Running,85,721.93
+53,Female,60,151,Swimming,70,490.0
+22,Female,99,164,Yoga,75,309.38
+59,Female,49,158,Swimming,10,57.17
+26,Male,76,162,Swimming,55,487.67
+43,Male,64,187,Yoga,70,186.67
+40,Female,90,184,Jump rope,90,1660.5
+55,Male,78,166,Walking,20,91.0
+54,Male,79,167,Yoga,25,82.29
+19,Male,69,185,Cycling,70,644.0
+28,Male,63,180,Jump rope,20,258.3
+26,Female,95,174,Jump rope,15,292.12
+41,Female,85,168,Running,50,694.17
+20,Male,77,161,Jump rope,20,315.7
+41,Female,82,170,Jump rope,80,1344.8
+48,Female,61,179,Swimming,15,106.75
+54,Male,92,188,Yoga,90,345.0
+37,Male,97,189,Running,85,1346.68
+57,Male,95,163,Walking,65,360.21
+40,Male,85,165,Cycling,20,226.67
+47,Male,100,152,Swimming,25,291.67
+42,Female,88,155,Walking,60,308.0
+56,Male,49,174,Jump rope,80,803.6
+46,Female,53,156,Cycling,85,600.67
+51,Male,68,177,Walking,15,59.5
+29,Female,76,160,Walking,70,310.33
+46,Female,54,158,Running,60,529.2
+22,Female,77,169,Cycling,65,667.33
+40,Female,69,182,Jump rope,15,212.18
+25,Female,84,182,Yoga,60,210.0
+50,Male,100,164,Running,75,1225.0
+56,Male,50,158,Jump rope,50,512.5
+34,Male,83,188,Jump rope,65,1105.98
+18,Male,48,154,Running,75,588.0
+54,Male,66,187,Running,40,431.2
+52,Female,83,167,Jump rope,75,1276.12
+45,Male,91,164,Walking,55,291.96
+44,Female,69,168,Walking,45,181.12
+34,Female,73,189,Swimming,85,723.92
+29,Male,76,177,Running,60,744.8
+57,Female,50,187,Cycling,35,233.33
+18,Male,81,175,Yoga,25,84.38
+54,Female,80,171,Cycling,35,373.33
+27,Male,45,174,Yoga,30,56.25
+18,Male,48,166,Yoga,45,90.0
+29,Male,73,180,Cycling,70,681.33
+60,Female,73,161,Swimming,55,468.42
+42,Male,57,189,Cycling,35,266.0
+50,Female,56,178,Yoga,80,186.67
+42,Male,94,159,Walking,85,466.08
+56,Male,63,171,Yoga,55,144.38
+44,Male,67,153,Running,80,875.47
+48,Female,85,159,Cycling,30,340.0
+33,Female,94,177,Running,55,844.43
+27,Female,49,154,Walking,35,100.04
+18,Male,99,176,Cycling,10,132.0
+45,Male,78,184,Walking,50,227.5
+49,Male,89,165,Walking,90,467.25
+51,Male,57,174,Cycling,50,380.0
+31,Male,85,178,Running,70,971.83
+37,Female,85,170,Running,20,277.67
+22,Male,54,161,Jump rope,15,166.05
+55,Female,46,182,Yoga,20,38.33
+23,Male,74,159,Cycling,35,345.33
+31,Female,93,184,Walking,50,271.25
+46,Male,66,190,Swimming,65,500.5
+29,Female,95,187,Cycling,75,950.0
+23,Female,58,164,Cycling,25,193.33
+60,Female,50,189,Walking,55,160.42
+41,Male,67,154,Running,90,984.9
+47,Female,84,188,Yoga,50,175.0
+20,Female,68,184,Cycling,30,272.0
+47,Female,87,150,Walking,80,406.0
+18,Female,60,178,Walking,20,70.0
+47,Female,94,171,Yoga,25,97.92
+55,Male,54,160,Swimming,15,94.5
+20,Male,57,161,Cycling,45,342.0
+27,Female,97,178,Jump rope,25,497.13
+43,Male,84,175,Cycling,75,840.0
+26,Male,74,162,Swimming,10,86.33
+19,Male,88,175,Swimming,75,770.0
+28,Male,75,166,Walking,45,196.88
+35,Female,56,158,Running,20,182.93
+55,Male,64,157,Cycling,80,682.67
+22,Male,98,160,Walking,70,400.17
+48,Female,55,174,Yoga,25,57.29
+53,Female,78,158,Jump rope,75,1199.25
+28,Male,58,165,Jump rope,70,832.3
+39,Female,69,161,Running,90,1014.3
+24,Female,54,176,Cycling,70,504.0
+31,Female,80,152,Cycling,65,693.33
+60,Female,76,190,Walking,80,354.67
+34,Female,48,167,Running,45,352.8
+33,Male,94,163,Walking,40,219.33
+37,Male,79,188,Swimming,90,829.5
+36,Female,97,162,Walking,60,339.5
+18,Female,77,165,Cycling,85,872.67
+24,Female,89,182,Yoga,55,203.96
+42,Female,85,160,Running,70,971.83
+43,Male,93,154,Yoga,85,329.38
+22,Female,50,189,Running,40,326.67
+58,Female,70,186,Running,50,571.67
+38,Male,86,170,Walking,80,401.33
+33,Male,59,172,Running,10,96.37
+18,Female,88,168,Jump rope,60,1082.4
+22,Male,100,173,Yoga,75,312.5
+18,Female,74,182,Swimming,80,690.67
+36,Male,68,164,Yoga,75,212.5
+58,Female,45,168,Swimming,20,105.0
+26,Male,75,176,Jump rope,30,461.25
+52,Female,64,169,Jump rope,70,918.4
+25,Male,75,171,Running,20,245.0
+20,Male,95,164,Running,90,1396.5
+55,Male,93,169,Cycling,75,930.0
+18,Female,80,164,Yoga,75,250.0
+59,Male,75,190,Yoga,75,234.38
+43,Female,100,183,Cycling,50,666.67
+45,Female,52,170,Cycling,35,242.67
+30,Female,100,189,Jump rope,80,1640.0
+31,Female,91,186,Yoga,25,94.79
+54,Male,58,182,Swimming,15,101.5
+45,Female,98,156,Cycling,75,980.0
+30,Female,85,153,Jump rope,30,522.75
+59,Male,86,188,Jump rope,60,1057.8
+51,Female,51,187,Running,15,124.95
+24,Male,57,180,Cycling,55,418.0
+33,Female,69,182,Jump rope,90,1273.05
+60,Female,48,175,Yoga,40,80.0
+26,Female,69,190,Walking,15,60.38
+46,Male,77,153,Yoga,45,144.38
+59,Male,89,151,Running,85,1235.62
+35,Female,82,163,Walking,85,406.58
+57,Female,99,171,Running,10,161.7
+29,Male,65,169,Yoga,65,176.04
+40,Male,59,184,Cycling,15,118.0
+55,Male,53,181,Jump rope,10,108.65
+20,Male,99,187,Running,15,242.55
+51,Female,84,161,Walking,30,147.0
+50,Female,62,160,Swimming,90,651.0
+60,Male,97,180,Yoga,40,161.67
+49,Female,54,181,Jump rope,10,110.7
+33,Female,61,167,Jump rope,15,187.58
+49,Male,97,151,Swimming,75,848.75
+47,Female,82,167,Cycling,90,984.0
+38,Male,93,175,Jump rope,85,1620.53
+36,Male,73,168,Swimming,65,553.58
+26,Male,52,179,Swimming,25,151.67
+41,Female,86,178,Yoga,40,143.33
+31,Female,87,184,Running,80,1136.8
+32,Male,46,173,Cycling,25,153.33
+54,Male,95,157,Yoga,10,39.58
+40,Male,63,190,Walking,60,220.5
+50,Female,58,157,Swimming,60,406.0
+27,Female,51,155,Swimming,45,267.75
+26,Male,99,163,Walking,65,375.38
+34,Male,98,159,Running,70,1120.47
+18,Male,85,158,Yoga,20,70.83
+18,Male,94,182,Swimming,30,329.0
+41,Male,95,154,Jump rope,90,1752.75
+18,Female,67,181,Yoga,10,27.92
+49,Male,100,185,Yoga,85,354.17
+20,Female,86,160,Yoga,35,125.42
+30,Male,63,168,Swimming,10,73.5
+23,Male,76,152,Cycling,45,456.0
+38,Male,99,171,Swimming,85,981.75
+28,Male,79,154,Yoga,10,32.92
+32,Female,66,156,Jump rope,85,1150.05
+18,Female,52,155,Cycling,45,312.0
+40,Female,52,179,Jump rope,40,426.4
+35,Male,96,167,Yoga,25,100.0
+36,Female,69,164,Running,30,338.1
+23,Female,51,173,Swimming,45,267.75
+19,Female,82,186,Swimming,70,669.67
+45,Female,61,161,Walking,55,195.71
+45,Male,66,176,Cycling,80,704.0
+24,Female,81,167,Cycling,25,270.0
+19,Female,77,186,Swimming,75,673.75
+18,Female,46,164,Walking,65,174.42
+39,Male,86,153,Yoga,60,215.0
+22,Female,76,160,Walking,20,88.67
+44,Female,69,168,Swimming,60,483.0
+41,Male,75,159,Cycling,70,700.0
+36,Female,45,156,Yoga,65,121.87
+43,Female,59,167,Swimming,25,172.08
+59,Female,72,174,Jump rope,20,295.2
+39,Female,55,174,Cycling,40,293.33
+38,Male,74,187,Yoga,40,123.33
+59,Female,89,168,Walking,70,363.42
+31,Male,70,165,Cycling,30,280.0
+19,Male,63,187,Swimming,45,330.75
+19,Male,60,165,Running,40,392.0
+30,Male,69,167,Swimming,30,241.5
+52,Female,70,152,Jump rope,30,430.5
+34,Male,78,189,Jump rope,40,639.6
+29,Female,53,188,Swimming,50,309.17
+25,Male,53,175,Swimming,85,525.58
+19,Male,57,171,Jump rope,60,701.1
+43,Male,47,156,Cycling,65,407.33
+37,Female,73,155,Yoga,90,273.75
+27,Female,68,172,Walking,25,99.17
+56,Male,73,157,Yoga,30,91.25
+54,Male,91,183,Jump rope,70,1305.85
+60,Male,59,163,Swimming,30,206.5
+36,Female,70,188,Walking,20,81.67
+30,Female,84,167,Walking,70,343.0
+21,Female,86,178,Walking,70,351.17
+37,Male,65,151,Running,50,530.83
+29,Male,88,178,Walking,65,333.67
+43,Male,72,175,Cycling,85,816.0
+47,Male,53,172,Walking,45,139.12
+32,Male,95,184,Walking,35,193.96
+35,Male,93,186,Running,10,151.9
+56,Female,61,175,Swimming,50,355.83
+23,Male,68,189,Cycling,65,589.33
+20,Male,94,168,Jump rope,25,481.75
+55,Male,69,161,Walking,65,261.62
+50,Female,94,182,Jump rope,30,578.1
+18,Female,55,157,Cycling,45,330.0
+37,Female,54,190,Jump rope,60,664.2
+37,Male,93,174,Running,20,303.8
+19,Female,81,169,Jump rope,45,747.23
+60,Male,51,172,Cycling,55,374.0
+41,Male,57,167,Walking,70,232.75
+29,Female,93,158,Jump rope,85,1620.53
+53,Female,55,188,Jump rope,65,732.88
+44,Male,74,180,Jump rope,40,606.8
+22,Male,77,172,Walking,80,359.33
+49,Male,68,163,Walking,60,238.0
+54,Male,70,157,Cycling,30,280.0
+22,Female,97,157,Walking,10,56.58
+27,Female,81,171,Cycling,50,540.0
+29,Female,99,162,Cycling,55,726.0
+56,Female,61,166,Jump rope,35,437.68
+23,Female,48,183,Cycling,55,352.0
+41,Male,68,175,Yoga,75,212.5
+27,Male,67,180,Running,40,437.73
+42,Male,91,187,Yoga,40,151.67
+53,Female,79,175,Yoga,45,148.12
+60,Female,87,160,Cycling,90,1044.0
+34,Female,58,188,Walking,50,169.17
+18,Male,62,150,Yoga,25,64.58
+21,Female,66,171,Walking,90,346.5
+25,Male,45,185,Yoga,20,37.5
+19,Female,58,177,Cycling,70,541.33
+52,Female,91,156,Walking,40,212.33
+43,Male,60,156,Walking,30,105.0
+36,Female,74,178,Yoga,60,185.0
+54,Male,99,157,Swimming,45,519.75
+31,Male,50,185,Swimming,65,379.17
+25,Male,61,184,Running,20,199.27
+21,Male,88,166,Swimming,10,102.67
+31,Male,89,172,Jump rope,60,1094.7
+34,Male,59,173,Jump rope,90,1088.55
+18,Female,91,186,Jump rope,30,559.65
+46,Male,55,175,Walking,65,208.54
+56,Male,96,159,Cycling,10,128.0
+45,Male,82,150,Swimming,90,861.0
+33,Female,61,183,Yoga,65,165.21
+29,Female,68,168,Swimming,65,515.67
+30,Male,68,187,Running,85,944.07
+56,Female,57,170,Running,85,791.35
+23,Female,55,189,Swimming,25,160.42
+31,Female,59,185,Jump rope,40,483.8
+48,Male,57,162,Running,60,558.6
+37,Female,77,162,Yoga,60,192.5
+52,Female,99,172,Running,55,889.35
+55,Female,59,153,Walking,55,189.29
+37,Male,63,177,Walking,75,275.62
+28,Male,50,150,Swimming,45,262.5
+33,Male,46,187,Swimming,65,348.83
+39,Male,59,166,Yoga,50,122.92
+35,Male,77,152,Yoga,80,256.67
+44,Female,97,168,Swimming,10,113.17
+43,Female,96,158,Swimming,20,224.0
+32,Male,54,180,Jump rope,35,387.45
+28,Female,84,172,Swimming,80,784.0
+31,Male,92,170,Running,50,751.33
+55,Male,79,184,Yoga,85,279.79
+49,Female,90,175,Swimming,25,262.5
+59,Male,74,161,Running,75,906.5
+56,Female,69,170,Running,60,676.2
+40,Female,89,167,Cycling,85,1008.67
+38,Male,85,160,Yoga,60,212.5
+26,Male,54,157,Cycling,15,108.0
+45,Female,47,151,Cycling,45,282.0
+50,Male,95,169,Running,90,1396.5
+35,Male,48,177,Walking,75,210.0
+18,Female,47,181,Walking,55,150.79
+29,Female,80,182,Walking,60,280.0
+60,Male,69,184,Yoga,75,215.62
+47,Male,74,157,Yoga,70,215.83
+50,Male,89,171,Swimming,70,726.83
+45,Female,67,182,Running,30,328.3
+26,Female,53,178,Jump rope,45,488.93
+25,Female,81,189,Cycling,60,648.0
+32,Male,92,190,Walking,40,214.67
+57,Female,80,186,Running,40,522.67
+27,Female,64,184,Swimming,65,485.33
+59,Female,57,165,Cycling,60,456.0
+45,Male,71,160,Running,65,753.78
+55,Male,85,150,Swimming,55,545.42
+32,Female,55,176,Jump rope,85,958.38
+32,Female,54,174,Walking,90,283.5
+57,Female,94,181,Walking,75,411.25
+58,Male,81,180,Cycling,65,702.0
+18,Male,87,163,Walking,30,152.25
+24,Male,65,158,Swimming,10,75.83
+37,Male,47,179,Walking,15,41.12
+43,Male,64,174,Cycling,85,725.33
+37,Male,94,158,Jump rope,55,1059.85
+44,Female,55,190,Swimming,70,449.17
+45,Female,100,178,Running,65,1061.67
+19,Female,73,184,Cycling,65,632.67
+58,Male,75,179,Swimming,70,612.5
+20,Male,71,164,Jump rope,60,873.3
+52,Male,92,175,Swimming,70,751.33
+30,Female,98,179,Swimming,25,285.83
+34,Male,46,180,Yoga,45,86.25
+40,Female,96,176,Yoga,80,320.0
+47,Female,69,187,Yoga,75,215.62
+44,Female,88,176,Yoga,50,183.33
+48,Female,68,188,Cycling,15,136.0
+54,Male,63,161,Yoga,75,196.88
+29,Male,67,172,Cycling,40,357.33
+34,Female,74,171,Yoga,50,154.17
+35,Female,57,178,Cycling,15,114.0
+55,Male,49,160,Walking,60,171.5
+27,Female,100,160,Walking,85,495.83
+31,Female,71,189,Yoga,55,162.71
+53,Male,58,154,Jump rope,55,653.95
+20,Male,72,160,Running,75,882.0
+40,Male,91,178,Jump rope,10,186.55
+56,Male,90,162,Yoga,40,150.0
+18,Male,58,176,Cycling,15,116.0
+44,Male,45,178,Yoga,60,112.5
+19,Male,75,190,Running,65,796.25
+27,Male,85,181,Yoga,45,159.38
+56,Male,91,167,Jump rope,65,1212.57
+25,Female,97,155,Jump rope,30,596.55
+60,Male,82,167,Walking,40,191.33
+43,Male,76,161,Swimming,65,576.33
+47,Female,78,178,Cycling,75,780.0
+44,Male,77,150,Cycling,45,462.0
+28,Male,70,151,Jump rope,80,1148.0
+54,Female,79,178,Swimming,20,184.33
+31,Male,53,190,Cycling,75,530.0
+39,Male,46,175,Cycling,85,521.33
+58,Male,45,188,Cycling,90,540.0
+47,Male,86,152,Jump rope,80,1410.4
+29,Female,51,170,Running,30,249.9
+47,Female,58,188,Running,90,852.6
+47,Female,79,172,Running,65,838.72
+51,Male,45,189,Swimming,15,78.75
+19,Male,98,181,Swimming,65,743.17
+28,Male,51,159,Yoga,35,74.38
+24,Male,79,181,Swimming,10,92.17
+54,Male,95,157,Swimming,80,886.67
+40,Male,72,166,Cycling,85,816.0
+43,Male,64,186,Cycling,90,768.0
+22,Female,83,153,Swimming,55,532.58
+44,Male,52,169,Yoga,90,195.0
+35,Female,97,184,Walking,30,169.75
+30,Female,75,178,Swimming,65,568.75
+20,Male,48,175,Jump rope,30,295.2
+36,Male,49,172,Yoga,35,71.46
+22,Male,75,154,Swimming,50,437.5
+45,Female,45,162,Jump rope,80,738.0
+47,Male,59,183,Running,60,578.2
+49,Male,61,185,Jump rope,40,500.2
+24,Male,65,179,Walking,50,189.58
+29,Female,64,161,Running,75,784.0
+28,Male,77,151,Jump rope,30,473.55
+31,Male,49,185,Running,70,560.23
+59,Female,78,172,Jump rope,20,319.8
+54,Female,83,170,Cycling,70,774.67
+60,Female,51,177,Jump rope,10,104.55
+58,Female,55,187,Running,75,673.75
+48,Male,98,180,Cycling,45,588.0
+40,Male,80,151,Cycling,80,853.33
+59,Male,48,150,Jump rope,10,98.4
+56,Female,70,168,Cycling,90,840.0
+42,Male,70,174,Cycling,90,840.0
+51,Female,57,184,Cycling,30,228.0
+59,Female,54,183,Swimming,60,378.0
+22,Male,90,169,Running,50,735.0
+60,Male,81,157,Yoga,25,84.38
+29,Female,90,151,Swimming,80,840.0
+19,Male,71,175,Walking,50,207.08
+38,Male,85,159,Cycling,80,906.67
+24,Female,55,187,Walking,75,240.62
+44,Male,73,157,Walking,40,170.33
+28,Female,59,162,Walking,35,120.46
+34,Male,63,190,Cycling,55,462.0
+58,Male,52,174,Yoga,65,140.83
+46,Male,57,169,Swimming,60,399.0
+32,Male,94,155,Running,10,153.53
+51,Male,63,175,Swimming,40,294.0
+33,Male,66,163,Cycling,70,616.0
+38,Female,94,177,Running,35,537.37
+49,Male,53,177,Running,50,432.83
+20,Male,51,186,Running,15,124.95
+20,Male,66,181,Cycling,15,132.0
+38,Male,85,169,Swimming,85,842.92
+38,Male,71,164,Yoga,45,133.12
+32,Male,81,188,Walking,20,94.5
+39,Female,63,172,Walking,70,257.25
+29,Male,47,186,Yoga,30,58.75
+54,Male,54,171,Jump rope,15,166.05
+38,Female,95,164,Jump rope,40,779.0
+43,Female,77,173,Walking,25,112.29
+29,Female,83,189,Swimming,80,774.67
+30,Male,90,155,Yoga,15,56.25
+55,Female,66,187,Running,60,646.8
+48,Female,92,182,Swimming,85,912.33
+54,Male,88,184,Walking,55,282.33
+25,Male,57,157,Jump rope,40,467.4
+30,Male,47,162,Walking,80,219.33
+37,Female,88,188,Walking,85,436.33
+49,Female,61,176,Swimming,70,498.17
+44,Male,66,157,Cycling,65,572.0
+53,Female,80,155,Yoga,65,216.67
+26,Male,55,166,Jump rope,30,338.25
+18,Male,69,190,Jump rope,35,495.08
+18,Female,66,163,Yoga,70,192.5
+51,Male,49,177,Walking,85,242.96
+56,Male,85,162,Jump rope,65,1132.62
+41,Male,60,153,Swimming,50,350.0
+58,Female,52,173,Jump rope,55,586.3
+19,Male,76,170,Jump rope,50,779.0
+30,Male,87,163,Walking,60,304.5
+25,Male,88,153,Swimming,55,564.67
+23,Female,63,162,Yoga,20,52.5
+56,Female,86,154,Walking,40,200.67
+50,Female,85,167,Cycling,40,453.33
+37,Male,96,180,Jump rope,50,984.0
+21,Male,67,188,Yoga,45,125.62
+32,Male,86,164,Cycling,35,401.33
+42,Female,53,190,Walking,65,200.96
+49,Female,81,164,Swimming,40,378.0
+58,Male,55,166,Jump rope,75,845.62
+46,Female,73,180,Swimming,50,425.83
+32,Female,67,169,Yoga,65,181.46
+21,Female,65,170,Cycling,60,520.0
+50,Female,63,181,Walking,60,220.5
+60,Female,50,176,Yoga,70,145.83
+58,Male,51,186,Yoga,55,116.88
+18,Male,65,169,Jump rope,10,133.25
+28,Female,55,177,Swimming,55,352.92
+60,Female,46,163,Swimming,70,375.67
+42,Female,93,177,Cycling,35,434.0
+23,Male,89,187,Walking,15,77.88
+50,Male,90,169,Cycling,25,300.0
+25,Male,69,181,Jump rope,85,1202.33
+24,Male,51,155,Running,80,666.4
+53,Female,75,155,Swimming,50,437.5
+30,Male,77,164,Swimming,50,449.17
+43,Female,93,172,Yoga,30,116.25
+44,Female,70,189,Jump rope,50,717.5
+52,Female,72,157,Walking,35,147.0
+42,Male,55,182,Yoga,75,171.88
+33,Female,70,165,Cycling,90,840.0
+19,Male,88,151,Jump rope,35,631.4
+24,Female,85,169,Yoga,65,230.21
+28,Male,71,162,Jump rope,25,363.88
+37,Male,62,182,Yoga,70,180.83
+42,Male,76,183,Yoga,90,285.0
+35,Female,54,171,Yoga,90,202.5
+34,Male,56,178,Walking,20,65.33
+45,Female,52,152,Cycling,20,138.67
+59,Male,83,169,Swimming,10,96.83
+22,Female,69,158,Walking,25,100.62
+32,Female,91,151,Swimming,40,424.67
+37,Male,77,188,Yoga,50,160.42
+27,Male,51,177,Swimming,60,357.0
+48,Male,58,174,Cycling,70,541.33
+20,Male,77,182,Jump rope,15,236.78
+26,Female,50,150,Jump rope,15,153.75
+20,Female,67,182,Walking,45,175.88
+54,Female,84,168,Swimming,25,245.0
+20,Female,72,178,Jump rope,50,738.0
+27,Male,84,150,Yoga,20,70.0
+28,Male,72,182,Swimming,70,588.0
+46,Female,56,181,Cycling,45,336.0
+53,Female,62,156,Walking,10,36.17
+60,Female,53,173,Yoga,85,187.71
+35,Male,91,157,Running,60,891.8
+23,Female,84,160,Cycling,35,392.0
+45,Male,76,170,Jump rope,50,779.0
+46,Female,60,178,Walking,40,140.0
+32,Male,64,168,Walking,60,224.0
+20,Male,95,163,Yoga,25,98.96
+30,Female,76,188,Running,75,931.0
+44,Female,92,169,Walking,70,375.67
+40,Female,100,180,Walking,55,320.83
+43,Female,89,168,Jump rope,70,1277.15
+59,Female,79,159,Cycling,35,368.67
+41,Female,64,151,Cycling,85,725.33
+56,Male,64,179,Yoga,50,133.33
+29,Female,85,151,Jump rope,75,1306.88
+58,Female,52,150,Cycling,70,485.33
+39,Female,71,158,Swimming,35,289.92
+51,Male,58,179,Cycling,65,502.67
+22,Female,53,169,Yoga,75,165.62
+30,Male,53,150,Cycling,45,318.0
+47,Male,93,160,Swimming,75,813.75
+33,Male,66,180,Yoga,35,96.25
+25,Female,60,177,Yoga,50,125.0
+30,Male,80,163,Walking,65,303.33
+33,Male,60,169,Running,90,882.0
+19,Female,82,158,Running,75,1004.5
+50,Male,57,160,Cycling,70,532.0
+19,Male,51,167,Yoga,90,191.25
+18,Male,49,157,Walking,25,71.46
+33,Female,61,176,Walking,50,177.92
+22,Female,78,175,Yoga,70,227.5
+41,Female,97,178,Cycling,10,129.33
+57,Male,86,154,Yoga,30,107.5
+46,Male,85,155,Jump rope,45,784.12
+25,Male,60,180,Yoga,50,125.0
+33,Female,86,174,Swimming,65,652.17
+30,Female,96,154,Running,35,548.8
+25,Female,82,164,Walking,55,263.08
+37,Male,86,152,Walking,35,175.58
+56,Female,61,166,Running,85,846.88
+53,Female,99,174,Yoga,50,206.25
+32,Male,56,166,Cycling,10,74.67
+22,Male,59,187,Cycling,85,668.67
+53,Male,87,172,Cycling,15,174.0
+29,Female,96,173,Jump rope,65,1279.2
+36,Male,69,173,Running,75,845.25
+37,Female,91,181,Running,70,1040.43
+20,Male,60,174,Jump rope,55,676.5
+41,Male,47,181,Cycling,80,501.33
+44,Male,97,189,Walking,20,113.17
+27,Female,46,186,Swimming,60,322.0
+55,Male,59,153,Running,10,96.37
+41,Male,72,159,Swimming,20,168.0
+51,Male,70,175,Swimming,90,735.0
+37,Female,56,159,Running,75,686.0
+18,Female,75,186,Running,30,367.5
+54,Female,91,161,Jump rope,40,746.2
+30,Female,82,151,Jump rope,90,1512.9
+27,Female,50,177,Cycling,40,266.67
+40,Female,82,160,Cycling,55,601.33
+31,Female,63,164,Walking,60,220.5
+60,Female,85,187,Yoga,35,123.96
+59,Male,68,159,Cycling,90,816.0
+54,Male,98,179,Walking,70,400.17
+59,Male,56,190,Swimming,45,294.0
+28,Female,94,161,Yoga,70,274.17
+49,Male,60,178,Yoga,80,200.0
+28,Female,69,153,Cycling,10,92.0
+39,Male,81,164,Cycling,60,648.0
+34,Male,85,167,Yoga,40,141.67
+23,Female,81,177,Yoga,20,67.5
+56,Male,46,159,Yoga,55,105.42
+54,Male,54,180,Jump rope,35,387.45
+32,Female,73,173,Walking,65,276.79
+45,Female,55,182,Running,30,269.5
+57,Female,79,158,Walking,30,138.25
+27,Male,62,182,Yoga,30,77.5
+56,Male,60,178,Swimming,45,315.0
+40,Female,61,165,Cycling,90,732.0
+29,Male,64,186,Swimming,50,373.33
+44,Female,99,170,Yoga,60,247.5
+21,Female,93,161,Walking,40,217.0
+53,Male,68,161,Jump rope,30,418.2
+21,Female,66,187,Yoga,15,41.25
+48,Male,98,157,Cycling,25,326.67
+43,Female,58,174,Jump rope,35,416.15
+60,Female,74,182,Running,70,846.07
+39,Male,55,183,Jump rope,60,676.5
+33,Female,71,159,Cycling,40,378.67
+20,Male,55,187,Yoga,40,91.67
+25,Male,72,183,Swimming,20,168.0
+27,Male,70,185,Yoga,90,262.5
+35,Male,76,183,Yoga,10,31.67
+20,Male,83,187,Running,75,1016.75
+18,Male,94,169,Running,30,460.6
+55,Male,50,168,Swimming,75,437.5
+42,Male,86,161,Walking,20,100.33
+56,Male,49,171,Cycling,35,228.67
+47,Female,55,171,Jump rope,60,676.5
+31,Male,62,160,Yoga,85,219.58
+48,Male,84,156,Jump rope,60,1033.2
+18,Female,74,159,Running,55,664.77
+39,Female,82,155,Jump rope,30,504.3
+36,Female,69,183,Walking,30,120.75
+56,Female,77,155,Swimming,80,718.67
+45,Male,70,176,Swimming,30,245.0
+27,Male,57,161,Walking,20,66.5
+55,Male,53,172,Cycling,65,459.33
+40,Female,99,170,Cycling,35,462.0
+57,Female,91,178,Jump rope,20,373.1
+59,Male,61,156,Walking,75,266.88
+18,Female,49,180,Jump rope,70,703.15
+58,Male,84,163,Yoga,90,315.0
+38,Male,99,169,Cycling,50,660.0
+39,Male,74,184,Walking,30,129.5
+53,Male,54,175,Yoga,20,45.0
+19,Male,46,186,Walking,40,107.33
+58,Male,58,169,Yoga,20,48.33
+30,Male,100,157,Jump rope,10,205.0
+20,Male,89,181,Walking,35,181.71
+48,Male,78,183,Running,75,955.5
+50,Male,68,189,Jump rope,65,906.1
+45,Male,64,186,Jump rope,15,196.8
+40,Female,91,172,Cycling,25,303.33
+38,Male,95,155,Swimming,60,665.0
+26,Female,81,174,Running,10,132.3
+39,Female,67,172,Cycling,25,223.33
+29,Male,95,176,Jump rope,10,194.75
+25,Male,65,162,Walking,70,265.42
+24,Female,56,179,Running,50,457.33
+44,Male,76,186,Jump rope,45,701.1
+52,Male,78,177,Jump rope,30,479.7
+51,Female,91,171,Walking,70,371.58
+57,Female,55,168,Swimming,45,288.75
+27,Male,67,168,Walking,30,117.25
+49,Female,95,153,Walking,50,277.08
+22,Male,90,183,Jump rope,75,1383.75
+55,Male,96,180,Running,30,470.4
+19,Male,45,182,Running,65,477.75
+44,Female,63,171,Jump rope,85,1097.78
+38,Female,92,167,Walking,15,80.5
+27,Male,65,169,Walking,75,284.38
+46,Female,46,179,Walking,10,26.83
+27,Male,66,159,Running,50,539.0
+41,Male,96,156,Jump rope,65,1279.2
+39,Female,53,180,Cycling,10,70.67
+60,Female,79,182,Swimming,50,460.83
+57,Male,75,152,Walking,15,65.62
+59,Female,72,177,Yoga,65,195.0
+53,Female,91,187,Yoga,20,75.83
+18,Male,72,169,Cycling,90,864.0
+57,Male,56,155,Jump rope,10,114.8
+49,Female,59,156,Yoga,55,135.21
+32,Male,56,182,Swimming,20,130.67
+41,Female,70,170,Yoga,50,145.83
+30,Female,87,178,Cycling,90,1044.0
+25,Female,68,185,Jump rope,50,697.0
+33,Female,49,161,Running,10,80.03
+18,Female,47,180,Cycling,15,94.0
+44,Female,60,160,Yoga,75,187.5
+40,Male,80,172,Jump rope,30,492.0
+23,Male,58,156,Walking,10,33.83
+43,Male,79,155,Running,90,1161.3
+39,Female,58,157,Yoga,45,108.75
+55,Female,81,178,Walking,20,94.5
+33,Female,86,164,Cycling,10,114.67
+41,Female,87,176,Running,30,426.3
+39,Female,49,159,Jump rope,50,502.25
+43,Female,82,178,Cycling,70,765.33
+29,Female,63,190,Yoga,55,144.38
+41,Male,53,179,Cycling,60,424.0
+28,Female,86,168,Walking,75,376.25
+46,Female,97,167,Walking,15,84.88
+50,Male,98,180,Swimming,55,628.83
+58,Male,98,186,Swimming,65,743.17
+38,Female,45,181,Swimming,25,131.25
+42,Male,91,151,Cycling,80,970.67
+40,Male,100,172,Jump rope,55,1127.5
+46,Male,49,178,Swimming,40,228.67
+22,Female,97,179,Yoga,10,40.42
+23,Male,64,171,Jump rope,75,984.0
+56,Female,72,165,Walking,30,126.0
+36,Male,94,152,Walking,60,329.0
+50,Female,86,156,Walking,85,426.42
+47,Female,65,175,Jump rope,40,533.0
+21,Female,95,153,Jump rope,15,292.12
+35,Female,46,152,Cycling,90,552.0
+58,Female,54,164,Swimming,90,567.0
+35,Male,70,164,Cycling,40,373.33
+21,Male,99,157,Jump rope,70,1420.65
+32,Male,57,185,Jump rope,55,642.67
+35,Male,65,150,Swimming,70,530.83
+55,Male,49,180,Swimming,75,428.75
+23,Male,61,176,Cycling,25,203.33
+41,Female,54,167,Running,80,705.6
+52,Female,47,162,Yoga,65,127.29
+50,Male,94,180,Swimming,55,603.17
+41,Male,56,175,Cycling,55,410.67
+38,Female,58,166,Cycling,35,270.67
+19,Female,100,181,Walking,45,262.5
+44,Male,95,174,Jump rope,20,389.5
+46,Female,61,184,Swimming,50,355.83
+18,Female,81,179,Swimming,65,614.25
+26,Female,60,152,Walking,60,210.0
+35,Female,72,157,Swimming,60,504.0
+18,Male,71,167,Jump rope,85,1237.18
+34,Female,83,165,Walking,20,96.83
+20,Female,91,184,Swimming,60,637.0
+23,Male,82,181,Walking,70,334.83
+31,Female,67,190,Yoga,80,223.33
+27,Female,75,156,Yoga,90,281.25
+27,Male,60,150,Running,40,392.0
+35,Female,66,158,Walking,15,57.75
+32,Female,99,184,Running,90,1455.3
+39,Male,83,180,Cycling,55,608.67
+49,Male,78,185,Running,10,127.4
+42,Female,57,185,Walking,45,149.62
+37,Male,99,162,Running,45,727.65
+51,Male,54,186,Walking,80,252.0
+27,Female,48,164,Running,80,627.2
+40,Male,83,153,Jump rope,55,935.83
+47,Male,82,151,Swimming,10,95.67
+55,Male,46,183,Cycling,75,460.0
+27,Female,87,167,Walking,90,456.75
+23,Female,81,166,Running,35,463.05
+29,Male,67,172,Walking,10,39.08
+23,Male,60,180,Walking,60,210.0
+49,Male,54,165,Cycling,65,468.0
+19,Male,45,178,Cycling,15,90.0
+42,Female,75,155,Swimming,25,218.75
+24,Female,59,170,Cycling,25,196.67
+35,Male,75,164,Walking,35,153.12
+50,Female,89,189,Swimming,30,311.5
+39,Female,80,190,Running,65,849.33
+53,Female,46,158,Cycling,20,122.67
+36,Male,63,175,Yoga,80,210.0
+40,Male,48,151,Swimming,65,364.0
+43,Female,69,182,Jump rope,55,777.98
+52,Male,62,166,Cycling,35,289.33
+54,Female,94,178,Yoga,20,78.33
+31,Female,68,189,Jump rope,20,278.8
+60,Female,84,172,Swimming,30,294.0
+46,Female,89,156,Running,70,1017.57
+29,Female,95,184,Running,10,155.17
+22,Female,86,175,Cycling,25,286.67
+42,Female,61,167,Yoga,45,114.38
+26,Male,100,165,Running,70,1143.33
+39,Female,62,160,Running,50,506.33
+47,Male,47,162,Cycling,15,94.0
+45,Male,87,155,Running,80,1136.8
+26,Male,50,185,Walking,10,29.17
+39,Female,95,185,Walking,30,166.25
+27,Male,56,160,Swimming,35,228.67
+19,Female,98,171,Running,20,320.13
+32,Male,67,164,Running,65,711.32
+38,Male,78,186,Jump rope,90,1439.1
+47,Male,58,162,Yoga,40,96.67
+60,Female,45,177,Swimming,30,157.5
+50,Male,45,174,Cycling,15,90.0
+54,Female,92,156,Jump rope,70,1320.2
+59,Female,97,167,Walking,40,226.33
+47,Female,89,186,Yoga,70,259.58
+27,Female,78,183,Yoga,45,146.25
+52,Male,61,174,Cycling,80,650.67
+30,Male,67,153,Walking,45,175.88
+23,Female,98,153,Running,50,800.33
+32,Female,90,153,Cycling,75,900.0
+37,Female,62,164,Swimming,70,506.33
+43,Male,57,174,Walking,80,266.0
+24,Male,80,181,Swimming,10,93.33
+45,Male,91,153,Cycling,50,606.67
+37,Male,88,178,Running,45,646.8
+20,Male,75,190,Swimming,70,612.5
+51,Male,70,168,Running,20,228.67
+48,Male,59,169,Jump rope,25,302.38
+38,Male,75,150,Running,30,367.5
+45,Female,64,180,Running,55,574.93
+37,Female,69,166,Swimming,50,402.5
+31,Female,49,180,Running,50,400.17
+31,Female,47,156,Running,10,76.77
+30,Female,83,153,Swimming,45,435.75
+21,Female,64,169,Running,65,679.47
+37,Female,59,184,Cycling,85,668.67
+37,Male,93,170,Swimming,60,651.0
+47,Male,53,187,Running,45,389.55
+25,Male,85,167,Yoga,65,230.21
+50,Female,72,160,Jump rope,20,295.2
+39,Male,86,166,Walking,15,75.25
+51,Male,70,186,Swimming,60,490.0
+49,Female,88,190,Cycling,40,469.33
+26,Female,70,158,Cycling,25,233.33
+32,Male,68,187,Yoga,45,127.5
+41,Male,57,185,Running,80,744.8
+52,Female,100,171,Running,50,816.67
+25,Male,79,159,Yoga,60,197.5
+22,Female,72,176,Yoga,40,120.0
+56,Male,48,185,Running,15,117.6
+50,Female,62,188,Swimming,40,289.33
+37,Female,80,159,Walking,45,210.0
+55,Female,93,155,Walking,35,189.88
+57,Male,61,167,Cycling,60,488.0
+52,Male,87,165,Yoga,30,108.75
+32,Male,60,151,Walking,65,227.5
+18,Female,100,172,Jump rope,40,820.0
+25,Male,93,155,Yoga,70,271.25
+51,Female,80,189,Cycling,70,746.67
+52,Female,99,158,Walking,20,115.5
+18,Female,45,152,Running,65,477.75
+55,Female,59,150,Yoga,50,122.92
+47,Male,62,151,Yoga,35,90.42
+20,Male,80,158,Swimming,30,280.0
+33,Female,73,170,Jump rope,65,972.73
+47,Female,51,184,Running,30,249.9
+48,Female,49,161,Cycling,90,588.0
+44,Female,62,171,Jump rope,65,826.15
+40,Female,61,173,Walking,10,35.58
+55,Female,60,176,Cycling,80,640.0
+54,Male,70,176,Running,40,457.33
+32,Female,53,159,Cycling,80,565.33
+18,Female,57,188,Running,40,372.4
+45,Male,53,168,Running,30,259.7
+56,Male,99,182,Jump rope,60,1217.7
+55,Female,55,180,Running,30,269.5
+32,Female,88,171,Jump rope,90,1623.6
+44,Female,69,185,Running,15,169.05
+28,Female,72,153,Walking,70,294.0
+18,Male,79,170,Yoga,10,32.92
+47,Female,71,150,Swimming,15,124.25
+38,Female,94,157,Cycling,60,752.0
+42,Male,79,181,Jump rope,25,404.88
+54,Female,48,168,Cycling,15,96.0
+39,Male,96,184,Jump rope,55,1082.4
+57,Male,79,159,Swimming,15,138.25
+37,Male,52,174,Running,75,637.0
+31,Male,95,155,Cycling,90,1140.0
+35,Male,74,185,Cycling,80,789.33
+31,Male,83,157,Swimming,25,242.08
+29,Male,53,155,Cycling,55,388.67
+42,Female,50,154,Cycling,60,400.0
+32,Male,49,187,Walking,25,71.46
+41,Female,54,164,Yoga,85,191.25
+32,Male,79,178,Walking,20,92.17
+29,Male,85,185,Cycling,85,963.33
+24,Male,65,167,Running,85,902.42
+58,Female,52,156,Swimming,55,333.67
+35,Female,55,175,Running,40,359.33
+30,Female,46,158,Swimming,45,241.5
+31,Female,55,160,Walking,10,32.08
+21,Female,95,169,Cycling,50,633.33
+27,Male,83,189,Walking,70,338.92
+60,Male,89,156,Jump rope,30,547.35
+22,Female,52,186,Running,15,127.4
+19,Male,74,170,Jump rope,55,834.35
+28,Male,46,155,Walking,45,120.75
+60,Female,52,152,Jump rope,80,852.8
+27,Male,66,158,Swimming,55,423.5
+27,Male,76,151,Swimming,35,310.33
+18,Female,46,177,Swimming,25,134.17
+55,Female,67,153,Jump rope,40,549.4
+29,Female,69,168,Running,15,169.05
+24,Female,75,179,Yoga,90,281.25
+26,Female,75,171,Walking,80,350.0
+26,Male,53,154,Jump rope,55,597.58
+32,Male,56,161,Swimming,75,490.0
+49,Female,91,176,Jump rope,20,373.1
+45,Female,88,175,Running,60,862.4
+43,Female,99,183,Yoga,25,103.12
+27,Female,78,172,Cycling,30,312.0
+45,Male,78,175,Running,70,891.8
+52,Male,75,164,Yoga,45,140.62
+21,Female,84,177,Swimming,15,147.0
+47,Female,59,186,Running,25,240.92
+19,Female,78,189,Running,60,764.4
+22,Female,79,187,Yoga,90,296.25
+41,Male,49,167,Running,75,600.25
+33,Male,70,166,Yoga,15,43.75
+54,Female,73,187,Cycling,70,681.33
+50,Male,99,162,Cycling,40,528.0
+22,Female,96,159,Yoga,70,280.0
+51,Male,54,175,Jump rope,70,774.9
+50,Female,59,189,Walking,10,34.42
+40,Female,89,159,Walking,15,77.88
+39,Female,81,151,Yoga,25,84.38
+27,Female,72,161,Running,60,705.6
+49,Male,54,179,Cycling,15,108.0
+31,Male,58,151,Walking,55,186.08
+24,Female,66,173,Jump rope,55,744.15
+53,Female,46,172,Yoga,85,162.92
+39,Female,99,187,Jump rope,45,913.28
+34,Male,76,175,Cycling,55,557.33
+47,Female,67,166,Yoga,85,237.29
+30,Male,76,166,Swimming,65,576.33
+43,Female,80,157,Running,55,718.67
+19,Male,46,176,Running,65,488.37
+57,Male,49,178,Swimming,50,285.83
+18,Male,67,183,Swimming,80,625.33
+33,Female,80,170,Running,20,261.33
+53,Female,79,185,Running,80,1032.27
+37,Male,69,189,Walking,15,60.38
+28,Female,94,189,Jump rope,65,1252.55
+28,Male,55,169,Walking,30,96.25
+31,Female,87,190,Cycling,20,232.0
+57,Female,76,178,Running,25,310.33
+38,Male,97,153,Yoga,30,121.25
+43,Female,69,165,Running,90,1014.3
+53,Female,94,183,Jump rope,90,1734.3
+24,Male,79,154,Yoga,65,213.96
+42,Male,81,167,Cycling,35,378.0
+39,Female,79,188,Jump rope,80,1295.6
+52,Female,98,184,Yoga,60,245.0
+52,Female,80,155,Yoga,15,50.0
+43,Female,86,182,Jump rope,80,1410.4
+31,Male,50,162,Walking,35,102.08
+29,Male,91,175,Running,45,668.85
+20,Male,89,152,Swimming,85,882.58
+60,Female,81,168,Swimming,35,330.75
+52,Male,51,154,Running,60,499.8
+20,Male,62,172,Running,25,253.17
+51,Female,51,172,Jump rope,60,627.3
+44,Male,76,152,Walking,25,110.83
+30,Female,75,161,Jump rope,70,1076.25
+55,Female,96,173,Walking,75,420.0
+18,Male,65,187,Swimming,30,227.5
+21,Female,95,177,Walking,20,110.83
+35,Male,65,176,Walking,50,189.58
+60,Female,97,156,Cycling,65,840.67
+52,Male,51,151,Jump rope,60,627.3
+25,Male,84,184,Yoga,65,227.5
+23,Female,59,176,Swimming,15,103.25
+37,Female,77,168,Swimming,90,808.5
+55,Male,55,150,Running,30,269.5
+18,Male,93,164,Running,70,1063.3
+19,Male,51,157,Yoga,80,170.0
+39,Male,97,166,Running,75,1188.25
+28,Female,76,169,Walking,45,199.5
+60,Male,93,177,Walking,20,108.5
+37,Male,57,150,Swimming,65,432.25
+31,Male,88,154,Yoga,15,55.0
+29,Female,48,187,Running,35,274.4
+36,Female,65,175,Swimming,35,265.42
+39,Male,84,169,Jump rope,85,1463.7
+49,Female,87,178,Cycling,90,1044.0
+21,Male,53,186,Jump rope,40,434.6
+32,Female,57,160,Yoga,70,166.25
+39,Female,75,187,Cycling,25,250.0
+53,Male,82,165,Running,40,535.73
+18,Male,79,154,Yoga,45,148.12
+44,Female,75,180,Yoga,90,281.25
+31,Female,63,166,Running,75,771.75
+55,Male,52,176,Jump rope,75,799.5
+38,Female,58,161,Walking,70,236.83
+37,Female,55,184,Walking,70,224.58
+26,Male,96,181,Jump rope,25,492.0
+21,Female,81,153,Running,20,264.6
+56,Female,97,183,Yoga,90,363.75
+22,Female,65,155,Running,55,583.92
+59,Male,45,160,Cycling,20,120.0
+52,Male,64,177,Walking,80,298.67
+59,Female,78,180,Cycling,35,364.0
+53,Male,47,158,Jump rope,15,144.53
+48,Female,66,157,Swimming,15,115.5
+59,Male,50,161,Yoga,45,93.75
+49,Male,96,188,Walking,90,504.0
+31,Female,94,190,Cycling,55,689.33
+57,Female,68,150,Running,50,555.33
+56,Male,84,156,Walking,55,269.5
+45,Female,68,151,Cycling,90,816.0
+43,Female,57,166,Yoga,10,23.75
+49,Male,61,167,Swimming,20,142.33
+51,Female,67,174,Cycling,75,670.0
+45,Female,52,161,Swimming,85,515.67
+38,Male,64,175,Cycling,20,170.67
+35,Female,57,159,Cycling,70,532.0
+48,Female,74,189,Yoga,70,215.83
+60,Male,73,182,Cycling,30,292.0
+29,Female,100,184,Cycling,30,400.0
+59,Female,64,152,Jump rope,65,852.8
+50,Female,55,154,Cycling,65,476.67
+25,Male,79,150,Jump rope,20,323.9
+33,Female,76,170,Walking,85,376.83
+27,Female,59,182,Yoga,80,196.67
+30,Male,59,172,Running,10,96.37
+18,Male,89,158,Yoga,80,296.67
+28,Female,50,180,Yoga,30,62.5
+31,Male,60,159,Cycling,10,80.0
+50,Female,99,155,Swimming,70,808.5
+34,Male,80,155,Running,55,718.67
+59,Male,78,169,Jump rope,90,1439.1
+26,Male,75,162,Jump rope,15,230.62
+27,Female,90,181,Yoga,35,131.25
+18,Female,54,161,Cycling,80,576.0
+38,Male,48,150,Running,60,470.4
+56,Female,75,158,Yoga,75,234.38
+27,Male,55,168,Jump rope,35,394.62
+38,Male,51,181,Running,75,624.75
+21,Female,98,177,Cycling,85,1110.67
+18,Male,64,180,Swimming,10,74.67
+21,Male,73,186,Swimming,40,340.67
+38,Male,92,187,Jump rope,70,1320.2
+51,Female,58,182,Swimming,90,609.0
+32,Male,45,186,Yoga,65,121.87
+22,Female,71,182,Running,10,115.97
+30,Male,95,157,Cycling,20,253.33
+58,Female,69,186,Yoga,20,57.5
+33,Male,72,187,Yoga,85,255.0
+29,Male,54,150,Swimming,30,189.0
+22,Male,69,155,Jump rope,45,636.53
+58,Female,75,159,Walking,10,43.75
+53,Female,86,174,Cycling,10,114.67
+30,Male,45,189,Swimming,75,393.75
+26,Male,72,154,Cycling,25,240.0
+45,Male,82,170,Running,65,870.57
+23,Female,71,154,Running,35,405.88
+51,Male,50,175,Running,85,694.17
+51,Male,94,159,Cycling,15,188.0
+29,Male,62,169,Walking,30,108.5
+55,Male,69,150,Running,90,1014.3
+35,Female,85,161,Running,85,1180.08
+43,Female,54,163,Swimming,60,378.0
+42,Female,78,155,Walking,60,273.0
+23,Male,46,152,Jump rope,85,801.55
+39,Male,89,150,Running,90,1308.3
+36,Male,61,156,Walking,65,231.29
+24,Female,74,183,Jump rope,75,1137.75
+41,Male,64,157,Running,80,836.27
+49,Male,69,157,Walking,85,342.12
+59,Male,73,166,Running,25,298.08
+35,Male,91,179,Swimming,60,637.0
+27,Male,84,162,Walking,65,318.5
+38,Male,69,176,Jump rope,80,1131.6
+26,Male,100,161,Cycling,90,1200.0
+22,Female,72,170,Cycling,75,720.0
+26,Male,80,179,Yoga,75,250.0
+58,Male,85,189,Walking,20,99.17
+27,Male,53,179,Swimming,70,432.83
+34,Male,73,159,Cycling,85,827.33
+58,Female,85,189,Walking,75,371.88
+30,Male,51,181,Yoga,35,74.38
+39,Male,71,151,Swimming,50,414.17
+22,Female,62,152,Jump rope,90,1143.9
+34,Male,69,167,Running,45,507.15
+51,Female,84,183,Swimming,10,98.0
+26,Female,50,183,Cycling,15,100.0
+31,Male,72,183,Jump rope,80,1180.8
+38,Female,74,163,Running,80,966.93
+48,Female,94,162,Walking,60,329.0
+50,Female,67,174,Swimming,65,508.08
+43,Male,95,173,Jump rope,10,194.75
+19,Male,100,184,Yoga,65,270.83
+29,Male,70,175,Cycling,10,93.33
+42,Female,69,166,Swimming,30,241.5
+55,Male,52,158,Walking,40,121.33
+43,Female,62,169,Cycling,20,165.33
+19,Male,58,168,Yoga,65,157.08
+31,Male,52,163,Running,35,297.27
+57,Male,55,156,Running,10,89.83
+48,Female,88,160,Yoga,75,275.0
+48,Female,66,163,Yoga,10,27.5
+18,Male,54,182,Running,30,264.6
+48,Male,67,173,Swimming,10,78.17
+54,Male,86,187,Swimming,70,702.33
+31,Female,54,154,Running,80,705.6
+44,Female,50,158,Walking,20,58.33
+46,Male,72,187,Jump rope,30,442.8
+26,Female,89,155,Cycling,70,830.67
+60,Female,47,181,Yoga,35,68.54
+55,Male,99,152,Jump rope,90,1826.55
+28,Male,60,162,Cycling,65,520.0
+56,Female,57,166,Walking,30,99.75
+47,Male,64,171,Yoga,85,226.67
+56,Male,92,151,Yoga,20,76.67
+19,Female,89,157,Walking,80,415.33
+30,Male,74,167,Running,50,604.33
+58,Female,74,176,Jump rope,10,151.7
+36,Male,96,187,Cycling,75,960.0
+21,Female,71,190,Walking,50,207.08
+60,Male,79,186,Walking,30,138.25
+46,Male,49,183,Jump rope,80,803.6
+29,Male,58,158,Cycling,85,657.33
+40,Female,57,189,Yoga,30,71.25
+48,Female,51,190,Swimming,30,178.5
+42,Female,47,174,Cycling,55,344.67
+60,Male,61,177,Cycling,65,528.67
+42,Female,48,152,Swimming,45,252.0
+56,Male,77,156,Walking,25,112.29
+22,Male,69,166,Swimming,55,442.75
+29,Female,69,186,Yoga,85,244.38
+32,Male,82,157,Cycling,25,273.33
+27,Male,75,167,Cycling,10,100.0
+21,Male,68,153,Yoga,40,113.33
+43,Male,85,151,Walking,65,322.29
+20,Male,45,166,Swimming,85,446.25
+45,Female,99,179,Running,10,161.7
+42,Female,86,166,Jump rope,30,528.9
+31,Male,48,180,Yoga,30,60.0
+33,Female,50,173,Walking,90,262.5
+56,Female,92,179,Walking,65,348.83
+30,Female,61,159,Yoga,50,127.08
+44,Female,67,185,Walking,20,78.17
+52,Male,67,176,Running,55,601.88
+26,Male,85,174,Swimming,10,99.17
+58,Male,61,164,Swimming,60,427.0
+40,Female,89,158,Running,65,944.88
+39,Male,75,177,Cycling,25,250.0
+56,Female,89,181,Swimming,60,623.0
+39,Male,81,154,Cycling,65,702.0
+27,Male,61,170,Yoga,40,101.67
+22,Female,69,151,Jump rope,55,777.98
+58,Female,81,158,Cycling,85,918.0
+47,Male,69,167,Yoga,35,100.62
+42,Male,75,180,Swimming,90,787.5
+21,Female,46,154,Jump rope,40,377.2
+52,Male,88,180,Running,75,1078.0
+47,Male,59,187,Yoga,30,73.75
+45,Female,55,190,Running,45,404.25
+52,Female,75,171,Yoga,40,125.0
+35,Female,54,170,Running,90,793.8
+58,Male,65,168,Swimming,60,455.0
+44,Male,75,177,Yoga,25,78.12
+36,Male,56,155,Yoga,70,163.33
+49,Female,49,163,Yoga,50,102.08
+44,Male,100,153,Walking,40,233.33
+35,Female,78,153,Running,50,637.0
+27,Female,46,167,Walking,15,40.25
+24,Female,89,153,Cycling,65,771.33
+37,Male,59,181,Jump rope,40,483.8
+24,Male,99,158,Running,70,1131.9
+30,Female,54,150,Jump rope,80,885.6
+30,Female,66,176,Walking,75,288.75
+47,Male,57,160,Swimming,80,532.0
+36,Male,94,154,Swimming,90,987.0
+39,Male,54,153,Cycling,90,648.0
+29,Female,88,162,Walking,80,410.67
+56,Female,92,190,Walking,25,134.17
+56,Female,49,156,Walking,70,200.08
+48,Male,92,189,Walking,15,80.5
+45,Female,87,159,Jump rope,90,1605.15
+24,Male,49,152,Swimming,85,485.92
+41,Female,88,165,Walking,45,231.0
+48,Male,96,156,Yoga,25,100.0
+19,Male,89,185,Swimming,25,259.58
+38,Male,54,178,Jump rope,85,940.95
+36,Female,59,175,Jump rope,10,120.95
+24,Male,74,183,Jump rope,60,910.2
+26,Female,95,156,Jump rope,60,1168.5
+29,Female,71,180,Running,25,289.92
+28,Male,71,160,Yoga,30,88.75
+24,Female,79,176,Jump rope,50,809.75
+42,Female,45,178,Running,30,220.5
+32,Male,59,168,Swimming,10,68.83
+31,Male,97,157,Cycling,50,646.67
+18,Female,55,173,Swimming,90,577.5
+43,Female,76,160,Swimming,75,665.0
+38,Male,93,186,Jump rope,90,1715.85
+40,Male,92,165,Jump rope,25,471.5
+38,Male,99,151,Yoga,90,371.25
+19,Male,100,161,Yoga,50,208.33
+22,Male,98,163,Yoga,90,367.5
+20,Female,53,185,Walking,90,278.25
+44,Female,56,157,Walking,40,130.67
+60,Male,61,176,Swimming,25,177.92
+54,Female,48,157,Walking,20,56.0
+53,Female,77,181,Jump rope,20,315.7
+56,Male,61,173,Swimming,40,284.67
+30,Female,52,189,Yoga,10,21.67
+58,Male,93,152,Walking,80,434.0
+30,Male,67,184,Yoga,10,27.92
+36,Male,66,188,Cycling,55,484.0
+51,Male,90,182,Jump rope,50,922.5
+31,Female,86,158,Yoga,75,268.75
+26,Female,85,180,Cycling,60,680.0
+23,Male,94,184,Jump rope,65,1252.55
+40,Female,97,187,Jump rope,30,596.55
+48,Male,78,179,Yoga,30,97.5
+46,Male,77,176,Walking,20,89.83
+54,Female,100,173,Cycling,10,133.33
+22,Female,61,160,Jump rope,40,500.2
+34,Male,45,158,Jump rope,40,369.0
+56,Male,63,164,Jump rope,70,904.05
+38,Female,49,172,Swimming,35,200.08
+42,Male,61,156,Running,10,99.63
+32,Male,93,170,Jump rope,60,1143.9
+36,Male,61,172,Jump rope,70,875.35
+38,Male,96,184,Walking,10,56.0
+19,Male,56,152,Running,85,777.47
+46,Female,98,152,Running,60,960.4
+23,Male,95,180,Cycling,50,633.33
+57,Female,71,150,Swimming,40,331.33
+22,Female,58,161,Cycling,85,657.33
+45,Male,80,165,Yoga,55,183.33
+24,Female,53,153,Yoga,55,121.46
+28,Male,75,151,Cycling,50,500.0
+30,Female,55,158,Swimming,65,417.08
+39,Male,68,158,Jump rope,55,766.7
+49,Male,54,153,Yoga,80,180.0
+47,Male,93,178,Swimming,10,108.5
+56,Male,70,184,Swimming,85,694.17
+23,Female,60,171,Running,30,294.0
+36,Male,86,159,Running,10,140.47
+42,Male,57,161,Running,80,744.8
+35,Female,75,184,Walking,60,262.5
+57,Male,92,162,Jump rope,65,1225.9
+26,Male,49,162,Walking,20,57.17
+44,Female,98,180,Jump rope,25,502.25
+18,Male,71,151,Yoga,40,118.33
+47,Female,66,173,Swimming,30,231.0
+57,Female,81,154,Yoga,80,270.0
+31,Female,51,171,Walking,85,252.88
+58,Male,88,162,Running,40,574.93
+24,Male,89,173,Running,90,1308.3
+43,Male,72,185,Yoga,15,45.0
+25,Male,76,164,Swimming,50,443.33
+44,Female,80,179,Yoga,10,33.33
+27,Male,77,164,Running,40,503.07
+34,Female,51,182,Yoga,50,106.25
+25,Female,94,161,Running,45,690.9
+44,Male,65,155,Jump rope,80,1066.0
+41,Female,93,181,Yoga,75,290.62
+39,Female,85,185,Swimming,65,644.58
+53,Male,100,177,Cycling,15,200.0
+28,Female,85,180,Walking,80,396.67
+38,Male,60,154,Walking,70,245.0
+50,Female,63,178,Cycling,55,462.0
+45,Female,97,154,Yoga,15,60.62
+56,Female,75,150,Yoga,20,62.5
+48,Female,85,163,Cycling,55,623.33
+57,Male,64,182,Jump rope,45,590.4
+25,Female,87,184,Running,90,1278.9
+51,Female,95,181,Yoga,40,158.33
+45,Male,63,156,Jump rope,20,258.3
+19,Female,93,176,Walking,80,434.0
+53,Male,90,189,Jump rope,75,1383.75
+57,Male,51,187,Walking,50,148.75
+30,Female,75,168,Running,50,612.5
+32,Female,45,168,Swimming,50,262.5
+58,Male,49,190,Yoga,90,183.75
+36,Male,59,169,Jump rope,15,181.43
+22,Female,46,188,Running,65,488.37
+19,Male,70,168,Yoga,55,160.42
+25,Female,73,158,Running,10,119.23
+54,Male,50,156,Jump rope,50,512.5
+49,Female,69,167,Yoga,90,258.75
+28,Male,89,174,Cycling,35,415.33
+51,Female,65,178,Walking,50,189.58
+27,Male,50,190,Cycling,70,466.67
+29,Female,65,157,Swimming,80,606.67
+23,Female,85,150,Swimming,55,545.42
+26,Male,60,157,Running,50,490.0
+37,Male,100,168,Swimming,15,175.0
+54,Male,65,156,Cycling,30,260.0
+48,Male,62,150,Jump rope,40,508.4
+52,Male,66,163,Swimming,45,346.5
+46,Female,70,170,Jump rope,40,574.0
+47,Female,48,179,Cycling,10,64.0
+22,Female,85,167,Swimming,65,644.58
+60,Female,67,184,Yoga,80,223.33
+34,Male,73,152,Cycling,35,340.67
+25,Male,65,172,Jump rope,35,466.38
+25,Female,95,178,Running,50,775.83
+32,Male,66,153,Running,25,269.5
+56,Male,59,165,Swimming,15,103.25
+23,Female,94,159,Running,55,844.43
+20,Male,96,190,Swimming,40,448.0
+40,Male,67,189,Cycling,70,625.33
+43,Male,71,160,Yoga,20,59.17
+44,Male,63,179,Running,60,617.4
+28,Male,56,178,Swimming,15,98.0
+22,Female,80,166,Swimming,60,560.0
+32,Female,71,153,Walking,15,62.12
+59,Female,45,162,Cycling,45,270.0
+52,Male,63,174,Running,70,720.3
+54,Female,52,158,Running,90,764.4
+22,Male,58,170,Running,35,331.57
+28,Male,80,185,Cycling,85,906.67
+46,Male,65,189,Cycling,90,780.0
+36,Female,77,161,Swimming,80,718.67
+44,Male,73,150,Running,85,1013.48
+24,Male,48,157,Jump rope,50,492.0
+30,Female,85,171,Cycling,35,396.67
+20,Male,87,169,Walking,65,329.88
+52,Female,89,180,Swimming,80,830.67
+32,Female,52,173,Running,15,127.4
+23,Male,68,171,Cycling,15,136.0
+36,Female,73,176,Cycling,90,876.0
+50,Male,66,174,Swimming,30,231.0
+33,Female,74,165,Walking,30,129.5
+33,Female,96,156,Yoga,60,240.0
+28,Male,85,150,Jump rope,35,609.88
+33,Male,87,180,Swimming,60,609.0
+32,Female,96,164,Walking,50,280.0
+26,Female,53,163,Running,75,649.25
+33,Female,89,165,Jump rope,25,456.13
+38,Female,91,174,Cycling,10,121.33
+51,Female,77,183,Walking,85,381.79
+55,Female,62,180,Walking,35,126.58
+43,Female,100,184,Cycling,35,466.67
+29,Male,76,183,Running,55,682.73
+26,Male,76,183,Jump rope,65,1012.7
+34,Female,100,165,Cycling,25,333.33
+57,Female,85,189,Yoga,25,88.54
+25,Female,88,152,Cycling,75,880.0
+49,Female,49,151,Walking,35,100.04
+40,Female,84,169,Yoga,10,35.0
+41,Male,64,176,Yoga,65,173.33
+19,Female,89,165,Walking,90,467.25
+21,Male,100,173,Cycling,45,600.0
+38,Female,89,171,Cycling,15,178.0
+30,Female,48,163,Walking,25,70.0
+32,Female,70,168,Swimming,25,204.17
+22,Male,90,171,Yoga,60,225.0
+43,Male,100,180,Yoga,60,250.0
+59,Male,70,169,Swimming,60,490.0
+31,Male,49,180,Walking,25,71.46
+57,Male,75,186,Running,75,918.75
+22,Male,88,185,Yoga,75,275.0
+20,Male,48,180,Jump rope,20,196.8
+21,Female,54,166,Walking,60,189.0
+58,Female,77,178,Walking,30,134.75
+18,Female,94,155,Cycling,15,188.0
+20,Female,50,185,Jump rope,65,666.25
+45,Female,88,177,Cycling,60,704.0
+36,Male,71,176,Yoga,50,147.92
+58,Female,78,170,Cycling,75,780.0
+35,Male,82,183,Running,80,1071.47
+53,Male,65,177,Walking,20,75.83
+18,Male,83,187,Running,65,881.18
+27,Female,62,185,Walking,35,126.58
+49,Male,61,177,Running,55,547.98
+46,Male,57,154,Yoga,40,95.0
+20,Female,72,162,Running,60,705.6
+25,Male,66,185,Cycling,15,132.0
+59,Female,95,170,Yoga,85,336.46
+19,Female,76,187,Cycling,50,506.67
+40,Female,60,160,Running,65,637.0
+43,Female,76,185,Walking,55,243.83
+25,Female,52,183,Yoga,75,162.5
+44,Male,83,153,Yoga,20,69.17
+24,Female,94,167,Jump rope,75,1445.25
+36,Female,48,158,Swimming,90,504.0
+21,Male,56,178,Walking,55,179.67
+29,Male,79,189,Jump rope,25,404.88
+25,Male,68,180,Yoga,25,70.83
+53,Male,79,189,Swimming,25,230.42
+50,Male,97,152,Running,50,792.17
+37,Female,76,153,Cycling,85,861.33
+27,Female,95,161,Walking,45,249.38
+20,Female,54,160,Yoga,65,146.25
+41,Male,99,167,Swimming,10,115.5
+46,Male,65,179,Walking,90,341.25
+56,Female,69,153,Running,30,338.1
+37,Male,78,189,Running,75,955.5
+33,Male,73,150,Yoga,90,273.75
+52,Male,76,158,Yoga,25,79.17
+24,Female,84,167,Swimming,75,735.0
+46,Male,85,156,Walking,35,173.54
+53,Female,59,160,Cycling,15,118.0
+26,Female,81,189,Jump rope,35,581.18
+18,Female,81,187,Running,70,926.1
+51,Female,70,185,Walking,20,81.67
+53,Female,94,173,Walking,45,246.75
+25,Male,77,151,Jump rope,85,1341.73
+22,Male,48,176,Jump rope,40,393.6
+54,Male,64,180,Jump rope,35,459.2
+28,Male,65,161,Walking,80,303.33
+38,Female,59,176,Walking,45,154.88
+47,Male,52,188,Swimming,60,364.0
+47,Female,75,169,Cycling,80,800.0
+52,Male,92,182,Swimming,90,966.0
+59,Male,45,170,Walking,75,196.88
+41,Female,84,180,Yoga,25,87.5
+24,Male,52,167,Walking,45,136.5
+21,Female,97,179,Swimming,15,169.75
+45,Female,52,162,Walking,85,257.83
+53,Male,87,178,Running,20,284.2
+30,Male,98,183,Yoga,90,367.5
+33,Female,80,150,Swimming,20,186.67
+23,Female,79,155,Running,40,516.13
+37,Female,93,154,Cycling,75,930.0
+50,Male,63,175,Running,45,463.05
+34,Female,52,181,Walking,25,75.83
+48,Male,54,161,Swimming,20,126.0
+32,Male,83,153,Jump rope,15,255.23
+27,Female,84,189,Running,45,617.4
+55,Female,52,173,Yoga,25,54.17
+31,Male,80,186,Walking,70,326.67
+36,Female,49,168,Running,60,480.2
+28,Male,58,154,Walking,75,253.75
+24,Female,99,150,Jump rope,65,1319.17
+40,Male,47,173,Swimming,10,54.83
+58,Male,50,162,Running,65,530.83
+55,Male,57,190,Cycling,20,152.0
+22,Male,51,161,Jump rope,30,313.65
+34,Female,76,171,Jump rope,45,701.1
+54,Male,62,188,Walking,70,253.17
+39,Male,57,188,Cycling,30,228.0
+56,Male,59,177,Jump rope,70,846.65
+40,Female,79,190,Running,60,774.2
+57,Female,93,171,Yoga,70,271.25
+38,Male,88,178,Swimming,15,154.0
+39,Male,97,174,Cycling,55,711.33
+28,Male,85,162,Yoga,90,318.75
+33,Male,57,175,Walking,15,49.88
+59,Female,62,182,Running,60,607.6
+24,Female,87,167,Swimming,25,253.75
+58,Female,90,152,Swimming,60,630.0
+22,Male,66,153,Running,65,700.7
+22,Male,50,175,Jump rope,85,871.25
+31,Male,64,158,Jump rope,25,328.0
+26,Male,59,176,Walking,10,34.42
+59,Female,82,175,Running,85,1138.43
+32,Female,49,157,Swimming,40,228.67
+19,Female,85,179,Swimming,85,842.92
+22,Male,93,153,Swimming,60,651.0
+44,Male,81,167,Yoga,85,286.88
+43,Female,51,170,Swimming,45,267.75
+22,Male,98,158,Cycling,75,980.0
+46,Female,45,189,Running,75,551.25
+54,Male,50,185,Walking,10,29.17
+22,Male,48,156,Jump rope,75,738.0
+50,Female,49,176,Jump rope,90,904.05
+59,Male,71,165,Yoga,90,266.25
+21,Female,68,157,Jump rope,60,836.4
+53,Male,58,170,Swimming,85,575.17
+60,Female,57,175,Walking,45,149.62
+27,Male,90,178,Running,10,147.0
+56,Female,46,157,Running,25,187.83
+25,Male,67,150,Yoga,60,167.5
+34,Male,85,166,Running,45,624.75
+48,Female,76,187,Swimming,90,798.0
+24,Female,96,160,Cycling,85,1088.0
+47,Male,55,164,Swimming,90,577.5
+46,Male,82,158,Walking,80,382.67
+52,Female,87,166,Swimming,80,812.0
+57,Male,100,157,Yoga,80,333.33
+40,Female,71,156,Jump rope,65,946.08
+29,Male,70,176,Running,55,628.83
+58,Female,91,166,Walking,70,371.58
+52,Female,57,151,Walking,50,166.25
+28,Female,68,167,Yoga,80,226.67
+52,Male,68,170,Walking,60,238.0
+50,Male,51,153,Yoga,15,31.88
+29,Female,61,158,Walking,75,266.88
+19,Female,89,182,Running,30,436.1
+57,Female,55,157,Yoga,15,34.38
+42,Female,83,177,Running,65,881.18
+54,Female,86,167,Jump rope,35,617.05
+30,Female,75,169,Walking,40,175.0
+46,Male,58,190,Jump rope,40,475.6
+43,Male,97,160,Running,40,633.73
+44,Female,60,170,Running,40,392.0
+56,Female,58,188,Swimming,90,609.0
+50,Female,61,178,Cycling,70,569.33
+25,Female,99,184,Jump rope,40,811.8
+19,Female,52,182,Walking,30,91.0
+51,Male,46,174,Cycling,60,368.0
+43,Male,90,186,Walking,50,262.5
+56,Male,78,165,Jump rope,10,159.9
+59,Male,79,165,Cycling,25,263.33
+24,Female,62,177,Walking,60,217.0
+18,Male,50,161,Jump rope,40,410.0
+55,Male,77,186,Running,85,1069.02
+34,Female,74,174,Cycling,65,641.33
+53,Female,72,174,Running,65,764.4
+42,Female,65,174,Running,35,371.58
+42,Female,94,154,Swimming,15,164.5
+39,Male,70,173,Running,85,971.83
+32,Male,70,165,Swimming,70,571.67
+25,Female,49,177,Yoga,45,91.88
+19,Male,53,166,Swimming,55,340.08
+35,Male,58,158,Yoga,55,132.92
+60,Male,48,161,Running,15,117.6
+25,Male,86,151,Walking,90,451.5
+44,Male,71,155,Yoga,15,44.38
+22,Female,63,190,Yoga,55,144.38
+51,Female,46,150,Cycling,90,552.0
+52,Male,61,175,Walking,45,160.12
+18,Female,71,170,Walking,30,124.25
+34,Female,97,154,Running,60,950.6
+28,Male,61,174,Walking,45,160.12
+39,Male,90,150,Walking,65,341.25
+45,Male,86,152,Walking,40,200.67
+26,Male,96,181,Swimming,75,840.0
+18,Male,58,157,Yoga,30,72.5
+48,Female,95,160,Cycling,50,633.33
+46,Female,90,176,Walking,25,131.25
+57,Male,67,154,Yoga,30,83.75
+23,Male,87,167,Yoga,80,290.0
+52,Male,58,159,Running,75,710.5
+60,Female,61,164,Swimming,50,355.83
+33,Male,63,189,Yoga,75,196.88
+32,Male,78,182,Swimming,15,136.5
+19,Male,58,161,Jump rope,90,1070.1
+47,Male,71,152,Running,10,115.97
+30,Female,85,168,Cycling,40,453.33
+43,Female,53,190,Swimming,75,463.75
+44,Female,89,182,Jump rope,60,1094.7
+27,Female,52,178,Running,50,424.67
+58,Male,80,183,Walking,30,140.0
+59,Female,46,187,Walking,50,134.17
+23,Male,69,179,Swimming,35,281.75
+59,Female,77,150,Swimming,20,179.67
+48,Female,93,151,Jump rope,15,285.98
+49,Male,67,153,Walking,25,97.71
+20,Male,65,151,Walking,65,246.46
+23,Female,73,157,Swimming,25,212.92
+29,Female,48,172,Cycling,80,512.0
+47,Male,51,170,Jump rope,75,784.13
+32,Female,46,177,Walking,35,93.92
+36,Female,67,168,Swimming,70,547.17
+60,Female,46,184,Walking,65,174.42
+44,Male,74,150,Yoga,45,138.75
+53,Male,49,190,Swimming,35,200.08
+29,Female,68,190,Swimming,25,198.33
+37,Female,52,173,Yoga,40,86.67
+21,Male,59,162,Yoga,50,122.92
+57,Male,83,150,Yoga,15,51.88
+18,Female,74,160,Running,60,725.2
+44,Male,48,174,Cycling,75,480.0
+35,Female,57,162,Cycling,20,152.0
+32,Female,100,180,Jump rope,10,205.0
+53,Female,51,183,Cycling,70,476.0
+20,Female,84,177,Swimming,20,196.0
+46,Female,64,154,Cycling,30,256.0
+36,Male,55,169,Swimming,70,449.17
+45,Male,63,171,Running,20,205.8
+40,Male,59,157,Cycling,45,354.0
+23,Female,93,177,Yoga,40,155.0
+44,Female,76,175,Cycling,30,304.0
+50,Female,100,165,Walking,60,350.0
+24,Female,96,169,Swimming,70,784.0
+28,Male,61,157,Jump rope,55,687.78
+23,Male,69,151,Yoga,35,100.62
+28,Male,57,179,Yoga,90,213.75
+51,Male,49,163,Running,10,80.03
+51,Male,69,159,Swimming,75,603.75
+28,Male,82,164,Yoga,80,273.33
+41,Male,77,164,Jump rope,25,394.62
+44,Female,66,172,Jump rope,40,541.2
+51,Male,78,188,Cycling,55,572.0
+46,Male,73,160,Cycling,50,486.67
+43,Male,60,160,Cycling,75,600.0
+32,Female,64,170,Jump rope,40,524.8
+26,Male,72,153,Cycling,15,144.0
+34,Male,70,177,Swimming,35,285.83
+41,Female,46,158,Yoga,60,115.0
+50,Female,66,171,Walking,90,346.5
+50,Male,58,185,Jump rope,20,237.8
+32,Male,99,165,Yoga,45,185.62
+57,Female,71,165,Running,45,521.85
+32,Male,95,151,Yoga,10,39.58
+28,Female,72,171,Swimming,15,126.0
+37,Female,61,152,Cycling,60,488.0
+52,Male,77,162,Jump rope,70,1104.95
+34,Female,58,183,Jump rope,85,1010.65
+41,Female,76,178,Cycling,70,709.33
+55,Female,53,182,Swimming,90,556.5
+35,Male,45,183,Swimming,45,236.25
+59,Male,57,189,Jump rope,70,817.95
+30,Male,75,177,Cycling,60,600.0
+52,Female,68,160,Swimming,75,595.0
+38,Male,61,159,Cycling,90,732.0
+55,Male,83,158,Swimming,15,145.25
+54,Male,59,181,Cycling,45,354.0
+28,Male,68,176,Swimming,60,476.0
+29,Female,100,157,Yoga,85,354.17
+19,Male,62,162,Jump rope,75,953.25
+42,Male,85,161,Jump rope,60,1045.5
+20,Female,94,171,Walking,75,411.25
+26,Male,68,190,Cycling,20,181.33
+59,Female,75,166,Swimming,55,481.25
+42,Male,99,179,Yoga,75,309.38
+27,Female,57,162,Cycling,75,570.0
+22,Male,63,179,Swimming,55,404.25
+43,Male,83,159,Running,65,881.18
+24,Male,92,188,Cycling,40,490.67
+31,Male,52,182,Yoga,80,173.33
+53,Male,74,156,Cycling,80,789.33
+38,Female,84,179,Cycling,70,784.0
+23,Female,85,168,Swimming,15,148.75
+32,Female,95,188,Swimming,80,886.67
+32,Male,51,185,Running,35,291.55
+53,Female,95,171,Cycling,10,126.67
+50,Male,61,162,Running,90,896.7
+53,Female,54,168,Yoga,20,45.0
+33,Female,99,156,Cycling,90,1188.0
+48,Female,87,181,Jump rope,10,178.35
+35,Male,91,188,Yoga,20,75.83
+60,Male,49,165,Cycling,20,130.67
+31,Male,98,190,Yoga,90,367.5
+22,Male,98,175,Swimming,35,400.17
+45,Female,52,180,Running,65,552.07
+42,Male,51,178,Yoga,30,63.75
+18,Female,58,169,Cycling,65,502.67
+47,Female,93,183,Jump rope,35,667.28
+51,Female,85,158,Jump rope,85,1481.12
+22,Female,79,179,Running,55,709.68
+30,Male,52,188,Cycling,65,450.67
+53,Female,89,153,Running,30,436.1
+39,Male,80,164,Jump rope,40,656.0
+56,Female,74,165,Swimming,65,561.17
+26,Male,77,157,Running,20,251.53
+55,Male,91,170,Yoga,60,227.5
+24,Female,81,174,Swimming,30,283.5
+40,Female,71,151,Jump rope,25,363.88
+18,Female,57,162,Jump rope,80,934.8
+36,Male,93,183,Yoga,15,58.12
+24,Male,95,159,Cycling,45,570.0
+42,Female,53,152,Swimming,35,216.42
+20,Male,60,175,Jump rope,50,615.0
+18,Male,52,179,Jump rope,65,692.9
+36,Male,49,184,Jump rope,85,853.83
+18,Male,66,172,Walking,50,192.5
+32,Female,58,161,Jump rope,50,594.5
+21,Female,97,161,Swimming,40,452.67
+29,Male,74,181,Cycling,85,838.67
+57,Male,68,172,Jump rope,65,906.1
+50,Male,68,155,Swimming,45,357.0
+23,Female,68,153,Yoga,80,226.67
+53,Male,84,174,Swimming,20,196.0
+27,Female,90,168,Running,50,735.0
+42,Male,96,170,Yoga,85,340.0
+46,Male,70,189,Yoga,80,233.33
+27,Male,100,187,Running,10,163.33
+60,Male,60,182,Jump rope,70,861.0
+57,Male,87,152,Swimming,15,152.25
+22,Female,57,166,Swimming,10,66.5
+35,Male,65,176,Swimming,45,341.25
+55,Female,52,153,Running,30,254.8
+27,Male,81,185,Running,75,992.25
+51,Male,77,173,Swimming,30,269.5
+18,Male,52,175,Walking,25,75.83
+39,Female,90,170,Yoga,75,281.25
+36,Male,46,160,Swimming,60,322.0
+39,Male,61,177,Walking,55,195.71
+49,Female,80,168,Cycling,30,320.0
+21,Female,86,184,Walking,70,351.17
+59,Female,73,186,Swimming,85,723.92
+21,Male,62,170,Yoga,55,142.08
+49,Female,62,155,Swimming,50,361.67
+37,Male,45,152,Swimming,90,472.5
+44,Male,85,174,Cycling,30,340.0
+53,Female,67,186,Swimming,15,117.25
+40,Male,50,189,Running,80,653.33
+33,Female,55,186,Cycling,90,660.0
+37,Male,87,165,Swimming,75,761.25
+46,Female,92,167,Running,45,676.2
+48,Male,83,173,Cycling,75,830.0
+47,Male,75,154,Swimming,20,175.0
+55,Female,74,150,Jump rope,20,303.4
+22,Female,62,150,Swimming,75,542.5
+38,Male,80,184,Running,20,261.33
+32,Female,63,185,Jump rope,80,1033.2
+25,Female,69,158,Cycling,30,276.0
+31,Male,76,180,Running,65,806.87
+50,Female,86,164,Yoga,85,304.58
+32,Male,99,153,Walking,70,404.25
+41,Male,53,151,Yoga,15,33.12
+36,Female,45,156,Yoga,10,18.75
+33,Female,75,151,Running,10,122.5
+19,Female,72,187,Cycling,55,528.0
+35,Female,71,165,Cycling,55,520.67
+32,Male,65,163,Jump rope,80,1066.0
+47,Female,92,176,Running,30,450.8
+25,Female,60,175,Running,55,539.0
+47,Female,48,163,Swimming,85,476.0
+50,Male,100,161,Cycling,80,1066.67
+39,Male,75,187,Cycling,25,250.0
+49,Female,51,184,Yoga,80,170.0
+49,Male,99,165,Jump rope,30,608.85
+24,Female,90,150,Yoga,80,300.0
+27,Male,58,163,Jump rope,45,535.05
+36,Male,73,155,Walking,85,361.96
+46,Female,60,156,Walking,55,192.5
+32,Female,45,158,Yoga,30,56.25
+25,Female,62,186,Cycling,85,702.67
+58,Male,92,153,Jump rope,80,1508.8
+40,Male,73,150,Jump rope,55,823.08
+35,Female,62,162,Walking,90,325.5
+50,Female,83,179,Walking,40,193.67
+60,Female,94,178,Jump rope,70,1348.9
+29,Male,76,174,Running,90,1117.2
+27,Female,66,188,Swimming,65,500.5
+44,Male,57,184,Jump rope,40,467.4
+36,Female,83,162,Jump rope,50,850.75
+59,Female,91,183,Walking,15,79.62
+40,Female,81,150,Walking,90,425.25
+48,Female,79,181,Cycling,25,263.33
+41,Male,82,175,Swimming,70,669.67
+37,Male,93,187,Yoga,90,348.75
+35,Female,61,160,Running,30,298.9
+33,Female,95,157,Jump rope,40,779.0
+48,Male,65,176,Yoga,90,243.75
+55,Female,83,190,Running,35,474.48
+36,Male,57,172,Walking,50,166.25
+47,Male,75,152,Walking,90,393.75
+19,Female,71,186,Cycling,30,284.0
+42,Female,93,162,Running,60,911.4
+35,Male,87,184,Jump rope,25,445.88
+18,Female,49,184,Cycling,10,65.33
+49,Male,51,158,Jump rope,25,261.38
+50,Female,48,157,Swimming,35,196.0
+39,Female,89,177,Swimming,30,311.5
+41,Female,92,166,Cycling,10,122.67
+24,Male,72,176,Yoga,30,90.0
+44,Female,61,159,Swimming,85,604.92
+44,Female,70,169,Swimming,40,326.67
+44,Male,72,176,Yoga,50,150.0
+27,Female,82,172,Running,55,736.63
+54,Male,98,178,Walking,80,457.33
+38,Female,63,151,Swimming,55,404.25
+48,Female,61,190,Running,70,697.43
+55,Male,66,186,Running,50,539.0
+20,Female,80,161,Running,90,1176.0
+39,Female,89,165,Jump rope,55,1003.48
+27,Female,73,185,Swimming,65,553.58
+21,Female,72,167,Swimming,25,210.0
+40,Male,52,151,Walking,25,75.83
+55,Female,54,182,Yoga,75,168.75
+24,Male,48,152,Walking,85,238.0
+52,Female,73,156,Jump rope,55,823.08
+37,Female,63,177,Swimming,45,330.75
+33,Male,51,175,Swimming,55,327.25
+56,Male,58,164,Running,45,426.3
+42,Male,57,161,Running,85,791.35
+49,Male,49,163,Walking,60,171.5
+36,Female,47,184,Jump rope,35,337.23
+29,Male,70,154,Cycling,25,233.33
+54,Male,50,154,Cycling,45,300.0
+22,Female,63,184,Cycling,15,126.0
+27,Male,45,153,Cycling,25,150.0
+19,Female,83,186,Walking,55,266.29
+39,Male,65,156,Jump rope,60,799.5
+41,Female,50,174,Walking,80,233.33
+49,Female,63,166,Swimming,75,551.25
+23,Male,97,157,Walking,75,424.38
+54,Male,91,181,Walking,75,398.12
+29,Male,62,165,Walking,65,235.08
+43,Male,58,164,Running,50,473.67
+40,Male,68,164,Swimming,85,674.33
+46,Male,54,177,Swimming,55,346.5
+54,Female,51,167,Yoga,70,148.75
+24,Male,93,157,Swimming,55,596.75
+24,Male,51,165,Running,90,749.7
+51,Male,50,183,Swimming,50,291.67
+42,Female,62,181,Yoga,25,64.58
+42,Male,83,161,Jump rope,55,935.83
+60,Male,98,160,Yoga,90,367.5
+27,Female,54,188,Cycling,55,396.0
+54,Male,83,179,Running,65,881.18
+51,Male,77,178,Walking,75,336.88
+59,Female,72,174,Cycling,85,816.0
+20,Male,83,163,Jump rope,40,680.6
+40,Female,80,158,Jump rope,55,902.0
+53,Male,53,161,Jump rope,50,543.25
+51,Female,91,182,Walking,45,238.88
+25,Female,46,177,Walking,50,134.17
+42,Male,95,183,Yoga,20,79.17
+28,Female,85,150,Yoga,90,318.75
+49,Male,53,188,Swimming,45,278.25
+19,Male,80,163,Yoga,50,166.67
+50,Male,45,155,Swimming,50,262.5
+41,Female,97,166,Running,90,1425.9
+52,Male,89,164,Cycling,30,356.0
+48,Female,74,171,Yoga,40,123.33
+45,Female,60,167,Walking,85,297.5
+31,Female,89,156,Running,30,436.1
+19,Female,71,185,Jump rope,15,218.33
+53,Male,95,180,Cycling,60,760.0
+28,Female,95,173,Jump rope,20,389.5
+57,Female,68,183,Running,80,888.53
+44,Female,52,155,Walking,70,212.33
+56,Male,69,179,Swimming,90,724.5
+26,Male,52,159,Running,65,552.07
+51,Female,48,154,Jump rope,50,492.0
+23,Female,82,175,Swimming,60,574.0
+58,Male,98,182,Jump rope,55,1104.95
+26,Male,53,170,Running,25,216.42
+22,Female,75,182,Running,60,735.0
+35,Female,59,181,Jump rope,20,241.9
+48,Male,81,189,Yoga,80,270.0
+32,Male,64,172,Jump rope,30,393.6
+18,Male,84,179,Swimming,55,539.0
+18,Female,53,150,Running,20,173.13
+23,Male,53,183,Cycling,45,318.0
+18,Male,67,171,Jump rope,65,892.77
+56,Female,94,172,Walking,10,54.83
+54,Male,48,182,Jump rope,30,295.2
+34,Male,79,172,Swimming,35,322.58
+51,Male,79,182,Swimming,60,553.0
+59,Male,52,164,Walking,30,91.0
+49,Male,45,166,Swimming,15,78.75
+48,Female,78,187,Yoga,55,178.75
+18,Male,62,187,Cycling,10,82.67
+23,Male,50,165,Yoga,45,93.75
+57,Female,91,162,Walking,90,477.75
+20,Female,68,189,Jump rope,20,278.8
+18,Male,99,156,Swimming,35,404.25
+20,Male,52,150,Running,30,254.8
+19,Female,78,159,Cycling,70,728.0
+55,Female,83,160,Walking,65,314.71
+45,Male,62,156,Walking,20,72.33
+56,Female,58,185,Jump rope,55,653.95
+53,Male,86,176,Swimming,80,802.67
+23,Male,62,173,Jump rope,10,127.1
+47,Female,61,182,Cycling,80,650.67
+19,Female,81,181,Walking,65,307.12
+32,Male,47,161,Walking,75,205.62
+47,Male,54,185,Swimming,90,567.0
+25,Male,56,168,Swimming,30,196.0
+46,Female,45,180,Yoga,10,18.75
+21,Female,58,181,Yoga,15,36.25
+39,Male,97,188,Cycling,45,582.0
+30,Male,62,154,Cycling,50,413.33
+45,Female,76,185,Running,35,434.47
+21,Male,78,152,Walking,65,295.75
+26,Male,52,154,Jump rope,15,159.9
+24,Female,50,175,Swimming,75,437.5
+21,Female,96,165,Cycling,35,448.0
+45,Male,75,165,Swimming,50,437.5
+49,Male,70,180,Jump rope,25,358.75
+48,Male,88,189,Walking,35,179.67
+19,Male,46,172,Cycling,90,552.0
+52,Female,54,175,Walking,90,283.5
+26,Male,55,182,Jump rope,30,338.25
+31,Female,84,179,Walking,85,416.5
+60,Male,94,185,Yoga,70,274.17
+23,Male,75,166,Swimming,90,787.5
+37,Male,100,165,Walking,45,262.5
+29,Female,67,160,Running,30,328.3
+34,Female,93,186,Yoga,65,251.87
+51,Male,94,162,Yoga,50,195.83
+60,Male,52,150,Running,60,509.6
+24,Female,93,167,Yoga,50,193.75
+42,Male,64,187,Running,60,627.2
+21,Female,94,151,Cycling,25,313.33
+38,Female,65,170,Yoga,25,67.71
+24,Male,88,160,Jump rope,20,360.8
+20,Female,73,152,Running,25,298.08
+55,Male,50,171,Swimming,10,58.33
+59,Female,51,175,Yoga,50,106.25
+53,Male,91,165,Walking,50,265.42
+27,Male,61,183,Jump rope,15,187.58
+36,Male,92,156,Cycling,45,552.0
+26,Male,97,157,Swimming,85,961.92
+53,Male,62,187,Swimming,65,470.17
+23,Male,53,181,Cycling,25,176.67
+32,Female,52,160,Yoga,45,97.5
+36,Male,67,163,Swimming,15,117.25
+42,Male,66,161,Cycling,65,572.0
+29,Female,61,170,Swimming,20,142.33
+48,Female,89,168,Yoga,90,333.75
+21,Female,79,165,Cycling,15,158.0
+39,Female,53,177,Cycling,35,247.33
+40,Female,82,186,Running,90,1205.4
+27,Female,97,184,Swimming,40,452.67
+49,Female,55,161,Running,90,808.5
+26,Female,100,164,Running,15,245.0
+52,Male,87,171,Swimming,75,761.25
+40,Female,71,153,Jump rope,60,873.3
+22,Male,93,163,Walking,20,108.5
+25,Male,98,151,Yoga,80,326.67
+53,Female,97,190,Yoga,60,242.5
+24,Male,73,174,Cycling,10,97.33
+26,Male,67,175,Walking,10,39.08
+19,Male,56,169,Cycling,40,298.67
+48,Female,87,187,Jump rope,30,535.05
+60,Female,52,167,Yoga,65,140.83
+27,Male,89,176,Cycling,90,1068.0
+53,Female,54,190,Swimming,80,504.0
+31,Male,98,189,Yoga,80,326.67
+39,Female,75,186,Swimming,60,525.0
+59,Female,97,155,Yoga,90,363.75
+55,Male,72,173,Running,25,294.0
+44,Male,87,156,Cycling,30,348.0
+20,Female,97,162,Yoga,20,80.83
+60,Female,54,173,Swimming,20,126.0
+55,Female,75,174,Walking,10,43.75
+19,Male,68,168,Walking,55,218.17
+35,Female,91,153,Cycling,85,1031.33
+39,Female,84,163,Walking,10,49.0
+51,Female,50,173,Yoga,20,41.67
+45,Male,87,171,Swimming,40,406.0
+39,Female,74,182,Cycling,65,641.33
+28,Male,89,187,Yoga,30,111.25
+27,Male,66,179,Walking,15,57.75
+22,Male,51,155,Yoga,65,138.12
+48,Male,45,176,Yoga,55,103.12
+42,Female,59,150,Running,40,385.47
+59,Male,91,150,Swimming,15,159.25
+32,Male,60,163,Jump rope,55,676.5
+23,Male,49,187,Swimming,25,142.92
+34,Female,99,168,Jump rope,20,405.9
+48,Male,45,173,Walking,60,157.5
+25,Male,96,169,Jump rope,10,196.8
+55,Male,81,154,Walking,65,307.12
+28,Female,55,182,Walking,70,224.58
+30,Male,52,178,Walking,75,227.5
+50,Male,64,190,Running,80,836.27
+41,Male,80,163,Cycling,50,533.33
+21,Female,58,173,Walking,70,236.83
+55,Female,74,162,Running,90,1087.8
+29,Male,75,160,Walking,60,262.5
+39,Male,51,186,Swimming,85,505.75
+32,Female,88,154,Walking,30,154.0
+53,Female,96,154,Jump rope,20,393.6
+47,Female,47,161,Walking,75,205.62
+44,Male,69,160,Swimming,15,120.75
+28,Male,92,177,Walking,20,107.33
+25,Male,73,177,Jump rope,50,748.25
+21,Male,89,181,Cycling,65,771.33
+28,Female,97,174,Walking,90,509.25
+36,Male,75,184,Walking,90,393.75
+59,Male,60,162,Cycling,30,240.0
+50,Male,63,190,Swimming,70,514.5
+51,Male,75,176,Running,50,612.5
+51,Female,100,170,Yoga,50,208.33
+32,Female,59,180,Yoga,90,221.25
+30,Male,100,190,Swimming,35,408.33
+59,Female,87,184,Yoga,85,308.12
+41,Female,91,152,Walking,45,238.88
+43,Female,96,187,Yoga,40,160.0
+24,Male,74,160,Running,75,906.5
+41,Male,56,164,Running,80,731.73
+36,Female,67,175,Swimming,20,156.33
+49,Male,76,154,Walking,90,399.0
+33,Male,73,169,Cycling,70,681.33
+34,Female,98,151,Walking,90,514.5
+39,Female,82,158,Cycling,50,546.67
+30,Female,54,178,Running,15,132.3
+39,Female,54,185,Yoga,70,157.5
+28,Female,58,153,Running,10,94.73
+31,Male,96,177,Running,55,862.4
+60,Male,79,167,Swimming,70,645.17
+36,Female,99,151,Yoga,30,123.75
+28,Male,58,188,Yoga,50,120.83
+24,Male,96,160,Cycling,20,256.0
+35,Male,82,168,Walking,65,310.92
+28,Female,98,178,Walking,55,314.42
+46,Male,99,181,Cycling,50,660.0
+28,Male,63,184,Running,25,257.25
+29,Male,63,161,Jump rope,25,322.88
+57,Male,69,163,Running,90,1014.3
+54,Male,75,166,Cycling,70,700.0
+23,Female,79,183,Swimming,60,553.0
+54,Male,69,158,Running,80,901.6
+29,Female,48,158,Yoga,90,180.0
+42,Male,90,190,Swimming,10,105.0
+57,Male,68,190,Swimming,85,674.33
+52,Male,80,178,Cycling,70,746.67
+44,Male,71,150,Cycling,20,189.33
+54,Male,52,150,Cycling,35,242.67
+18,Female,71,156,Yoga,60,177.5
+35,Male,65,185,Yoga,85,230.21
+60,Male,94,162,Swimming,50,548.33
+29,Male,64,159,Running,45,470.4
+23,Female,74,180,Jump rope,90,1365.3
+25,Female,49,190,Jump rope,45,452.03
+54,Male,45,153,Walking,65,170.62
+20,Female,79,154,Yoga,20,65.83
+34,Male,78,187,Walking,65,295.75
+30,Male,57,178,Cycling,70,532.0
+50,Male,72,183,Jump rope,35,516.6
+23,Female,67,157,Running,50,547.17
+18,Male,64,183,Swimming,25,186.67
+48,Male,82,166,Walking,10,47.83
+25,Female,54,188,Swimming,90,567.0
+37,Female,99,179,Yoga,90,371.25
+58,Female,81,171,Running,90,1190.7
+39,Male,63,186,Yoga,50,131.25
+42,Male,58,163,Jump rope,60,713.4
+19,Female,76,160,Walking,15,66.5
+60,Male,95,188,Yoga,50,197.92
+48,Male,57,176,Running,45,418.95
+18,Female,95,159,Jump rope,60,1168.5
+22,Female,73,158,Jump rope,10,149.65
+43,Male,51,167,Swimming,50,297.5
+32,Male,86,190,Running,30,421.4
+33,Male,54,164,Walking,45,141.75
+60,Male,85,159,Jump rope,60,1045.5
+48,Female,58,153,Jump rope,25,297.25
+36,Female,67,187,Yoga,15,41.88
+33,Female,94,189,Walking,70,383.83
+22,Male,87,189,Walking,30,152.25
+19,Male,57,150,Walking,35,116.38
+35,Male,62,169,Jump rope,90,1143.9
+23,Male,51,174,Walking,65,193.38
+36,Female,65,155,Swimming,80,606.67
+58,Male,52,162,Cycling,20,138.67
+57,Female,56,156,Swimming,15,98.0
+26,Male,77,150,Walking,15,67.38
+33,Male,95,180,Jump rope,45,876.38
+23,Male,60,189,Cycling,20,160.0
+26,Female,64,171,Swimming,65,485.33
+56,Male,91,186,Walking,45,238.88
+18,Female,52,155,Yoga,25,54.17
+41,Male,90,170,Yoga,45,168.75
+36,Male,68,166,Running,40,444.27
+54,Male,81,162,Swimming,30,283.5
+24,Male,71,163,Jump rope,85,1237.18
+48,Female,55,179,Running,85,763.58
+25,Male,45,172,Cycling,30,180.0
+24,Male,89,154,Running,70,1017.57
+38,Male,97,190,Cycling,75,970.0
+31,Male,51,161,Swimming,70,416.5
+59,Female,80,163,Jump rope,50,820.0
+25,Male,59,179,Running,45,433.65
+42,Female,74,156,Yoga,65,200.42
+38,Male,54,176,Yoga,30,67.5
+32,Female,91,179,Swimming,30,318.5
+43,Male,83,171,Swimming,90,871.5
+47,Male,90,170,Swimming,15,157.5
+41,Female,81,159,Walking,70,330.75
+27,Male,77,182,Swimming,70,628.83
+33,Female,65,185,Cycling,45,390.0
+45,Male,81,178,Jump rope,25,415.13
+36,Female,98,168,Cycling,10,130.67
+37,Male,82,171,Cycling,25,273.33
+47,Female,84,184,Yoga,85,297.5
+43,Male,67,159,Jump rope,80,1098.8
+22,Female,83,188,Running,30,406.7
+20,Female,80,165,Cycling,30,320.0
+42,Male,58,183,Swimming,40,270.67
+32,Male,99,168,Swimming,35,404.25
+22,Male,68,189,Running,70,777.47
+25,Male,94,164,Cycling,35,438.67
+29,Female,84,157,Swimming,55,539.0
+36,Female,86,175,Swimming,70,702.33
+33,Male,79,173,Cycling,55,579.33
+31,Male,50,175,Jump rope,20,205.0
+44,Male,55,157,Running,60,539.0
+55,Female,48,160,Running,35,274.4
+49,Female,87,163,Yoga,70,253.75
+37,Female,62,170,Cycling,80,661.33
+39,Female,78,168,Jump rope,15,239.85
+48,Male,92,172,Walking,60,322.0
+44,Female,99,184,Cycling,50,660.0
+21,Male,91,164,Running,60,891.8
+19,Female,86,167,Yoga,50,179.17
+47,Male,90,153,Swimming,65,682.5
+31,Female,55,155,Swimming,35,224.58
+27,Male,48,178,Running,10,78.4
+29,Female,72,189,Cycling,50,480.0
+40,Male,56,183,Yoga,15,35.0
+18,Male,48,171,Swimming,70,392.0
+39,Female,67,185,Swimming,75,586.25
+43,Female,57,155,Yoga,40,95.0
+30,Female,56,155,Running,40,365.87
+22,Male,80,177,Jump rope,85,1394.0
+49,Female,49,185,Cycling,15,98.0
+40,Male,51,186,Yoga,10,21.25
+33,Male,48,164,Yoga,90,180.0
+19,Female,49,177,Walking,70,200.08
+60,Female,78,162,Cycling,70,728.0
+60,Female,84,170,Yoga,80,280.0
+26,Male,47,186,Cycling,90,564.0
+30,Female,76,160,Swimming,20,177.33
+25,Male,60,171,Walking,80,280.0
+32,Female,99,168,Jump rope,70,1420.65
+47,Male,61,161,Running,75,747.25
+19,Female,97,178,Jump rope,30,596.55
+29,Female,97,166,Yoga,90,363.75
+26,Male,73,156,Swimming,25,212.92
+38,Female,98,185,Running,45,720.3
+58,Male,54,168,Cycling,25,180.0
+60,Female,83,151,Walking,75,363.12
+36,Female,83,190,Cycling,35,387.33
+22,Male,68,166,Jump rope,10,139.4
+50,Female,88,151,Swimming,85,872.67
+27,Male,67,150,Walking,75,293.12
+38,Female,57,167,Yoga,70,166.25
+24,Female,84,166,Jump rope,10,172.2
+26,Male,56,189,Yoga,70,163.33
+45,Male,47,163,Walking,30,82.25
+43,Female,59,153,Walking,90,309.75
+51,Female,64,170,Running,60,627.2
+49,Male,87,163,Cycling,10,116.0
+57,Female,78,160,Yoga,20,65.0
+53,Male,64,189,Running,75,784.0
+25,Male,77,162,Cycling,90,924.0
+18,Male,87,181,Jump rope,10,178.35
+44,Male,100,151,Walking,40,233.33
+38,Male,57,182,Cycling,55,418.0
+39,Female,49,190,Running,45,360.15
+41,Male,77,186,Running,40,503.07
+28,Female,58,166,Swimming,55,372.17
+24,Female,100,159,Swimming,70,816.67
+26,Male,58,184,Walking,30,101.5
+24,Male,56,175,Running,10,91.47
+37,Male,67,182,Swimming,80,625.33
+53,Female,86,175,Swimming,90,903.0
+30,Female,45,159,Jump rope,60,553.5
+54,Male,94,184,Yoga,65,254.58
+31,Male,75,181,Cycling,85,850.0
+30,Female,73,166,Swimming,60,511.0
+18,Male,94,159,Walking,20,109.67
+40,Male,48,155,Cycling,70,448.0
+50,Male,89,182,Jump rope,80,1459.6
+48,Male,78,182,Cycling,55,572.0
+34,Male,74,164,Walking,85,366.92
+20,Male,45,153,Walking,55,144.38
+57,Female,65,185,Swimming,75,568.75
+48,Male,90,150,Swimming,75,787.5
+41,Male,86,172,Cycling,55,630.67
+29,Female,65,154,Yoga,20,54.17
+35,Male,53,173,Yoga,85,187.71
+31,Female,99,163,Running,40,646.8
+42,Female,72,173,Swimming,60,504.0
+25,Female,51,184,Yoga,10,21.25
+37,Male,62,158,Running,55,556.97
+38,Female,55,163,Cycling,30,220.0
+26,Female,93,155,Swimming,40,434.0
+36,Male,92,164,Yoga,90,345.0
+43,Male,46,152,Swimming,45,241.5
+38,Male,50,158,Running,75,612.5
+31,Female,71,188,Yoga,70,207.08
+20,Female,76,176,Yoga,70,221.67
+53,Male,93,153,Walking,10,54.25
+33,Female,59,180,Jump rope,50,604.75
+33,Male,76,169,Running,40,496.53
+42,Female,95,168,Yoga,35,138.54
+29,Male,48,190,Yoga,85,170.0
+58,Male,100,156,Swimming,90,1050.0
+21,Female,97,159,Jump rope,35,695.98
+31,Male,69,161,Jump rope,40,565.8
+56,Male,75,174,Swimming,75,656.25
+26,Female,92,187,Running,65,976.73
+34,Male,56,183,Running,90,823.2
+53,Male,63,180,Jump rope,30,387.45
+33,Male,81,158,Yoga,50,168.75
+40,Male,87,165,Cycling,40,464.0
+50,Male,75,166,Swimming,20,175.0
+59,Female,51,170,Swimming,75,446.25
+28,Male,72,190,Cycling,70,672.0
+60,Female,96,182,Running,45,705.6
+48,Male,84,172,Jump rope,65,1119.3
+22,Male,45,154,Cycling,90,540.0
+27,Male,68,161,Swimming,35,277.67
+31,Female,73,167,Cycling,25,243.33
+23,Female,86,180,Swimming,55,551.83
+37,Male,61,150,Running,20,199.27
+25,Female,71,177,Walking,20,82.83
+52,Male,48,184,Walking,30,84.0
+57,Male,52,157,Jump rope,15,159.9
+47,Male,61,158,Walking,45,160.12
+28,Male,82,183,Running,40,535.73
+29,Female,84,152,Yoga,25,87.5
+56,Male,81,189,Jump rope,10,166.05
+19,Female,98,171,Jump rope,90,1808.1
+28,Female,69,190,Jump rope,35,495.08
+41,Male,85,160,Running,30,416.5
+44,Male,71,168,Cycling,85,804.67
+28,Male,80,179,Running,85,1110.67
+44,Female,56,172,Cycling,50,373.33
+59,Female,75,189,Running,35,428.75
+19,Male,59,165,Cycling,85,668.67
+60,Female,87,156,Swimming,60,609.0
+35,Male,53,155,Jump rope,45,488.93
+20,Male,65,164,Running,10,106.17
+34,Male,82,175,Running,50,669.67
+42,Female,80,166,Walking,70,326.67
+48,Male,60,165,Walking,60,210.0
+32,Male,85,155,Walking,85,421.46
+19,Male,54,175,Yoga,20,45.0
+32,Male,98,150,Swimming,55,628.83
+58,Female,56,182,Walking,35,114.33
+57,Male,54,170,Running,80,705.6
+59,Female,58,188,Running,80,757.87
+37,Female,69,164,Walking,90,362.25
+54,Female,55,158,Running,65,583.92
+55,Male,91,155,Yoga,40,151.67
+49,Male,99,185,Cycling,75,990.0
+53,Female,85,151,Jump rope,75,1306.88
+40,Male,93,190,Jump rope,35,667.28
+44,Female,71,168,Cycling,20,189.33
+43,Female,53,156,Yoga,15,33.12
+53,Female,73,175,Cycling,30,292.0
+25,Male,82,153,Running,20,267.87
+59,Male,81,187,Running,25,330.75
+50,Male,84,154,Walking,55,269.5
+33,Male,70,180,Yoga,60,175.0
+41,Male,69,174,Yoga,25,71.88
+57,Female,55,185,Yoga,60,137.5
+28,Male,72,184,Yoga,15,45.0
+19,Female,65,172,Cycling,15,130.0
+38,Female,74,176,Swimming,60,518.0
+29,Male,78,153,Running,15,191.1
+53,Male,70,155,Yoga,65,189.58
+41,Female,93,158,Running,90,1367.1
+24,Female,96,163,Running,80,1254.4
+27,Female,65,185,Walking,35,132.71
+23,Female,95,169,Walking,40,221.67
+26,Female,59,155,Walking,20,68.83
+45,Female,85,173,Jump rope,35,609.88
+24,Female,54,187,Walking,70,220.5
+40,Female,84,161,Walking,25,122.5
+44,Male,98,179,Yoga,45,183.75
+56,Male,91,189,Walking,75,398.12
+36,Female,82,158,Walking,50,239.17
+18,Male,64,152,Cycling,90,768.0
+29,Female,72,161,Swimming,20,168.0
+32,Male,78,188,Swimming,15,136.5
+33,Female,75,187,Swimming,60,525.0
+49,Male,76,172,Yoga,15,47.5
+41,Male,46,159,Jump rope,90,848.7
+21,Male,60,156,Jump rope,15,184.5
+59,Female,69,172,Cycling,15,138.0
+27,Male,80,167,Running,15,196.0
+23,Male,50,166,Swimming,25,145.83
+36,Male,94,170,Yoga,85,332.92
+21,Male,53,166,Jump rope,15,162.98
+29,Female,70,187,Cycling,15,140.0
+33,Female,49,174,Cycling,65,424.67
+57,Male,79,156,Swimming,15,138.25
+42,Male,88,172,Swimming,75,770.0
+41,Female,71,186,Cycling,35,331.33
+28,Male,85,183,Swimming,65,644.58
+21,Female,86,164,Running,75,1053.5
+58,Female,87,163,Cycling,85,986.0
+29,Female,78,190,Yoga,60,195.0
+50,Female,57,171,Swimming,30,199.5
+59,Female,54,176,Running,45,396.9
+18,Female,57,165,Running,10,93.1
+24,Male,63,168,Jump rope,70,904.05
+31,Male,98,154,Swimming,70,800.33
+19,Male,67,172,Cycling,55,491.33
+35,Male,86,173,Swimming,90,903.0
+43,Female,59,185,Running,40,385.47
+46,Female,83,175,Running,30,406.7
+58,Male,81,155,Swimming,90,850.5
+47,Female,88,186,Swimming,80,821.33
+39,Male,59,154,Jump rope,80,967.6
+52,Female,47,181,Running,55,422.22
+47,Female,59,167,Yoga,40,98.33
+39,Female,66,157,Walking,30,115.5
+29,Male,70,186,Jump rope,60,861.0
+22,Female,84,174,Jump rope,45,774.9
+56,Female,98,176,Walking,55,314.42
+47,Male,56,161,Walking,65,212.33
+21,Female,77,186,Walking,10,44.92
+57,Male,78,161,Walking,40,182.0
+32,Female,61,163,Running,70,697.43
+47,Male,61,188,Cycling,40,325.33
+49,Male,81,168,Yoga,40,135.0
+51,Male,75,180,Cycling,20,200.0
+60,Female,88,156,Yoga,70,256.67
+20,Male,64,160,Yoga,30,80.0
+19,Female,68,168,Yoga,30,85.0
+51,Male,81,158,Swimming,15,141.75
+39,Female,87,176,Cycling,70,812.0
+49,Male,78,158,Jump rope,30,479.7
+19,Female,71,172,Yoga,45,133.12
+49,Female,83,167,Yoga,70,242.08
+33,Male,65,164,Jump rope,25,333.12
+36,Female,85,160,Yoga,25,88.54
+28,Female,77,165,Jump rope,65,1026.02
+37,Female,48,185,Yoga,20,40.0
+52,Female,46,178,Cycling,90,552.0
+32,Female,85,171,Cycling,90,1020.0
+53,Male,66,189,Cycling,80,704.0
+46,Male,78,190,Running,70,891.8
+27,Male,71,153,Running,10,115.97
+47,Male,48,158,Swimming,15,84.0
+24,Male,89,150,Jump rope,90,1642.05
+43,Female,96,178,Walking,15,84.0
+18,Female,53,157,Cycling,55,388.67
+21,Female,84,190,Jump rope,70,1205.4
+23,Female,66,150,Walking,90,346.5
+26,Male,100,179,Jump rope,10,205.0
+57,Female,94,167,Running,70,1074.73
+35,Female,96,177,Swimming,20,224.0
+41,Female,55,165,Jump rope,90,1014.75
+48,Female,88,152,Yoga,70,256.67
+41,Female,90,181,Yoga,65,243.75
+18,Male,66,162,Yoga,65,178.75
+48,Male,83,156,Cycling,65,719.33
+39,Female,80,164,Swimming,20,186.67
+20,Female,48,164,Jump rope,75,738.0
+39,Male,47,186,Yoga,10,19.58
+51,Female,65,186,Walking,30,113.75
+24,Male,88,186,Jump rope,25,451.0
+48,Female,99,159,Walking,40,231.0
+21,Male,99,174,Jump rope,15,304.43
+38,Female,81,158,Jump rope,70,1162.35
+60,Female,99,153,Running,90,1455.3
+47,Male,62,188,Yoga,55,142.08
+28,Male,85,184,Jump rope,20,348.5
+35,Female,52,176,Cycling,20,138.67
+35,Female,88,158,Running,80,1149.87
+49,Female,91,150,Cycling,45,546.0
+39,Male,83,153,Swimming,85,823.08
+20,Female,68,166,Running,70,777.47
+26,Male,61,154,Yoga,65,165.21
+44,Male,94,185,Swimming,40,438.67
+35,Female,98,166,Swimming,15,171.5
+29,Female,91,177,Jump rope,50,932.75
+21,Male,95,190,Walking,15,83.12
+22,Male,57,159,Swimming,15,99.75
+45,Female,53,151,Cycling,20,141.33
+18,Female,66,172,Running,20,215.6
+48,Female,97,186,Jump rope,35,695.98
+43,Male,55,172,Swimming,80,513.33
+32,Male,56,169,Jump rope,80,918.4
+24,Male,51,158,Walking,50,148.75
+42,Male,71,188,Yoga,10,29.58
+39,Female,74,155,Jump rope,25,379.25
+30,Male,51,167,Cycling,20,136.0
+37,Male,47,186,Swimming,10,54.83
+50,Male,47,169,Walking,10,27.42
+43,Male,45,165,Walking,10,26.25
+39,Male,47,180,Running,80,614.13
+26,Male,89,159,Running,80,1162.93
+18,Male,53,166,Cycling,40,282.67
+34,Male,65,186,Swimming,55,417.08
+34,Female,46,190,Cycling,10,61.33
+27,Male,97,189,Walking,70,396.08
+31,Female,97,173,Walking,65,367.79
+19,Female,85,151,Jump rope,85,1481.12
+18,Male,75,176,Running,40,490.0
+55,Female,82,189,Running,70,937.53
+58,Male,80,162,Cycling,60,640.0
+52,Male,79,180,Yoga,60,197.5
+18,Female,51,164,Yoga,85,180.62
+48,Male,75,188,Yoga,15,46.88
+31,Female,53,162,Cycling,45,318.0
+18,Male,50,168,Yoga,60,125.0
+33,Female,47,172,Yoga,60,117.5
+24,Male,66,170,Swimming,90,693.0
+52,Female,56,172,Walking,55,179.67
+41,Male,56,176,Swimming,35,228.67
+34,Female,47,172,Running,80,614.13
+46,Female,78,173,Yoga,35,113.75
+59,Male,88,166,Yoga,85,311.67
+23,Female,98,180,Cycling,80,1045.33
+53,Male,69,168,Yoga,60,172.5
+21,Male,87,167,Jump rope,10,178.35
+19,Male,68,172,Cycling,30,272.0
+44,Female,87,161,Walking,85,431.38
+33,Female,90,165,Yoga,15,56.25
+37,Female,73,169,Running,75,894.25
+43,Female,51,170,Running,75,624.75
+27,Female,52,153,Yoga,90,195.0
+40,Male,79,168,Cycling,45,474.0
+37,Male,67,156,Walking,35,136.79
+59,Female,99,161,Cycling,70,924.0
+21,Female,76,189,Swimming,35,310.33
+43,Male,93,178,Yoga,30,116.25
+44,Female,56,152,Walking,15,49.0
+35,Male,73,150,Walking,50,212.92
+25,Female,56,163,Running,35,320.13
+59,Female,62,171,Jump rope,75,953.25
+36,Female,66,162,Running,50,539.0
+33,Male,81,190,Swimming,30,283.5
+45,Female,81,162,Jump rope,35,581.18
+37,Male,60,156,Jump rope,40,492.0
+43,Male,66,184,Jump rope,75,1014.75
+23,Female,68,183,Swimming,45,357.0
+50,Male,73,164,Running,10,119.23
+30,Male,68,150,Cycling,50,453.33
+60,Female,79,171,Running,90,1161.3
+29,Female,51,175,Yoga,90,191.25
+52,Female,90,181,Cycling,40,480.0
+56,Female,81,189,Cycling,35,378.0
+49,Female,84,176,Jump rope,40,688.8
+53,Male,78,174,Cycling,85,884.0
+25,Male,69,153,Jump rope,65,919.42
+33,Female,56,174,Swimming,40,261.33
+35,Male,98,164,Walking,35,200.08
+18,Female,100,187,Yoga,15,62.5
+48,Male,94,177,Jump rope,45,867.15
+59,Female,56,163,Running,90,823.2
+42,Female,73,187,Running,50,596.17
+21,Male,64,176,Walking,55,205.33
+54,Female,61,179,Walking,30,106.75
+45,Female,95,188,Jump rope,35,681.62
+23,Female,80,152,Yoga,60,200.0
+39,Female,87,163,Swimming,40,406.0
+25,Male,65,153,Running,10,106.17
+45,Male,71,158,Cycling,15,142.0
+21,Male,77,169,Walking,75,336.88
+21,Male,89,154,Yoga,65,241.04
+19,Female,91,178,Swimming,80,849.33
+60,Female,52,165,Yoga,80,173.33
+30,Male,85,155,Yoga,45,159.38
+53,Female,99,176,Jump rope,40,811.8
+48,Female,71,186,Running,85,985.72
+58,Female,58,175,Cycling,80,618.67
+36,Female,61,183,Jump rope,30,375.15
+47,Male,93,167,Jump rope,50,953.25
+39,Male,55,178,Jump rope,85,958.38
+25,Female,75,165,Walking,55,240.62
+45,Female,80,180,Cycling,60,640.0
+60,Male,51,176,Walking,90,267.75
+44,Female,49,173,Cycling,65,424.67
+34,Female,98,178,Cycling,80,1045.33
+24,Female,86,154,Jump rope,35,617.05
+49,Female,98,156,Running,65,1040.43
+39,Male,62,172,Yoga,10,25.83
+29,Female,77,160,Walking,55,247.04
+32,Male,48,167,Cycling,60,384.0
+50,Female,93,186,Swimming,85,922.25
+51,Female,77,171,Swimming,45,404.25
+51,Male,95,165,Swimming,25,277.08
+51,Male,85,167,Walking,15,74.38
+21,Female,67,165,Swimming,75,586.25
+34,Male,85,174,Yoga,40,141.67
+31,Male,92,152,Swimming,80,858.67
+34,Male,68,160,Running,60,666.4
+42,Male,59,189,Running,75,722.75
+40,Male,93,173,Walking,40,217.0
+47,Male,73,175,Yoga,75,228.12
+25,Male,85,157,Running,85,1180.08
+36,Male,99,175,Jump rope,90,1826.55
+20,Male,82,167,Cycling,75,820.0
+54,Female,100,157,Swimming,10,116.67
+43,Male,97,164,Swimming,25,282.92
+23,Male,53,169,Swimming,80,494.67
+22,Male,52,151,Walking,80,242.67
+37,Male,52,183,Walking,60,182.0
+40,Male,55,185,Walking,15,48.12
+25,Male,46,152,Running,65,488.37
+37,Female,47,158,Swimming,75,411.25
+51,Female,56,154,Cycling,45,336.0
+60,Male,89,187,Running,75,1090.25
+45,Male,58,188,Yoga,60,145.0
+44,Female,54,168,Swimming,55,346.5
+48,Female,48,176,Running,70,548.8
+53,Female,70,151,Jump rope,25,358.75
+41,Female,96,153,Yoga,75,300.0
+27,Female,90,175,Walking,90,472.5
+30,Male,96,153,Cycling,30,384.0
+45,Female,85,170,Yoga,60,212.5
+22,Female,71,161,Jump rope,15,218.33
+59,Female,84,160,Jump rope,50,861.0
+25,Female,83,178,Jump rope,50,850.75
+49,Female,97,164,Swimming,55,622.42
+44,Male,46,165,Yoga,15,28.75
+46,Female,92,164,Swimming,45,483.0
+42,Female,69,182,Swimming,25,201.25
+47,Female,74,171,Walking,20,86.33
+42,Female,46,155,Yoga,90,172.5
+20,Female,61,157,Running,35,348.72
+36,Male,81,177,Running,65,859.95
+36,Female,64,172,Walking,20,74.67
+58,Male,54,188,Running,40,352.8
+46,Male,76,164,Running,30,372.4
+42,Male,79,150,Cycling,30,316.0
+54,Female,47,165,Running,90,690.9
+47,Male,47,186,Walking,10,27.42
+41,Male,54,174,Swimming,75,472.5
+22,Female,94,182,Walking,25,137.08
+19,Male,77,185,Jump rope,50,789.25
+24,Male,53,188,Jump rope,90,977.85
+39,Female,97,190,Cycling,65,840.67
+37,Male,87,186,Jump rope,85,1515.98
+39,Female,65,188,Yoga,30,81.25
+40,Female,66,174,Yoga,80,220.0
+41,Male,51,174,Jump rope,80,836.4
+33,Male,90,169,Jump rope,15,276.75
+54,Male,93,166,Cycling,90,1116.0
+19,Female,55,174,Swimming,15,96.25
+35,Female,46,170,Walking,90,241.5
+43,Female,80,157,Running,20,261.33
+29,Male,89,153,Swimming,35,363.42
+46,Female,63,181,Walking,30,110.25
+49,Male,66,169,Cycling,85,748.0
+35,Female,60,168,Swimming,75,525.0
+48,Male,92,157,Jump rope,90,1697.4
+23,Male,98,163,Cycling,85,1110.67
+45,Male,74,153,Walking,75,323.75
+20,Male,63,180,Walking,60,220.5
+50,Male,78,166,Yoga,55,178.75
+21,Female,48,182,Walking,90,252.0
+35,Female,47,189,Walking,90,246.75
+32,Male,53,185,Swimming,75,463.75
+28,Male,56,184,Jump rope,65,746.2
+26,Male,56,172,Cycling,65,485.33
+19,Female,47,190,Swimming,30,164.5
+31,Female,71,153,Running,90,1043.7
+57,Male,56,162,Swimming,35,228.67
+59,Male,92,170,Walking,50,268.33
+23,Male,94,175,Cycling,45,564.0
+50,Male,87,178,Yoga,25,90.62
+47,Male,66,150,Yoga,15,41.25
+42,Female,100,188,Running,85,1388.33
+23,Female,83,172,Jump rope,25,425.38
+53,Male,77,151,Walking,40,179.67
+39,Female,66,158,Jump rope,15,202.95
+56,Female,99,168,Jump rope,35,710.33
+50,Male,97,151,Jump rope,85,1690.23
+46,Female,55,164,Jump rope,40,451.0
+21,Female,98,170,Cycling,80,1045.33
+33,Female,47,163,Swimming,20,109.67
+57,Male,46,189,Swimming,40,214.67
+37,Female,80,171,Running,75,980.0
+36,Male,56,180,Yoga,75,175.0
+40,Female,79,160,Walking,50,230.42
+52,Male,75,158,Walking,85,371.88
+50,Female,55,186,Cycling,60,440.0
+38,Female,79,176,Swimming,65,599.08
+30,Male,92,184,Jump rope,25,471.5
+50,Male,60,181,Yoga,80,200.0
+38,Female,59,158,Running,10,96.37
+49,Male,49,163,Running,30,240.1
+39,Female,72,162,Swimming,60,504.0
+32,Female,89,165,Swimming,25,259.58
+54,Male,97,154,Jump rope,90,1789.65
+33,Female,68,175,Jump rope,75,1045.5
+29,Female,50,184,Swimming,75,437.5
+24,Female,50,167,Yoga,85,177.08
+21,Female,51,182,Walking,30,89.25
+52,Female,97,176,Jump rope,25,497.13
+24,Female,59,159,Swimming,35,240.92
+24,Male,84,163,Cycling,60,672.0
+40,Female,82,168,Walking,20,95.67
+24,Female,77,173,Walking,55,247.04
+32,Female,82,189,Running,45,602.7
+48,Female,49,159,Jump rope,40,401.8
+21,Female,46,154,Jump rope,40,377.2
+44,Female,56,170,Jump rope,10,114.8
+40,Male,48,151,Running,15,117.6
+20,Male,71,173,Yoga,25,73.96
+52,Female,96,157,Cycling,15,192.0
+36,Male,96,151,Swimming,30,336.0
+39,Male,51,180,Jump rope,10,104.55
+41,Male,89,158,Cycling,75,890.0
+45,Male,95,156,Cycling,15,190.0
+40,Male,80,161,Swimming,90,840.0
+26,Male,94,158,Jump rope,70,1348.9
+21,Male,78,163,Yoga,20,65.0
+33,Female,87,169,Walking,40,203.0
+42,Male,62,171,Jump rope,75,953.25
+40,Male,78,188,Walking,20,91.0
+36,Male,60,152,Cycling,80,640.0
+23,Male,81,176,Cycling,85,918.0
+26,Male,85,188,Walking,30,148.75
+24,Female,94,154,Swimming,45,493.5
+49,Female,57,157,Cycling,90,684.0
+48,Female,67,171,Jump rope,40,549.4
+47,Male,60,174,Jump rope,60,738.0
+21,Female,74,155,Running,55,664.77
+25,Male,69,166,Running,80,901.6
+49,Female,88,182,Jump rope,65,1172.6
+45,Male,71,179,Swimming,75,621.25
+25,Female,77,163,Swimming,90,808.5
+52,Male,59,166,Running,70,674.57
+20,Female,84,150,Cycling,45,504.0
+28,Male,61,183,Walking,35,124.54
+33,Female,80,170,Swimming,50,466.67
+33,Male,59,150,Running,15,144.55
+43,Female,62,170,Walking,55,198.92
+33,Male,84,189,Cycling,65,728.0
+25,Male,60,160,Walking,75,262.5
+24,Female,87,168,Swimming,65,659.75
+27,Male,76,182,Running,80,993.07
+22,Female,60,155,Cycling,65,520.0
+32,Male,48,176,Jump rope,80,787.2
+50,Male,81,154,Jump rope,10,166.05
+32,Male,54,164,Jump rope,10,110.7
+24,Male,82,158,Swimming,45,430.5
+51,Male,59,152,Yoga,55,135.21
+56,Male,78,152,Swimming,70,637.0
+39,Male,50,157,Running,65,530.83
+42,Male,88,154,Walking,80,410.67
+22,Male,79,181,Swimming,60,553.0
+18,Male,84,174,Yoga,45,157.5
+35,Female,69,189,Walking,75,301.88
+47,Male,87,165,Cycling,30,348.0
+38,Female,47,171,Swimming,80,438.67
+26,Male,72,155,Running,25,294.0
+21,Male,67,170,Swimming,70,547.17
+47,Female,67,158,Cycling,30,268.0
+48,Male,47,164,Yoga,85,166.46
+38,Male,62,162,Walking,65,235.08
+20,Female,84,162,Walking,35,171.5
+48,Male,58,184,Yoga,25,60.42
+28,Male,54,177,Swimming,50,315.0
+38,Male,83,155,Swimming,30,290.5
+54,Female,73,189,Yoga,80,243.33
+33,Male,80,176,Yoga,50,166.67
+58,Male,52,179,Swimming,20,121.33
+39,Female,63,152,Swimming,75,551.25
+54,Male,89,162,Walking,70,363.42
+59,Male,57,168,Running,45,418.95
+20,Male,71,176,Jump rope,55,800.52
+60,Female,95,162,Jump rope,30,584.25
+21,Male,83,170,Jump rope,80,1361.2
+51,Male,76,179,Cycling,60,608.0
+39,Male,57,152,Cycling,65,494.0
+42,Female,53,168,Cycling,55,388.67
+24,Female,91,183,Cycling,40,485.33
+35,Female,86,164,Running,65,913.03
+50,Male,91,150,Cycling,65,788.67
+33,Male,60,155,Cycling,35,280.0
+52,Male,71,189,Walking,50,207.08
+58,Female,85,172,Cycling,35,396.67
+43,Female,46,186,Swimming,65,348.83
+45,Male,88,156,Cycling,35,410.67
+23,Male,58,189,Walking,10,33.83
+57,Female,94,150,Running,70,1074.73
+22,Male,88,174,Walking,35,179.67
+31,Male,48,159,Yoga,70,140.0
+33,Male,79,172,Walking,15,69.12
+18,Male,86,167,Yoga,60,215.0
+39,Female,78,173,Cycling,20,208.0
+48,Male,76,176,Swimming,45,399.0
+42,Female,53,181,Yoga,55,121.46
+53,Female,53,153,Jump rope,45,488.93
+26,Male,70,153,Running,40,457.33
+52,Female,80,169,Walking,70,326.67
+38,Male,67,154,Swimming,55,429.92
+33,Male,88,173,Cycling,70,821.33
+39,Female,59,159,Walking,70,240.92
+60,Male,45,165,Running,65,477.75
+53,Male,53,184,Jump rope,20,217.3
+55,Male,63,175,Jump rope,50,645.75
+27,Male,90,173,Walking,45,236.25
+59,Female,64,173,Walking,30,112.0
+20,Male,70,175,Running,25,285.83
+31,Male,58,169,Jump rope,90,1070.1
+36,Male,54,152,Walking,15,47.25
+56,Female,91,156,Cycling,60,728.0
+51,Male,97,159,Yoga,25,101.04
+33,Female,93,175,Cycling,80,992.0
+50,Male,97,177,Running,25,396.08
+50,Female,71,164,Cycling,80,757.33
+53,Female,98,180,Walking,85,485.92
+59,Female,77,153,Cycling,30,308.0
+40,Male,55,152,Walking,80,256.67
+29,Male,76,174,Yoga,70,221.67
+37,Male,65,150,Cycling,20,173.33
+40,Male,76,170,Cycling,60,608.0
+19,Female,82,162,Cycling,30,328.0
+38,Female,81,162,Walking,20,94.5
+47,Male,98,190,Yoga,65,265.42
+60,Male,57,158,Cycling,55,418.0
+55,Male,61,176,Walking,90,320.25
+52,Female,90,169,Swimming,85,892.5
+59,Female,79,182,Jump rope,80,1295.6
+43,Female,81,151,Cycling,10,108.0
+31,Female,71,153,Running,55,637.82
+31,Male,82,169,Jump rope,15,252.15
+27,Male,86,151,Cycling,80,917.33
+38,Female,84,181,Jump rope,45,774.9
+19,Male,89,156,Yoga,50,185.42
+42,Female,77,179,Jump rope,15,236.78
+30,Female,77,174,Jump rope,25,394.62
+53,Female,74,175,Cycling,15,148.0
+33,Female,60,188,Running,45,441.0
+31,Male,100,165,Running,10,163.33
+21,Male,63,175,Jump rope,50,645.75
+27,Female,99,183,Walking,25,144.38
+56,Female,97,165,Yoga,20,80.83
+18,Male,75,185,Cycling,90,900.0
+57,Female,57,188,Cycling,10,76.0
+60,Male,54,190,Cycling,45,324.0
+52,Male,99,158,Running,80,1293.6
+33,Female,71,180,Cycling,75,710.0
+18,Male,52,187,Yoga,50,108.33
+47,Female,59,186,Jump rope,40,483.8
+43,Female,67,187,Cycling,30,268.0
+40,Male,94,189,Yoga,90,352.5
+57,Male,52,176,Yoga,70,151.67
+53,Male,68,160,Yoga,45,127.5
+51,Female,93,161,Yoga,50,193.75
+45,Male,76,153,Walking,45,199.5
+37,Male,45,159,Swimming,90,472.5
+37,Male,66,160,Walking,55,211.75
+48,Male,54,157,Cycling,10,72.0
+42,Female,74,155,Jump rope,30,455.1
+52,Female,100,155,Swimming,65,758.33
+29,Female,94,166,Yoga,30,117.5
+46,Male,54,172,Cycling,10,72.0
+18,Male,85,163,Jump rope,20,348.5
+30,Male,67,181,Walking,55,214.96
+42,Female,46,186,Cycling,30,184.0
+37,Female,54,182,Cycling,85,612.0
+40,Female,72,176,Swimming,70,588.0
+34,Female,79,177,Running,15,193.55
+24,Female,54,189,Running,10,88.2
+41,Male,83,157,Yoga,15,51.88
+59,Male,65,183,Cycling,35,303.33
+28,Female,56,179,Walking,60,196.0
+52,Male,96,150,Cycling,90,1152.0
+25,Male,67,190,Jump rope,90,1236.15
+24,Male,60,179,Cycling,50,400.0
+33,Female,76,157,Running,25,310.33
+57,Male,74,166,Cycling,85,838.67
+54,Male,56,164,Walking,30,98.0
+42,Male,93,180,Walking,15,81.38
+47,Male,86,190,Jump rope,65,1145.95
+41,Female,50,166,Jump rope,10,102.5
+56,Female,99,185,Jump rope,35,710.33
+51,Female,64,153,Yoga,40,106.67
+40,Female,65,184,Walking,80,303.33
+58,Female,79,171,Swimming,75,691.25
+36,Male,78,190,Yoga,90,292.5
+19,Female,60,157,Swimming,25,175.0
+31,Female,77,158,Swimming,45,404.25
+21,Male,69,185,Cycling,55,506.0
+43,Male,47,152,Running,30,230.3
+50,Male,62,172,Jump rope,30,381.3
+45,Male,56,188,Running,20,182.93
+44,Male,53,169,Running,60,519.4
+18,Female,74,182,Walking,90,388.5
+57,Male,84,173,Swimming,60,588.0
+44,Male,62,159,Walking,55,198.92
+52,Female,95,154,Running,20,310.33
+59,Male,92,153,Swimming,45,483.0
+42,Male,65,173,Walking,60,227.5
+22,Male,64,159,Walking,60,224.0
+25,Female,61,180,Running,80,797.07
+53,Female,67,181,Swimming,70,547.17
+36,Male,57,183,Swimming,20,133.0
+34,Female,86,180,Walking,20,100.33
+42,Female,81,162,Swimming,70,661.5
+26,Male,49,151,Cycling,85,555.33
+23,Female,65,186,Walking,90,341.25
+57,Male,84,186,Walking,15,73.5
+39,Female,72,175,Swimming,55,462.0
+44,Male,95,172,Running,20,310.33
+26,Male,79,175,Running,75,967.75
+48,Male,93,177,Running,70,1063.3
+29,Female,100,177,Yoga,20,83.33
+24,Female,45,167,Cycling,65,390.0
+42,Female,81,152,Cycling,35,378.0
+43,Female,62,171,Swimming,30,217.0
+45,Female,66,163,Swimming,65,500.5
+48,Male,74,167,Swimming,65,561.17
+33,Female,82,163,Yoga,55,187.92
+60,Male,100,177,Jump rope,40,820.0
+46,Female,46,162,Jump rope,65,612.95
+34,Female,53,175,Yoga,10,22.08
+58,Female,50,167,Cycling,90,600.0
+47,Male,92,185,Running,55,826.47
+52,Female,96,187,Running,90,1411.2
+30,Female,76,186,Yoga,15,47.5
+23,Male,100,160,Walking,90,525.0
+33,Male,78,158,Walking,30,136.5
+33,Male,56,159,Swimming,40,261.33
+45,Female,91,158,Cycling,75,910.0
+51,Female,94,162,Walking,60,329.0
+33,Female,88,179,Jump rope,85,1533.4
+43,Male,91,173,Jump rope,15,279.82
+43,Female,46,151,Swimming,60,322.0
+52,Male,92,190,Jump rope,35,660.1
+19,Male,51,162,Cycling,10,68.0
+23,Female,75,169,Yoga,45,140.62
+49,Female,79,178,Yoga,15,49.38
+51,Male,87,151,Running,45,639.45
+46,Male,79,159,Cycling,40,421.33
+37,Female,74,151,Swimming,20,172.67
+31,Male,83,158,Yoga,65,224.79
+26,Male,74,187,Walking,75,323.75
+20,Female,54,190,Jump rope,25,276.75
+56,Female,59,150,Cycling,45,354.0
+50,Male,79,153,Walking,40,184.33
+41,Male,92,169,Cycling,25,306.67
+46,Female,61,150,Running,20,199.27
+39,Female,80,157,Jump rope,55,902.0
+24,Female,100,159,Walking,70,408.33
+26,Male,83,180,Cycling,70,774.67
+57,Male,46,187,Cycling,65,398.67
+55,Female,72,179,Yoga,60,180.0
+19,Male,66,152,Yoga,20,55.0
+52,Female,60,180,Cycling,10,80.0
+26,Female,94,160,Swimming,65,712.83
+43,Female,82,165,Jump rope,15,252.15
+58,Male,98,162,Cycling,85,1110.67
+51,Male,64,164,Walking,20,74.67
+35,Male,79,169,Walking,80,368.67
+37,Female,98,170,Swimming,65,743.17
+51,Male,65,184,Swimming,15,113.75
+44,Male,51,170,Cycling,15,102.0
+60,Male,64,173,Running,25,261.33
+26,Female,97,159,Cycling,20,258.67
+32,Female,55,162,Cycling,60,440.0
+41,Male,68,189,Cycling,90,816.0
+43,Female,92,152,Running,30,450.8
+47,Female,66,170,Swimming,10,77.0
+29,Male,65,165,Swimming,10,75.83
+55,Male,70,182,Cycling,50,466.67
+42,Female,62,154,Jump rope,25,317.75
+43,Male,83,156,Walking,10,48.42
+22,Male,78,186,Cycling,90,936.0
+25,Male,81,161,Running,20,264.6
+44,Female,59,182,Cycling,80,629.33
+49,Male,61,150,Yoga,45,114.38
+43,Male,91,163,Swimming,45,477.75
+60,Male,92,186,Jump rope,70,1320.2
+60,Male,95,152,Running,35,543.08
+56,Male,63,168,Cycling,30,252.0
+27,Male,46,157,Yoga,45,86.25
+46,Male,95,161,Swimming,65,720.42
+31,Female,63,155,Cycling,75,630.0
+41,Male,51,189,Yoga,90,191.25
+54,Male,64,173,Cycling,15,128.0
+49,Female,75,187,Jump rope,50,768.75
+52,Female,86,160,Running,45,632.1
+40,Female,74,165,Walking,85,366.92
+31,Male,94,177,Cycling,30,376.0
+45,Female,77,184,Walking,80,359.33
+31,Female,99,158,Swimming,60,693.0
+46,Female,54,151,Cycling,30,216.0
+46,Male,74,155,Running,15,181.3
+47,Male,58,181,Cycling,85,657.33
+25,Male,100,179,Walking,35,204.17
+28,Male,54,161,Cycling,35,252.0
+35,Female,76,181,Swimming,45,399.0
+44,Male,90,152,Jump rope,75,1383.75
+31,Male,64,176,Swimming,65,485.33
+45,Female,47,156,Running,90,690.9
+18,Female,77,174,Jump rope,65,1026.02
+44,Female,64,173,Running,60,627.2
+24,Female,57,179,Walking,90,299.25
+52,Female,98,190,Swimming,90,1029.0
+51,Female,52,187,Swimming,15,91.0
+52,Male,100,159,Walking,55,320.83
+24,Female,59,173,Yoga,65,159.79
+32,Female,65,151,Running,75,796.25
+32,Female,54,151,Walking,20,63.0
+36,Male,80,154,Yoga,45,150.0
+47,Male,48,175,Jump rope,10,98.4
+25,Female,47,173,Cycling,40,250.67
+40,Male,56,151,Cycling,50,373.33
+28,Male,76,160,Running,10,124.13
+22,Male,52,182,Running,80,679.47
+28,Male,62,181,Swimming,60,434.0
+20,Female,67,165,Walking,20,78.17
+44,Female,87,168,Yoga,85,308.12
+44,Female,96,165,Walking,35,196.0
+41,Female,85,187,Jump rope,65,1132.62
+57,Male,90,151,Walking,45,236.25
+52,Female,85,150,Cycling,40,453.33
+46,Female,54,154,Swimming,60,378.0
+20,Male,51,160,Walking,35,104.12
+38,Female,68,174,Jump rope,40,557.6
+34,Female,71,181,Cycling,90,852.0
+45,Male,64,165,Yoga,25,66.67
+51,Male,80,177,Yoga,80,266.67
+37,Male,58,184,Walking,15,50.75
+46,Female,90,163,Yoga,15,56.25
+57,Female,68,155,Cycling,45,408.0
+23,Female,72,153,Running,55,646.8
+29,Male,67,183,Cycling,35,312.67
+59,Female,91,157,Running,80,1189.07
+19,Male,89,168,Swimming,80,830.67
+28,Female,83,176,Walking,25,121.04
+57,Male,58,152,Running,90,852.6
+58,Male,77,180,Swimming,30,269.5
+43,Male,92,157,Cycling,35,429.33
+19,Male,79,164,Walking,40,184.33
+41,Male,47,173,Cycling,35,219.33
+47,Male,62,180,Jump rope,20,254.2
+53,Female,89,170,Yoga,75,278.12
+36,Female,94,186,Jump rope,35,674.45
+40,Female,49,164,Running,50,400.17
+27,Female,94,189,Swimming,90,987.0
+48,Female,53,159,Yoga,55,121.46
+45,Male,47,156,Walking,65,178.21
+60,Male,70,166,Swimming,40,326.67
+49,Male,71,180,Walking,30,124.25
+26,Male,64,188,Jump rope,45,590.4
+34,Female,54,183,Cycling,45,324.0
+43,Male,89,152,Walking,85,441.29
+20,Female,86,158,Running,70,983.27
+36,Male,62,156,Cycling,55,454.67
+19,Female,46,178,Running,55,413.23
+42,Female,50,173,Running,55,449.17
+28,Female,66,169,Running,35,377.3
+45,Female,65,154,Yoga,45,121.88
+33,Male,61,151,Cycling,30,244.0
+30,Female,80,167,Yoga,35,116.67
+28,Male,65,160,Yoga,60,162.5
+45,Male,77,168,Swimming,85,763.58
+31,Male,69,179,Jump rope,55,777.98
+43,Male,72,182,Running,65,764.4
+54,Male,54,157,Yoga,90,202.5
+34,Male,68,187,Running,25,277.67
+44,Female,72,186,Swimming,75,630.0
+24,Female,52,172,Jump rope,40,426.4
+57,Male,79,189,Running,20,258.07
+58,Female,87,160,Cycling,10,116.0
+29,Male,55,151,Jump rope,20,225.5
+38,Male,92,172,Cycling,55,674.67
+36,Female,68,166,Jump rope,25,348.5
+41,Male,45,177,Swimming,90,472.5
+57,Male,46,169,Cycling,70,429.33
+60,Female,91,150,Cycling,75,910.0
+18,Female,94,150,Yoga,30,117.5
+45,Male,73,187,Swimming,60,511.0
+48,Female,66,181,Walking,70,269.5
+39,Female,81,155,Yoga,10,33.75
+38,Male,98,164,Jump rope,20,401.8
+58,Male,92,171,Walking,50,268.33
+28,Male,90,159,Swimming,35,367.5
+47,Male,85,172,Walking,50,247.92
+45,Male,58,180,Yoga,60,145.0
+48,Female,66,183,Walking,65,250.25
+27,Female,89,174,Swimming,70,726.83
+33,Female,55,176,Cycling,45,330.0
+27,Male,73,187,Walking,40,170.33
+59,Female,74,164,Jump rope,90,1365.3
+59,Male,51,165,Walking,85,252.88
+38,Female,98,179,Swimming,40,457.33
+55,Male,66,190,Running,20,215.6
+42,Male,64,156,Jump rope,35,459.2
+30,Female,80,152,Running,80,1045.33
+48,Female,88,155,Running,20,287.47
+41,Female,70,169,Yoga,35,102.08
+38,Female,98,174,Walking,10,57.17
+59,Female,58,190,Cycling,30,232.0
+43,Female,73,182,Swimming,90,766.5
+58,Female,59,177,Yoga,50,122.92
+30,Male,69,182,Running,80,901.6
+25,Male,81,185,Running,50,661.5
+31,Male,52,160,Walking,35,106.17
+59,Male,76,162,Cycling,25,253.33
+24,Female,63,161,Walking,60,220.5
+20,Female,85,174,Cycling,60,680.0
+36,Male,45,188,Running,15,110.25
+24,Female,69,164,Cycling,60,552.0
+19,Female,75,176,Yoga,20,62.5
+45,Male,65,165,Jump rope,35,466.38
+28,Male,45,153,Running,50,367.5
+43,Female,57,154,Swimming,80,532.0
+51,Male,68,159,Running,55,610.87
+57,Male,52,172,Running,65,552.07
+59,Male,90,159,Cycling,60,720.0
+29,Female,56,155,Walking,35,114.33
+30,Female,89,177,Walking,30,155.75
+43,Male,79,182,Yoga,45,148.12
+54,Female,75,165,Yoga,65,203.12
+48,Female,68,150,Walking,80,317.33
+44,Female,82,181,Walking,65,310.92
+20,Male,64,164,Swimming,25,186.67
+35,Female,92,182,Cycling,25,306.67
+49,Male,89,171,Swimming,20,207.67
+36,Male,72,173,Cycling,35,336.0
+50,Male,55,182,Yoga,80,183.33
+59,Male,99,187,Yoga,35,144.38
+45,Male,86,166,Running,20,280.93
+54,Female,54,165,Running,70,617.4
+59,Female,71,153,Walking,25,103.54
+34,Female,100,187,Jump rope,80,1640.0
+35,Male,100,150,Walking,65,379.17
+39,Male,100,151,Running,80,1306.67
+27,Female,61,181,Jump rope,40,500.2
+39,Female,74,177,Swimming,90,777.0
+43,Female,90,188,Cycling,60,720.0
+57,Male,46,173,Swimming,55,295.17
+20,Female,57,157,Cycling,20,152.0
+33,Female,86,177,Walking,15,75.25
+37,Male,56,158,Yoga,90,210.0
+43,Male,74,188,Walking,70,302.17
+32,Female,61,182,Jump rope,20,250.1
+27,Male,56,187,Jump rope,10,114.8
+28,Male,93,163,Walking,80,434.0
+45,Male,68,177,Cycling,50,453.33
+38,Female,57,173,Yoga,40,95.0
+57,Female,92,166,Yoga,85,325.83
+26,Female,95,190,Jump rope,90,1752.75
+55,Female,52,185,Cycling,85,589.33
+49,Female,65,172,Swimming,15,113.75
+52,Male,95,175,Walking,50,277.08
+38,Female,94,161,Walking,30,164.5
+50,Male,84,181,Yoga,60,210.0
+58,Female,84,167,Yoga,35,122.5
+44,Male,86,175,Swimming,20,200.67
+56,Female,80,152,Cycling,20,213.33
+18,Female,99,170,Yoga,35,144.38
+58,Female,57,156,Swimming,25,166.25
+50,Male,45,157,Cycling,75,450.0
+58,Male,57,160,Swimming,60,399.0
+19,Male,64,168,Yoga,90,240.0
+19,Female,84,159,Jump rope,50,861.0
+50,Male,55,160,Running,80,718.67
+28,Male,73,159,Running,15,178.85
+31,Female,46,176,Walking,50,134.17
+40,Female,81,164,Running,80,1058.4
+33,Male,97,159,Running,20,316.87
+20,Female,86,155,Swimming,85,852.83
+19,Male,71,170,Yoga,55,162.71
+59,Female,91,186,Walking,80,424.67
+46,Female,75,172,Running,30,367.5
+27,Male,95,180,Running,20,310.33
+45,Female,98,155,Swimming,70,800.33
+57,Male,95,156,Walking,75,415.62
+59,Female,92,154,Cycling,30,368.0
+52,Male,99,155,Cycling,20,264.0
+41,Female,78,158,Walking,30,136.5
+22,Male,73,184,Running,70,834.63
+52,Male,47,170,Swimming,50,274.17
+18,Male,93,167,Running,80,1215.2
+37,Female,95,169,Swimming,35,387.92
+38,Male,100,170,Jump rope,75,1537.5
+54,Female,70,186,Yoga,75,218.75
+56,Female,62,175,Yoga,40,103.33
+55,Male,48,176,Jump rope,90,885.6
+59,Female,97,166,Yoga,75,303.12
+31,Male,93,189,Cycling,80,992.0
+28,Male,54,181,Cycling,75,540.0
+26,Female,67,178,Jump rope,20,274.7
+32,Female,86,157,Yoga,45,161.25
+30,Female,99,179,Swimming,20,231.0
+25,Male,57,182,Yoga,35,83.12
+26,Male,89,172,Walking,50,259.58
+31,Female,64,179,Cycling,20,170.67
+39,Male,75,157,Jump rope,10,153.75
+42,Female,80,188,Jump rope,15,246.0
+18,Male,52,173,Jump rope,85,906.1
+57,Female,94,190,Jump rope,45,867.15
+35,Male,55,160,Jump rope,90,1014.75
+37,Female,90,182,Swimming,90,945.0
+56,Male,93,165,Jump rope,30,571.95
+34,Male,87,150,Jump rope,10,178.35
+34,Female,70,155,Walking,40,163.33
+29,Male,53,164,Yoga,30,66.25
+25,Female,45,150,Running,20,147.0
+32,Female,46,163,Walking,90,241.5
+19,Male,54,157,Cycling,90,648.0
+21,Male,84,161,Running,40,548.8
+32,Female,83,167,Swimming,65,629.42
+54,Female,88,162,Walking,90,462.0
+56,Female,70,163,Cycling,40,373.33
+53,Male,47,159,Cycling,45,282.0
+57,Female,89,173,Walking,50,259.58
+24,Male,49,161,Walking,15,42.88
+59,Male,45,182,Cycling,25,150.0
+19,Female,95,190,Yoga,45,178.12
+34,Female,93,181,Cycling,40,496.0
+36,Male,46,163,Cycling,90,552.0
+28,Male,58,164,Yoga,20,48.33
+49,Male,73,164,Swimming,60,511.0
+54,Female,54,151,Cycling,45,324.0
+21,Female,77,190,Cycling,20,205.33
+23,Male,89,164,Jump rope,80,1459.6
+33,Male,54,179,Cycling,85,612.0
+42,Female,54,170,Walking,40,126.0
+30,Female,73,169,Swimming,15,127.75
+50,Male,60,165,Running,60,588.0
+18,Male,51,165,Cycling,70,476.0
+37,Female,68,169,Swimming,25,198.33
+28,Female,51,157,Running,45,374.85
+18,Male,58,179,Swimming,20,135.33
+32,Female,92,154,Yoga,30,115.0
+50,Male,47,182,Cycling,30,188.0
+59,Female,90,157,Cycling,45,540.0
+35,Female,95,190,Jump rope,75,1460.62
+37,Male,50,164,Walking,30,87.5
+46,Female,56,187,Walking,35,114.33
+52,Male,72,163,Yoga,30,90.0
+49,Female,87,177,Cycling,85,986.0
+35,Female,90,157,Running,60,882.0
+44,Male,76,187,Walking,45,199.5
+55,Male,54,183,Running,70,617.4
+33,Male,57,172,Walking,70,232.75
+18,Female,58,176,Running,85,805.23
+29,Female,63,182,Walking,50,183.75
+56,Female,75,175,Cycling,75,750.0
+58,Female,79,184,Cycling,40,421.33
+37,Male,67,160,Jump rope,60,824.1
+36,Male,54,150,Cycling,75,540.0
+18,Female,93,173,Running,35,531.65
+34,Male,61,189,Yoga,85,216.04
+25,Female,68,179,Jump rope,60,836.4
+51,Female,51,174,Cycling,75,510.0
+38,Female,96,181,Cycling,35,448.0
+32,Male,65,188,Running,55,583.92
+32,Female,45,168,Cycling,85,510.0
+54,Female,54,167,Swimming,50,315.0
+18,Male,56,151,Jump rope,20,229.6
+27,Female,83,165,Cycling,80,885.33
+36,Female,85,172,Jump rope,45,784.12
+57,Male,88,158,Swimming,30,308.0
+59,Male,71,156,Cycling,25,236.67
+31,Male,50,184,Running,25,204.17
+21,Male,81,170,Swimming,75,708.75
+34,Male,90,160,Walking,55,288.75
+22,Female,78,162,Swimming,35,318.5
+52,Male,57,167,Jump rope,85,993.23
+25,Female,50,178,Cycling,10,66.67
+52,Male,81,177,Swimming,50,472.5
+54,Female,86,155,Yoga,65,232.92
+27,Male,60,188,Walking,35,122.5
+24,Female,83,190,Yoga,90,311.25
+21,Male,97,180,Swimming,20,226.33
+42,Male,61,163,Walking,25,88.96
+40,Female,45,188,Swimming,70,367.5
+53,Female,62,189,Swimming,45,325.5
+21,Male,94,155,Jump rope,55,1059.85
+28,Female,58,169,Walking,35,118.42
+49,Male,88,169,Jump rope,55,992.2
+50,Female,46,162,Cycling,90,552.0
+29,Male,74,177,Running,55,664.77
+43,Female,77,183,Cycling,30,308.0
+52,Female,85,170,Running,20,277.67
+35,Female,97,158,Cycling,40,517.33
+30,Male,91,153,Swimming,20,212.33
+34,Male,47,170,Running,85,652.52
+30,Male,54,180,Swimming,40,252.0
+48,Male,91,189,Jump rope,20,373.1
+21,Male,74,162,Swimming,45,388.5
+28,Female,85,180,Cycling,50,566.67
+22,Male,72,160,Jump rope,65,959.4
+38,Male,96,187,Cycling,10,128.0
+38,Female,73,155,Jump rope,20,299.3
+54,Male,94,182,Jump rope,40,770.8
+33,Female,88,163,Jump rope,30,541.2
+18,Male,91,163,Yoga,75,284.38
+47,Male,70,177,Swimming,85,694.17
+21,Male,62,173,Yoga,70,180.83
+58,Female,93,154,Swimming,30,325.5
+19,Male,88,188,Jump rope,10,180.4
+31,Male,57,184,Yoga,25,59.38
+58,Male,66,179,Cycling,45,396.0
+48,Male,84,177,Yoga,25,87.5
+60,Female,49,161,Walking,65,185.79
+23,Female,77,170,Yoga,80,256.67
+28,Female,86,174,Cycling,40,458.67
+31,Male,52,150,Walking,15,45.5
+24,Male,77,186,Yoga,45,144.38
+49,Male,53,176,Yoga,35,77.29
+18,Female,63,166,Cycling,30,252.0
+26,Female,77,184,Yoga,45,144.38
+39,Female,70,168,Jump rope,15,215.25
+21,Male,85,175,Running,65,902.42
+28,Male,90,163,Yoga,30,112.5
+22,Male,96,160,Jump rope,65,1279.2
+48,Male,98,173,Swimming,90,1029.0
+35,Male,77,183,Running,40,503.07
+35,Female,94,178,Swimming,35,383.83
+20,Male,54,180,Yoga,20,45.0
+20,Female,82,158,Cycling,10,109.33
+25,Female,89,151,Cycling,40,474.67
+49,Female,84,161,Jump rope,90,1549.8
+59,Male,97,159,Yoga,30,121.25
+26,Female,61,151,Cycling,25,203.33
+47,Male,83,153,Swimming,50,484.17
+58,Female,60,151,Walking,80,280.0
+47,Male,64,153,Running,60,627.2
+23,Male,60,150,Swimming,80,560.0
+38,Male,97,164,Cycling,20,258.67
+33,Female,64,166,Swimming,90,672.0
+57,Female,51,185,Walking,90,267.75
+27,Male,92,168,Swimming,90,966.0
+50,Male,79,185,Walking,55,253.46
+27,Male,66,185,Walking,80,308.0
+38,Male,85,163,Running,75,1041.25
+29,Female,72,183,Jump rope,30,442.8
+29,Male,87,176,Jump rope,70,1248.45
+25,Female,60,181,Running,30,294.0
+42,Female,90,151,Cycling,90,1080.0
+18,Male,51,154,Running,85,708.05
+18,Male,53,155,Swimming,20,123.67
+28,Male,63,157,Running,15,154.35
+38,Male,51,179,Cycling,50,340.0
+33,Male,62,184,Walking,55,198.92
+60,Male,95,172,Cycling,60,760.0
+51,Male,60,177,Swimming,35,245.0
+47,Female,57,189,Running,65,605.15
+33,Male,61,158,Running,60,597.8
+57,Female,83,160,Swimming,20,193.67
+33,Female,68,190,Yoga,90,255.0
+33,Female,84,161,Swimming,50,490.0
+54,Male,93,189,Running,85,1291.15
+31,Female,45,166,Swimming,85,446.25
+55,Female,88,168,Yoga,15,55.0
+57,Female,85,176,Running,65,902.42
+39,Male,83,151,Jump rope,85,1446.28
+46,Female,74,179,Jump rope,25,379.25
+35,Female,88,172,Yoga,60,220.0
+30,Female,52,184,Cycling,35,242.67
+39,Male,75,183,Swimming,40,350.0
+52,Female,65,157,Walking,45,170.62
+31,Female,97,174,Cycling,15,194.0
+29,Male,52,171,Swimming,35,212.33
+33,Female,75,185,Yoga,40,125.0
+47,Female,57,167,Running,30,279.3
+51,Female,65,180,Jump rope,35,466.38
+40,Male,76,175,Walking,85,376.83
+56,Male,67,162,Swimming,25,195.42
+30,Female,58,161,Yoga,65,157.08
+53,Female,78,151,Cycling,25,260.0
+27,Female,46,180,Walking,30,80.5
+18,Male,69,151,Yoga,15,43.12
+36,Male,58,157,Cycling,45,348.0
+53,Female,77,160,Jump rope,55,868.17
+21,Female,67,174,Jump rope,45,618.08
+53,Female,89,186,Walking,15,77.88
+41,Female,63,179,Running,35,360.15
+41,Female,98,185,Yoga,65,265.42
+52,Male,88,186,Walking,80,410.67
+19,Female,81,169,Swimming,90,850.5
+35,Female,54,177,Walking,75,236.25
+18,Male,62,163,Walking,75,271.25
+41,Female,49,168,Jump rope,65,652.92
+33,Male,73,158,Jump rope,35,523.78
+30,Female,69,151,Cycling,80,736.0
+44,Male,91,184,Swimming,80,849.33
+19,Male,59,178,Swimming,10,68.83
+49,Female,51,175,Cycling,15,102.0
+41,Female,79,176,Walking,55,253.46
+27,Female,49,183,Jump rope,35,351.58
+51,Male,80,162,Running,65,849.33
+37,Female,92,182,Yoga,35,134.17
+47,Male,61,178,Walking,15,53.38
+30,Male,84,154,Yoga,60,210.0
+46,Female,63,162,Yoga,80,210.0
+28,Male,48,181,Jump rope,35,344.4
+34,Female,82,178,Cycling,15,164.0
+47,Female,75,151,Running,70,857.5
+37,Female,98,151,Cycling,30,392.0
+38,Female,95,159,Jump rope,90,1752.75
+24,Female,52,168,Jump rope,60,639.6
+42,Female,56,166,Cycling,85,634.67
+33,Male,56,151,Yoga,10,23.33
+37,Female,62,184,Jump rope,20,254.2
+47,Male,47,160,Cycling,40,250.67
+19,Male,91,181,Yoga,35,132.71
+18,Male,98,179,Yoga,70,285.83
+30,Female,86,154,Jump rope,50,881.5
+56,Female,72,153,Cycling,50,480.0
+52,Female,65,171,Running,10,106.17
+31,Male,60,176,Running,65,637.0
+31,Male,48,150,Yoga,70,140.0
+49,Female,61,169,Swimming,90,640.5
+41,Male,66,152,Yoga,50,137.5
+57,Female,89,177,Cycling,60,712.0
+38,Male,92,166,Running,85,1277.27
+25,Male,100,155,Jump rope,40,820.0
+43,Female,83,175,Running,85,1152.32
+54,Female,56,175,Running,15,137.2
+53,Male,84,156,Yoga,85,297.5
+20,Female,98,179,Yoga,15,61.25
+32,Female,90,186,Walking,35,183.75
+54,Female,78,174,Running,90,1146.6
+34,Female,98,161,Running,30,480.2
+57,Male,46,190,Running,10,75.13
+33,Male,50,187,Swimming,50,291.67
+32,Male,50,150,Walking,40,116.67
+34,Male,70,167,Cycling,35,326.67
+53,Male,94,151,Jump rope,65,1252.55
+33,Female,58,188,Cycling,35,270.67
+39,Female,70,152,Swimming,55,449.17
+26,Male,66,171,Yoga,45,123.75
+31,Female,83,170,Cycling,30,332.0
+60,Female,50,165,Running,30,245.0
+20,Female,93,169,Running,80,1215.2
+29,Female,47,166,Jump rope,75,722.62
+45,Male,75,157,Yoga,20,62.5
+47,Female,60,157,Jump rope,60,738.0
+27,Female,54,165,Swimming,90,567.0
+60,Female,79,155,Cycling,40,421.33
+27,Male,80,154,Cycling,10,106.67
+45,Female,49,161,Running,80,640.27
+54,Female,53,172,Jump rope,75,814.88
+34,Female,52,151,Jump rope,20,213.2
+53,Male,65,150,Running,15,159.25
+34,Male,52,187,Jump rope,40,426.4
+20,Male,57,164,Swimming,70,465.5
+53,Female,71,154,Swimming,30,248.5
+35,Male,74,155,Walking,15,64.75
+48,Female,59,186,Yoga,15,36.88
+31,Female,96,160,Jump rope,50,984.0
+58,Male,90,178,Yoga,45,168.75
+26,Female,86,162,Swimming,90,903.0
+40,Male,99,181,Swimming,65,750.75
+29,Female,51,151,Yoga,55,116.88
+37,Male,92,177,Swimming,50,536.67
+21,Female,74,173,Yoga,70,215.83
+49,Male,79,171,Cycling,75,790.0
+24,Male,67,176,Cycling,50,446.67
+29,Male,46,164,Walking,25,67.08
+36,Female,93,185,Running,65,987.35
+24,Female,92,177,Walking,45,241.5
+50,Female,87,183,Yoga,60,217.5
+19,Female,92,152,Swimming,55,590.33
+42,Female,90,155,Swimming,55,577.5
+34,Male,64,171,Running,90,940.8
+20,Female,53,159,Yoga,70,154.58
+22,Male,87,157,Running,15,213.15
+26,Female,73,175,Running,45,536.55
+42,Female,97,176,Cycling,65,840.67
+49,Male,64,184,Jump rope,80,1049.6
+38,Female,68,166,Running,15,166.6
+51,Female,81,152,Swimming,90,850.5
+49,Female,60,188,Jump rope,25,307.5
+53,Male,93,188,Jump rope,60,1143.9
+60,Male,76,164,Yoga,60,190.0
+28,Male,70,159,Walking,65,265.42
+52,Female,55,166,Running,55,494.08
+18,Female,86,155,Cycling,50,573.33
+44,Female,96,155,Walking,55,308.0
+58,Male,73,189,Cycling,55,535.33
+18,Female,89,172,Cycling,75,890.0
+21,Female,45,154,Running,15,110.25
+18,Female,72,183,Swimming,55,462.0
+60,Male,90,190,Swimming,40,420.0
+25,Male,52,184,Walking,20,60.67
+24,Male,55,166,Cycling,55,403.33
+44,Female,75,157,Swimming,35,306.25
+45,Female,77,168,Cycling,65,667.33
+39,Male,91,157,Swimming,65,690.08
+57,Male,80,170,Swimming,45,420.0
+42,Female,94,171,Swimming,40,438.67
+32,Male,53,159,Jump rope,20,217.3
+30,Female,98,159,Walking,65,371.58
+37,Male,57,160,Jump rope,35,408.98
+30,Male,96,189,Jump rope,35,688.8
+57,Male,61,161,Yoga,45,114.38
+47,Female,74,156,Running,40,483.47
+23,Male,72,166,Running,90,1058.4
+54,Male,96,150,Running,65,1019.2
+36,Male,82,185,Yoga,25,85.42
+35,Female,66,178,Running,15,161.7
+29,Male,63,174,Yoga,60,157.5
+22,Male,88,152,Swimming,45,462.0
+18,Male,83,150,Jump rope,85,1446.28
+30,Male,64,163,Swimming,75,560.0
+31,Female,78,152,Yoga,30,97.5
+59,Female,92,163,Swimming,85,912.33
+40,Male,84,167,Yoga,65,227.5
+41,Male,54,166,Yoga,20,45.0
+37,Male,75,161,Jump rope,70,1076.25
+48,Female,98,152,Running,30,480.2
+55,Male,64,188,Jump rope,15,196.8
+35,Female,81,177,Yoga,50,168.75
+45,Male,46,170,Yoga,30,57.5
+37,Male,81,189,Walking,25,118.12
+41,Male,100,189,Jump rope,65,1332.5
+44,Male,77,180,Jump rope,25,394.62
+25,Female,80,163,Walking,60,280.0
+39,Male,58,158,Yoga,75,181.25
+25,Female,49,189,Swimming,30,171.5
+30,Female,91,190,Swimming,55,583.92
+26,Female,83,179,Yoga,35,121.04
+39,Female,84,172,Running,35,480.2
+45,Male,56,161,Yoga,10,23.33
+21,Male,75,176,Swimming,55,481.25
+41,Female,50,154,Swimming,40,233.33
+47,Male,64,177,Swimming,35,261.33
+40,Female,91,151,Swimming,75,796.25
+20,Male,71,183,Yoga,35,103.54
+50,Male,63,172,Jump rope,75,968.63
+23,Male,76,169,Swimming,80,709.33
+57,Female,49,190,Jump rope,20,200.9
+19,Female,48,180,Cycling,70,448.0
+33,Female,62,160,Running,15,151.9
+57,Male,54,158,Cycling,10,72.0
+39,Male,88,160,Walking,80,410.67
+46,Male,68,177,Yoga,35,99.17
+24,Male,82,150,Walking,35,167.42
+48,Female,77,156,Walking,90,404.25
+60,Male,84,164,Walking,35,171.5
+60,Male,60,190,Running,75,735.0
+45,Male,84,165,Running,35,480.2
+46,Female,87,150,Walking,55,279.12
+30,Male,58,162,Walking,40,135.33
+18,Male,55,177,Swimming,85,545.42
+23,Male,84,178,Walking,50,245.0
+40,Male,94,160,Walking,35,191.92
+56,Female,46,151,Yoga,30,57.5
+32,Male,69,180,Swimming,30,241.5
+32,Male,51,157,Cycling,60,408.0
+31,Female,98,179,Swimming,45,514.5
+51,Female,89,180,Jump rope,10,182.45
+54,Female,99,189,Yoga,85,350.62
+51,Female,56,172,Yoga,75,175.0
+20,Male,99,164,Swimming,40,462.0
+23,Male,79,189,Walking,15,69.12
+22,Male,58,157,Swimming,70,473.67
+42,Female,97,167,Yoga,20,80.83
+35,Female,92,165,Swimming,40,429.33
+28,Female,69,168,Walking,55,221.38
+39,Male,96,171,Running,10,156.8
+28,Female,72,158,Jump rope,55,811.8
+57,Female,57,169,Walking,90,299.25
+29,Male,90,175,Cycling,55,660.0
+26,Female,69,179,Swimming,15,120.75
+29,Female,61,164,Walking,20,71.17
+43,Female,94,166,Jump rope,75,1445.25
+43,Male,82,190,Running,25,334.83
+56,Female,90,173,Cycling,90,1080.0
+50,Male,56,174,Walking,55,179.67
+43,Male,95,155,Walking,15,83.12
+48,Female,68,169,Cycling,30,272.0
+44,Male,75,156,Swimming,40,350.0
+52,Male,81,162,Walking,90,425.25
+27,Female,78,189,Cycling,10,104.0
+45,Male,100,160,Walking,85,495.83
+59,Male,87,152,Swimming,10,101.5
+53,Male,74,179,Swimming,25,215.83
+20,Female,49,160,Running,60,480.2
+43,Female,94,172,Walking,30,164.5
+54,Female,68,188,Jump rope,30,418.2
+53,Female,74,152,Jump rope,85,1289.45
+55,Female,63,175,Swimming,30,220.5
+50,Male,49,162,Walking,85,242.96
+29,Male,60,188,Swimming,15,105.0
+56,Female,97,170,Walking,40,226.33
+33,Female,50,156,Swimming,70,408.33
+51,Male,100,151,Cycling,50,666.67
+59,Male,94,178,Walking,30,164.5
+20,Male,88,152,Yoga,90,330.0
+50,Male,67,179,Walking,60,234.5
+42,Female,74,165,Yoga,10,30.83
+28,Female,79,175,Jump rope,70,1133.65
+35,Female,61,152,Running,55,547.98
+19,Male,62,171,Swimming,15,108.5
+42,Male,54,187,Swimming,40,252.0
+33,Female,99,151,Swimming,85,981.75
+28,Female,52,180,Jump rope,70,746.2
+43,Female,78,167,Yoga,25,81.25
+48,Female,78,176,Cycling,75,780.0
+50,Female,56,165,Cycling,65,485.33
+42,Male,56,187,Cycling,85,634.67
+38,Female,49,166,Walking,85,242.96
+42,Female,67,155,Walking,70,273.58
+41,Female,51,175,Cycling,75,510.0
+56,Female,90,177,Running,50,735.0
+27,Female,60,189,Cycling,50,400.0
+21,Male,80,174,Walking,40,186.67
+24,Male,73,184,Walking,45,191.62
+20,Male,99,163,Yoga,30,123.75
+27,Female,46,158,Cycling,70,429.33
+46,Female,62,150,Cycling,70,578.67
+33,Male,94,157,Swimming,10,109.67
+36,Female,84,188,Running,15,205.8
+54,Female,81,184,Running,30,396.9
+30,Male,61,158,Running,25,249.08
+38,Female,84,172,Cycling,80,896.0
+18,Female,55,167,Running,45,404.25
+40,Male,93,172,Cycling,55,682.0
+40,Female,100,153,Walking,85,495.83
+47,Female,74,180,Yoga,20,61.67
+54,Male,71,186,Yoga,85,251.46
+60,Female,61,164,Yoga,90,228.75
+42,Male,90,190,Jump rope,90,1660.5
+45,Female,72,183,Cycling,45,432.0
+22,Male,63,184,Swimming,70,514.5
+48,Female,88,168,Swimming,15,154.0
+52,Female,93,168,Running,80,1215.2
+19,Female,63,154,Yoga,40,105.0
+37,Female,58,158,Jump rope,60,713.4
+56,Female,87,167,Running,35,497.35
+39,Male,75,177,Swimming,50,437.5
+58,Male,59,186,Jump rope,70,846.65
+33,Female,48,161,Cycling,70,448.0
+40,Female,57,154,Running,80,744.8
+52,Female,78,156,Yoga,85,276.25
+47,Male,79,178,Yoga,40,131.67
+36,Female,58,163,Cycling,85,657.33
+58,Female,82,186,Cycling,35,382.67
+45,Female,100,161,Swimming,45,525.0
+21,Female,62,181,Running,35,354.43
+33,Male,50,161,Swimming,55,320.83
+37,Male,59,173,Swimming,65,447.42
+55,Male,60,157,Cycling,80,640.0
+50,Male,90,159,Swimming,15,157.5
+19,Male,68,160,Jump rope,60,836.4
+45,Female,79,157,Running,55,709.68
+29,Female,60,184,Walking,75,262.5
+19,Female,52,165,Jump rope,90,959.4
+52,Female,99,176,Yoga,15,61.88
+20,Female,100,161,Cycling,40,533.33
+53,Female,46,171,Yoga,85,162.92
+46,Female,100,162,Cycling,30,400.0
+59,Male,52,172,Yoga,60,130.0
+45,Male,84,184,Running,80,1097.6
+25,Female,100,181,Jump rope,40,820.0
+39,Male,72,154,Swimming,50,420.0
+54,Male,65,176,Jump rope,50,666.25
+41,Female,77,155,Swimming,75,673.75
+40,Female,48,171,Jump rope,30,295.2
+26,Female,57,166,Swimming,65,432.25
+45,Female,71,167,Cycling,40,378.67
+53,Female,77,183,Walking,90,404.25
+31,Male,81,164,Swimming,75,708.75
+57,Female,70,153,Running,55,628.83
+42,Male,67,176,Swimming,55,429.92
+60,Male,86,159,Walking,20,100.33
+36,Female,71,176,Cycling,60,568.0
+27,Male,68,170,Jump rope,35,487.9
+19,Male,67,155,Swimming,45,351.75
+19,Female,93,179,Yoga,15,58.12
+44,Female,88,171,Walking,80,410.67
+28,Male,66,157,Cycling,85,748.0
+42,Female,51,178,Swimming,75,446.25
+27,Female,88,162,Swimming,45,462.0
+46,Male,61,167,Jump rope,30,375.15
+50,Male,45,179,Swimming,10,52.5
+42,Male,73,167,Running,10,119.23
+32,Female,56,187,Walking,10,32.67
+27,Female,71,150,Yoga,35,103.54
+58,Male,59,166,Swimming,80,550.67
+52,Male,46,188,Cycling,45,276.0
+18,Male,75,176,Yoga,10,31.25
+47,Male,75,159,Yoga,60,187.5
+54,Male,100,171,Walking,25,145.83
+35,Male,68,156,Jump rope,30,418.2
+58,Female,56,173,Jump rope,15,172.2
+31,Female,49,185,Swimming,15,85.75
+49,Male,85,150,Yoga,40,141.67
+52,Male,94,154,Running,80,1228.27
+46,Male,64,156,Yoga,40,106.67
+37,Male,95,152,Cycling,35,443.33
+44,Female,75,170,Swimming,90,787.5
+29,Female,89,159,Walking,60,311.5
+21,Female,60,171,Jump rope,45,553.5
+47,Female,83,189,Yoga,45,155.62
+40,Male,56,189,Yoga,85,198.33
+53,Male,55,171,Swimming,70,449.17
+44,Male,50,151,Yoga,40,83.33
+58,Male,99,156,Walking,40,231.0
+28,Male,66,166,Swimming,50,385.0
+58,Female,100,173,Yoga,45,187.5
+45,Female,87,166,Cycling,65,754.0
+18,Female,52,152,Cycling,10,69.33
+31,Female,52,161,Yoga,50,108.33
+54,Male,82,161,Cycling,60,656.0
+56,Male,54,163,Yoga,35,78.75
+56,Male,57,178,Swimming,10,66.5
+57,Female,83,190,Swimming,45,435.75
+34,Male,99,187,Cycling,75,990.0
+30,Male,74,175,Jump rope,20,303.4
+50,Female,53,188,Jump rope,60,651.9
+54,Male,79,180,Yoga,50,164.58
+28,Female,67,164,Cycling,45,402.0
+25,Male,98,184,Cycling,70,914.67
+60,Female,74,173,Jump rope,65,986.05
+41,Female,65,190,Jump rope,80,1066.0
+56,Male,96,183,Swimming,75,840.0
+33,Female,89,178,Jump rope,75,1368.38
+22,Female,63,179,Cycling,80,672.0
+29,Male,66,163,Walking,80,308.0
+40,Female,100,151,Cycling,15,200.0
+34,Female,62,168,Running,25,253.17
+26,Female,59,189,Running,30,289.1
+58,Female,48,182,Cycling,40,256.0
+22,Female,92,178,Yoga,45,172.5
+49,Female,75,183,Walking,80,350.0
+32,Male,81,163,Jump rope,20,332.1
+32,Female,65,174,Cycling,15,130.0
+36,Female,88,182,Swimming,40,410.67
+51,Male,57,165,Yoga,45,106.88
+33,Female,94,175,Swimming,90,987.0
+59,Male,60,181,Walking,65,227.5
+48,Male,80,186,Running,85,1110.67
+19,Male,48,158,Running,45,352.8
+18,Male,58,171,Walking,45,152.25
+26,Female,58,172,Yoga,50,120.83
+27,Male,93,184,Jump rope,50,953.25
+47,Male,96,185,Yoga,50,200.0
+42,Female,82,165,Yoga,50,170.83
+45,Male,81,167,Jump rope,65,1079.33
+35,Female,93,151,Cycling,50,620.0
+23,Male,50,159,Walking,65,189.58
+43,Male,63,161,Swimming,20,147.0
+36,Male,90,164,Yoga,40,150.0
+30,Female,100,187,Cycling,55,733.33
+28,Female,46,158,Walking,60,161.0
+60,Male,82,160,Jump rope,20,336.2
+18,Male,99,159,Yoga,65,268.12
+38,Male,87,159,Cycling,25,290.0
+50,Female,81,170,Cycling,35,378.0
+20,Male,45,176,Walking,70,183.75
+20,Male,46,162,Swimming,40,214.67
+29,Male,69,150,Cycling,10,92.0
+56,Male,76,157,Yoga,50,158.33
+33,Male,67,153,Swimming,45,351.75
+22,Male,70,168,Cycling,75,700.0
+30,Male,46,168,Running,80,601.07
+38,Female,51,156,Walking,70,208.25
+23,Male,89,183,Running,40,581.47
+19,Male,69,155,Walking,20,80.5
+43,Male,81,166,Walking,50,236.25
+20,Male,81,167,Cycling,10,108.0
+48,Female,62,185,Running,70,708.87
+19,Male,52,186,Cycling,45,312.0
+50,Male,67,172,Jump rope,90,1236.15
+25,Female,97,184,Jump rope,75,1491.38
+40,Female,70,187,Walking,25,102.08
+51,Male,50,189,Cycling,25,166.67
+55,Male,91,151,Yoga,30,113.75
+25,Female,93,184,Jump rope,20,381.3
+43,Male,66,157,Yoga,10,27.5
+48,Male,57,183,Swimming,50,332.5
+46,Male,45,181,Swimming,70,367.5
+60,Female,58,176,Cycling,60,464.0
+29,Male,78,154,Yoga,10,32.5
+43,Male,61,160,Running,35,348.72
+54,Female,45,188,Walking,60,157.5
+20,Female,89,151,Yoga,25,92.71
+50,Male,85,180,Running,60,833.0
+56,Male,93,188,Yoga,35,135.62
+58,Female,100,158,Yoga,20,83.33
+35,Female,57,166,Walking,55,182.88
+39,Male,96,151,Walking,45,252.0
+45,Female,77,175,Yoga,30,96.25
+26,Female,64,188,Walking,10,37.33
+55,Male,80,185,Walking,60,280.0
+51,Female,53,173,Cycling,80,565.33
+59,Female,97,159,Yoga,50,202.08
+18,Female,69,181,Running,10,112.7
+57,Female,61,177,Yoga,55,139.79
+36,Female,70,186,Walking,75,306.25
+46,Female,47,168,Walking,50,137.08
+55,Female,64,163,Running,45,470.4
+46,Male,73,153,Walking,20,85.17
+18,Female,75,168,Yoga,75,234.38
+43,Female,84,189,Jump rope,40,688.8
+24,Female,47,187,Running,70,537.37
+48,Female,100,172,Yoga,30,125.0
+57,Female,70,153,Jump rope,10,143.5
+33,Male,88,174,Swimming,45,462.0
+37,Male,67,159,Running,70,766.03
+28,Male,75,184,Walking,20,87.5
+52,Male,87,166,Walking,80,406.0
+20,Female,98,154,Walking,25,142.92
+47,Female,67,165,Running,35,383.02
+25,Male,47,176,Jump rope,40,385.4
+20,Male,72,179,Cycling,25,240.0
+47,Female,87,162,Jump rope,15,267.53
+52,Male,87,178,Swimming,30,304.5
+38,Male,91,184,Running,40,594.53
+32,Female,61,186,Cycling,45,366.0
+36,Male,95,160,Jump rope,40,779.0
+58,Female,80,176,Swimming,10,93.33
+22,Male,47,183,Cycling,65,407.33
+57,Female,93,165,Running,25,379.75
+54,Male,83,169,Cycling,85,940.67
+42,Female,66,185,Walking,70,269.5
+37,Male,87,169,Cycling,30,348.0
+54,Female,78,153,Swimming,40,364.0
+39,Female,88,189,Running,10,143.73
+36,Female,60,188,Swimming,65,455.0
+44,Female,55,183,Yoga,80,183.33
+46,Female,100,167,Cycling,85,1133.33
+49,Female,64,167,Jump rope,80,1049.6
+56,Female,80,167,Walking,50,233.33
+20,Male,77,179,Jump rope,25,394.62
+42,Female,65,172,Running,85,902.42
+59,Male,46,168,Walking,20,53.67
+30,Female,64,158,Jump rope,40,524.8
+40,Female,83,159,Cycling,80,885.33
+59,Male,96,156,Swimming,85,952.0
+30,Female,54,164,Walking,70,220.5
+32,Male,61,154,Yoga,25,63.54
+33,Male,79,184,Running,70,903.23
+29,Female,66,163,Cycling,10,88.0
+42,Male,52,182,Running,55,467.13
+58,Male,65,188,Swimming,75,568.75
+27,Female,83,161,Walking,55,266.29
+42,Female,58,159,Yoga,30,72.5
+40,Male,97,183,Cycling,85,1099.33
+24,Female,46,162,Yoga,25,47.92
+54,Female,68,169,Yoga,45,127.5
+47,Female,99,158,Swimming,60,693.0
+48,Female,97,153,Cycling,65,840.67
+48,Male,79,187,Cycling,65,684.67
+20,Male,99,155,Walking,20,115.5
+35,Female,91,186,Cycling,70,849.33
+32,Female,73,165,Jump rope,60,897.9
+47,Male,99,172,Swimming,65,750.75
+35,Female,94,176,Cycling,75,940.0
+41,Male,55,183,Walking,50,160.42
+32,Female,58,188,Running,80,757.87
+20,Male,54,183,Yoga,65,146.25
+41,Male,70,156,Jump rope,55,789.25
+27,Male,91,166,Swimming,85,902.42
+24,Female,68,151,Cycling,50,453.33
+41,Female,87,173,Yoga,10,36.25
+19,Male,78,159,Walking,20,91.0
+47,Male,70,178,Running,85,971.83
+21,Male,100,160,Running,40,653.33
+44,Female,57,190,Jump rope,15,175.28
+30,Female,59,190,Cycling,10,78.67
+34,Male,67,156,Jump rope,10,137.35
+23,Male,54,175,Swimming,85,535.5
+43,Male,53,166,Cycling,25,176.67
+26,Male,53,160,Walking,80,247.33
+41,Male,69,154,Cycling,10,92.0
+60,Male,45,182,Running,85,624.75
+20,Female,90,156,Swimming,30,315.0
+50,Male,84,187,Walking,10,49.0
+28,Male,76,166,Swimming,45,399.0
+53,Male,73,180,Running,35,417.32
+51,Female,93,188,Running,35,531.65
+53,Female,95,155,Running,80,1241.33
+57,Female,62,179,Walking,75,271.25
+34,Female,84,162,Running,50,686.0
+51,Female,49,185,Running,10,80.03
+60,Female,100,182,Running,90,1470.0
+39,Female,47,160,Walking,85,233.04
+59,Male,91,168,Walking,10,53.08
+45,Male,84,156,Walking,60,294.0
+55,Male,61,163,Cycling,40,325.33
+57,Male,77,151,Walking,15,67.38
+30,Female,53,177,Walking,80,247.33
+43,Male,88,167,Walking,45,231.0
+21,Female,91,170,Cycling,15,182.0
+34,Female,88,189,Yoga,15,55.0
+37,Male,57,159,Swimming,65,432.25
+31,Male,98,169,Jump rope,35,703.15
+45,Male,54,150,Walking,70,220.5
+51,Male,71,158,Cycling,30,284.0
+56,Male,98,176,Swimming,20,228.67
+19,Male,79,166,Cycling,40,421.33
+55,Male,61,181,Cycling,75,610.0
+46,Male,86,183,Jump rope,25,440.75
+55,Female,72,171,Walking,25,105.0
+56,Male,48,173,Walking,30,84.0
+58,Female,61,183,Yoga,85,216.04
+23,Male,99,171,Yoga,60,247.5
+46,Female,66,165,Yoga,90,247.5
+55,Male,92,159,Jump rope,10,188.6
+49,Male,65,153,Cycling,30,260.0
+26,Male,61,188,Running,60,597.8
+42,Male,74,159,Running,30,362.6
+57,Female,66,184,Jump rope,40,541.2
+40,Female,84,159,Running,15,205.8
+35,Female,97,167,Yoga,35,141.46
+32,Male,92,172,Swimming,30,322.0
+26,Female,59,154,Swimming,45,309.75
+44,Male,55,155,Swimming,80,513.33
+54,Female,46,159,Walking,90,241.5
+49,Male,59,154,Walking,15,51.62
+40,Male,49,183,Swimming,85,485.92
+37,Female,71,172,Cycling,60,568.0
+44,Male,53,150,Walking,35,108.21
+20,Male,91,163,Running,55,817.48
+43,Female,55,189,Cycling,50,366.67
+40,Female,67,175,Running,50,547.17
+26,Male,81,183,Running,90,1190.7
+50,Female,76,166,Walking,10,44.33
+44,Female,64,179,Swimming,55,410.67
+27,Male,82,187,Cycling,70,765.33
+22,Male,93,176,Swimming,70,759.5
+43,Male,54,165,Jump rope,65,719.55
+59,Male,46,189,Running,70,525.93
+55,Male,49,156,Walking,50,142.92
+39,Male,57,150,Jump rope,50,584.25
+27,Female,89,189,Yoga,65,241.04
+50,Female,86,174,Running,90,1264.2
+22,Male,83,165,Jump rope,70,1191.05
+59,Male,82,159,Swimming,65,621.83
+19,Female,86,157,Swimming,60,602.0
+57,Male,89,176,Running,80,1162.93
+29,Female,51,157,Swimming,30,178.5
+58,Male,50,180,Cycling,90,600.0
+24,Male,95,187,Jump rope,40,779.0
+57,Male,71,186,Jump rope,50,727.75
+49,Female,99,160,Cycling,10,132.0
+37,Female,72,161,Cycling,70,672.0
+49,Female,55,168,Jump rope,15,169.12
+43,Male,59,153,Swimming,30,206.5
+57,Male,92,153,Cycling,30,368.0
+30,Female,93,154,Swimming,85,922.25
+49,Female,82,176,Yoga,65,222.08
+33,Female,48,170,Walking,80,224.0
+25,Female,85,170,Jump rope,80,1394.0
+35,Male,84,173,Jump rope,35,602.7
+48,Female,79,167,Walking,30,138.25
+53,Female,87,190,Jump rope,10,178.35
+32,Male,71,162,Yoga,50,147.92
+51,Female,100,180,Walking,55,320.83
+30,Male,80,177,Running,50,653.33
+45,Female,93,186,Swimming,10,108.5
+46,Male,67,159,Jump rope,25,343.38
+52,Male,94,184,Swimming,25,274.17
+34,Male,99,182,Jump rope,70,1420.65
+47,Male,73,166,Jump rope,45,673.43
+45,Male,50,176,Yoga,70,145.83
+54,Female,84,154,Swimming,15,147.0
+53,Female,97,152,Running,75,1188.25
+43,Male,63,176,Yoga,75,196.88
+59,Female,62,189,Cycling,85,702.67
+52,Female,60,157,Yoga,75,187.5
+43,Female,81,174,Swimming,45,425.25
+44,Female,98,175,Running,65,1040.43
+48,Male,90,171,Cycling,40,480.0
+52,Male,62,154,Jump rope,60,762.6
+24,Female,45,177,Jump rope,10,92.25
+53,Female,84,151,Jump rope,90,1549.8
+30,Male,100,188,Running,90,1470.0
+58,Female,54,180,Swimming,30,189.0
+24,Male,99,176,Cycling,75,990.0
+49,Male,63,178,Cycling,40,336.0
+24,Male,95,162,Swimming,45,498.75
+57,Female,98,167,Walking,60,343.0
+44,Male,56,166,Cycling,50,373.33
+18,Female,93,175,Yoga,60,232.5
+33,Female,90,169,Walking,45,236.25
+32,Female,62,183,Walking,40,144.67
+56,Female,67,169,Jump rope,75,1030.12
+46,Female,48,164,Running,50,392.0
+48,Male,93,182,Swimming,45,488.25
+20,Male,56,189,Jump rope,25,287.0
+43,Male,53,181,Running,20,173.13
+59,Female,74,175,Cycling,20,197.33
+48,Female,64,171,Yoga,55,146.67
+60,Female,49,176,Cycling,55,359.33
+28,Male,63,163,Swimming,65,477.75
+35,Female,83,155,Cycling,80,885.33
+45,Female,90,180,Running,30,441.0
+56,Female,93,155,Walking,50,271.25
+25,Male,94,165,Running,35,537.37
+48,Male,52,184,Yoga,60,130.0
+45,Female,52,153,Jump rope,30,319.8
+50,Male,74,166,Running,20,241.73
+42,Female,68,164,Yoga,25,70.83
+48,Female,82,161,Cycling,20,218.67
+35,Male,71,179,Yoga,80,236.67
+32,Female,81,170,Yoga,45,151.88
+20,Male,46,184,Cycling,50,306.67
+59,Male,80,187,Swimming,70,653.33
+59,Male,69,156,Running,60,676.2
+39,Male,84,164,Yoga,65,227.5
+45,Male,52,166,Yoga,20,43.33
+21,Female,64,187,Yoga,10,26.67
+51,Female,71,190,Walking,45,186.38
+36,Female,62,188,Walking,65,235.08
+49,Female,62,157,Walking,35,126.58
+56,Female,69,155,Running,40,450.8
+60,Female,69,171,Cycling,15,138.0
+60,Male,67,179,Yoga,10,27.92
+44,Male,77,168,Cycling,50,513.33
+49,Male,84,185,Jump rope,90,1549.8
+24,Male,96,151,Running,85,1332.8
+57,Male,96,182,Swimming,15,168.0
+55,Female,63,162,Running,75,771.75
+28,Male,51,175,Yoga,60,127.5
+31,Female,73,178,Running,65,775.02
+31,Female,58,189,Swimming,60,406.0
+28,Female,75,171,Swimming,90,787.5
+48,Female,70,170,Jump rope,15,215.25
+52,Female,45,150,Running,85,624.75
+51,Male,76,156,Running,70,868.93
+56,Male,86,152,Jump rope,30,528.9
+39,Female,91,174,Swimming,35,371.58
+43,Female,59,175,Walking,55,189.29
+22,Male,96,160,Swimming,25,280.0
+37,Female,94,176,Walking,90,493.5
+41,Female,94,190,Cycling,35,438.67
+42,Male,61,185,Walking,25,88.96
+27,Female,89,157,Running,15,218.05
+57,Female,63,157,Running,70,720.3
+20,Male,47,183,Swimming,50,274.17
+33,Female,78,171,Running,40,509.6
+52,Male,71,150,Walking,85,352.04
+29,Female,65,171,Swimming,65,492.92
+31,Female,91,180,Cycling,75,910.0
+57,Female,68,159,Walking,65,257.83
+41,Male,46,151,Jump rope,70,660.1
+40,Female,54,178,Yoga,45,101.25
+26,Female,60,177,Jump rope,60,738.0
+36,Male,75,188,Yoga,30,93.75
+48,Male,52,189,Walking,85,257.83
+42,Female,48,160,Running,40,313.6
+27,Male,74,165,Jump rope,30,455.1
+48,Male,100,152,Swimming,85,991.67
+57,Male,72,173,Running,85,999.6
+42,Male,54,157,Yoga,85,191.25
+35,Female,79,161,Jump rope,15,242.93
+35,Male,48,168,Jump rope,45,442.8
+35,Male,77,189,Walking,60,269.5
+51,Female,51,176,Walking,20,59.5
+37,Male,70,177,Yoga,85,247.92
+32,Male,54,183,Swimming,60,378.0
+36,Female,46,166,Swimming,90,483.0
+19,Male,51,185,Cycling,45,306.0
+57,Female,85,188,Running,25,347.08
+30,Male,62,189,Yoga,60,155.0
+29,Female,62,187,Walking,75,271.25
+29,Female,48,179,Cycling,55,352.0
+57,Female,93,189,Yoga,40,155.0
+37,Male,65,159,Running,35,371.58
+21,Male,56,175,Swimming,70,457.33
+57,Male,53,172,Jump rope,85,923.53
+30,Female,90,167,Yoga,30,112.5
+24,Male,91,171,Yoga,40,151.67
+30,Female,91,154,Walking,45,238.88
+46,Male,96,184,Yoga,45,180.0
+55,Female,84,150,Swimming,50,490.0
+19,Male,95,157,Running,35,543.08
+20,Female,47,157,Jump rope,85,818.98
+35,Female,97,165,Running,85,1346.68
+59,Female,81,176,Running,90,1190.7
+39,Male,75,151,Swimming,10,87.5
+31,Female,46,151,Yoga,75,143.75
+20,Female,90,151,Cycling,60,720.0
+35,Male,72,162,Cycling,70,672.0
+48,Male,76,182,Cycling,65,658.67
+50,Female,48,168,Running,35,274.4
+32,Male,71,155,Jump rope,15,218.33
+49,Female,45,183,Walking,80,210.0
+52,Male,74,179,Yoga,35,107.92
+46,Female,51,155,Swimming,90,535.5
+46,Male,92,179,Walking,55,295.17
+49,Female,77,182,Walking,40,179.67
+31,Female,48,181,Jump rope,30,295.2
+44,Female,51,157,Cycling,25,170.0
+33,Male,100,178,Running,65,1061.67
+47,Female,47,167,Walking,40,109.67
+45,Male,93,180,Yoga,10,38.75
+60,Female,55,172,Swimming,35,224.58
+38,Male,90,173,Cycling,15,180.0
+22,Female,82,155,Jump rope,60,1008.6
+39,Male,86,173,Jump rope,75,1322.25
+53,Male,57,178,Swimming,50,332.5
+23,Male,100,154,Cycling,90,1200.0
+29,Female,83,167,Cycling,55,608.67
+58,Male,59,185,Running,35,337.28
+59,Male,63,168,Jump rope,30,387.45
+38,Male,46,171,Cycling,75,460.0
+29,Female,90,159,Cycling,35,420.0
+54,Male,51,174,Walking,35,104.12
+34,Female,62,170,Running,30,303.8
+41,Male,66,173,Cycling,35,308.0
+36,Male,48,169,Running,50,392.0
+47,Female,80,165,Swimming,40,373.33
+22,Male,74,179,Running,60,725.2
+20,Male,93,160,Swimming,80,868.0
+24,Female,92,182,Swimming,50,536.67
+48,Female,100,164,Running,85,1388.33
+42,Female,77,157,Yoga,40,128.33
+58,Male,78,159,Jump rope,25,399.75
+46,Female,92,176,Walking,90,483.0
+18,Male,49,177,Swimming,70,400.17
+22,Male,49,168,Running,50,400.17
+42,Female,80,163,Walking,55,256.67
+48,Male,86,156,Jump rope,65,1145.95
+40,Female,70,170,Cycling,85,793.33
+43,Female,79,155,Running,85,1096.78
+36,Male,95,182,Yoga,75,296.88
+43,Male,90,168,Yoga,45,168.75
+51,Female,64,175,Cycling,85,725.33
+24,Female,68,171,Swimming,80,634.67
+23,Male,59,159,Jump rope,40,483.8
+46,Female,73,189,Yoga,15,45.62
+59,Male,66,172,Swimming,40,308.0
+34,Male,71,165,Cycling,40,378.67
+42,Female,58,170,Swimming,80,541.33
+44,Male,92,168,Cycling,90,1104.0
+34,Male,81,168,Yoga,65,219.37
+50,Male,46,180,Swimming,50,268.33
+59,Female,93,173,Cycling,35,434.0
+37,Male,93,184,Cycling,90,1116.0
+25,Female,88,159,Jump rope,25,451.0
+47,Male,61,168,Running,50,498.17
+28,Female,60,165,Running,55,539.0
+46,Male,66,166,Running,25,269.5
+52,Female,52,185,Swimming,75,455.0
+60,Male,93,165,Yoga,70,271.25
+50,Female,65,154,Yoga,85,230.21
+56,Female,92,154,Swimming,85,912.33
+43,Female,81,163,Cycling,40,432.0
+47,Male,70,181,Yoga,90,262.5
+52,Male,92,156,Walking,35,187.83
+25,Female,68,154,Running,20,222.13
+45,Female,88,175,Swimming,10,102.67
+59,Male,99,151,Jump rope,75,1522.12
+37,Male,96,163,Yoga,50,200.0
+39,Female,74,160,Swimming,80,690.67
+53,Female,58,165,Cycling,40,309.33
+54,Male,62,173,Yoga,25,64.58
+58,Female,72,185,Running,80,940.8
+34,Male,48,157,Yoga,35,70.0
+19,Female,57,170,Walking,30,99.75
+45,Male,75,162,Cycling,15,150.0
+54,Male,72,182,Running,35,411.6
+25,Female,88,178,Yoga,70,256.67
+54,Male,61,167,Jump rope,55,687.78
+19,Male,63,189,Yoga,65,170.62
+22,Male,52,178,Jump rope,40,426.4
+46,Male,45,164,Swimming,85,446.25
+20,Female,83,160,Swimming,10,96.83
+52,Female,91,186,Yoga,50,189.58
+32,Male,58,171,Cycling,15,116.0
+27,Male,79,153,Swimming,85,783.42
+19,Male,66,186,Yoga,80,220.0
+37,Female,78,184,Walking,40,182.0
+24,Female,78,168,Cycling,80,832.0
+28,Male,48,162,Yoga,20,40.0
+34,Male,70,186,Yoga,85,247.92
+54,Female,67,165,Cycling,70,625.33
+20,Female,56,181,Yoga,25,58.33
+35,Male,75,161,Walking,40,175.0
+33,Male,63,152,Cycling,55,462.0
+57,Female,65,172,Walking,75,284.38
+40,Female,64,154,Swimming,20,149.33
+39,Female,55,178,Cycling,55,403.33
+54,Male,55,159,Jump rope,65,732.88
+30,Female,51,163,Running,45,374.85
+53,Male,66,157,Running,85,916.3
+24,Female,85,186,Swimming,45,446.25
+24,Male,49,183,Jump rope,60,602.7
+54,Female,53,181,Jump rope,75,814.88
+29,Female,80,165,Walking,10,46.67
+53,Male,59,152,Running,75,722.75
+59,Female,77,183,Walking,60,269.5
+31,Female,45,162,Running,45,330.75
+24,Female,91,165,Walking,70,371.58
+26,Male,97,176,Running,35,554.52
+20,Female,48,150,Jump rope,25,246.0
+45,Male,93,153,Jump rope,45,857.93
+37,Male,78,164,Walking,25,113.75
+27,Male,86,156,Yoga,10,35.83
+55,Female,79,173,Swimming,15,138.25
+32,Female,82,165,Yoga,90,307.5
+49,Male,54,178,Jump rope,50,553.5
+37,Male,67,187,Swimming,80,625.33
+27,Male,79,180,Jump rope,55,890.73
+36,Female,92,190,Jump rope,35,660.1
+28,Male,55,162,Jump rope,10,112.75
+37,Female,58,161,Jump rope,65,772.85
+34,Female,81,164,Running,55,727.65
+36,Male,89,169,Jump rope,85,1550.83
+53,Female,87,156,Cycling,40,464.0
+19,Male,63,167,Cycling,40,336.0
+44,Male,49,174,Jump rope,20,200.9
+24,Female,90,182,Cycling,40,480.0
+51,Female,47,174,Swimming,15,82.25
+38,Male,61,186,Jump rope,80,1000.4
+35,Female,83,178,Yoga,85,293.96
+21,Female,89,172,Running,70,1017.57
+60,Female,56,175,Swimming,10,65.33
+25,Male,84,165,Jump rope,20,344.4
+28,Female,85,158,Walking,40,198.33
+43,Male,90,156,Yoga,85,318.75
+59,Male,63,152,Jump rope,25,322.88
+24,Male,92,165,Jump rope,90,1697.4
+31,Male,75,161,Walking,55,240.62
+52,Female,60,171,Yoga,60,150.0
+19,Female,89,154,Yoga,80,296.67
+43,Male,82,185,Walking,25,119.58
+34,Female,79,180,Walking,75,345.62
+56,Female,49,152,Running,65,520.22
+27,Female,85,178,Jump rope,75,1306.88
+47,Female,78,152,Yoga,30,97.5
+48,Female,82,184,Cycling,80,874.67
+57,Female,58,169,Running,10,94.73
+36,Male,90,185,Swimming,15,157.5
+31,Female,62,186,Jump rope,35,444.85
+30,Female,52,167,Yoga,45,97.5
+42,Male,84,185,Walking,75,367.5
+34,Female,53,188,Yoga,15,33.12
+60,Male,74,154,Swimming,65,561.17
+54,Male,83,179,Running,25,338.92
+24,Male,72,150,Running,90,1058.4
+31,Male,76,168,Yoga,75,237.5
+31,Female,50,152,Running,75,612.5
+21,Male,64,168,Walking,30,112.0
+38,Male,84,172,Yoga,65,227.5
+18,Female,95,183,Swimming,65,720.42
+25,Female,52,183,Yoga,45,97.5
+35,Male,63,189,Walking,60,220.5
+42,Female,78,176,Swimming,70,637.0
+60,Male,85,186,Yoga,55,194.79
+43,Male,95,156,Swimming,30,332.5
+43,Male,67,155,Cycling,45,402.0
+19,Male,57,168,Running,15,139.65
+56,Male,80,177,Running,40,522.67
+49,Male,52,165,Walking,25,75.83
+44,Male,73,165,Walking,50,212.92
+29,Female,47,153,Swimming,25,137.08
+37,Male,64,176,Yoga,55,146.67
+54,Female,91,166,Swimming,15,159.25
+57,Male,65,175,Yoga,15,40.62
+39,Female,48,151,Jump rope,55,541.2
+58,Male,54,156,Running,45,396.9
+23,Female,87,156,Yoga,45,163.12
+35,Male,67,167,Running,85,930.18
+38,Female,72,169,Swimming,35,294.0
+21,Female,88,151,Walking,45,231.0
+39,Male,78,190,Swimming,70,637.0
+58,Female,68,162,Running,75,833.0
+30,Female,48,153,Running,85,666.4
+44,Female,69,162,Swimming,15,120.75
+57,Female,84,158,Swimming,85,833.0
+48,Female,70,160,Swimming,40,326.67
+18,Male,92,174,Yoga,75,287.5
+54,Male,88,157,Running,70,1006.13
+43,Female,48,183,Walking,85,238.0
+55,Male,88,153,Swimming,40,410.67
+31,Female,77,177,Yoga,85,272.71
+19,Female,67,158,Running,70,766.03
+43,Male,76,171,Yoga,60,190.0
+29,Female,60,155,Yoga,15,37.5
+49,Female,86,187,Swimming,40,401.33
+18,Male,78,166,Walking,30,136.5
+24,Male,82,182,Walking,20,95.67
+29,Female,93,190,Walking,40,217.0
+18,Male,63,182,Jump rope,65,839.48
+19,Female,47,154,Jump rope,45,433.58
+41,Male,59,160,Cycling,85,668.67
+30,Female,70,154,Running,85,971.83
+37,Male,91,185,Cycling,50,606.67
+30,Male,62,155,Cycling,55,454.67
+60,Female,70,157,Running,45,514.5
+27,Female,49,161,Swimming,70,400.17
+43,Male,86,176,Cycling,55,630.67
+59,Male,70,159,Walking,20,81.67
+27,Female,49,155,Running,20,160.07
+32,Male,50,189,Swimming,50,291.67
+25,Female,76,168,Swimming,85,753.67
+51,Female,72,169,Swimming,25,210.0
+21,Female,99,186,Jump rope,45,913.28
+38,Male,48,185,Cycling,75,480.0
+25,Female,51,179,Jump rope,30,313.65
+42,Female,63,162,Walking,45,165.38
+46,Female,96,162,Jump rope,80,1574.4
+59,Male,82,179,Swimming,60,574.0
+26,Female,85,153,Jump rope,40,697.0
+46,Female,84,183,Swimming,55,539.0
+53,Male,69,161,Walking,40,161.0
+29,Male,67,164,Cycling,10,89.33
+33,Male,48,172,Walking,90,252.0
+27,Female,61,150,Jump rope,55,687.78
+42,Male,51,188,Walking,30,89.25
+20,Female,93,185,Running,90,1367.1
+40,Male,45,158,Running,90,661.5
+39,Female,45,158,Cycling,40,240.0
+49,Male,71,182,Jump rope,25,363.88
+60,Male,82,164,Walking,45,215.25
+43,Female,61,180,Jump rope,30,375.15
+19,Female,57,188,Jump rope,20,233.7
+24,Female,86,151,Cycling,90,1032.0
+44,Female,74,182,Walking,10,43.17
+54,Male,53,167,Cycling,50,353.33
+33,Male,74,167,Walking,25,107.92
+55,Male,67,184,Yoga,30,83.75
+44,Female,84,175,Jump rope,60,1033.2
+47,Male,85,176,Walking,10,49.58
+55,Female,94,171,Cycling,80,1002.67
+60,Female,73,174,Cycling,85,827.33
+27,Male,79,186,Jump rope,55,890.73
+36,Male,53,185,Cycling,15,106.0
+34,Male,85,170,Jump rope,40,697.0
+57,Female,92,170,Cycling,30,368.0
+56,Male,73,169,Walking,85,361.96
+18,Male,78,172,Yoga,50,162.5
+26,Female,100,180,Cycling,60,800.0
+42,Male,81,176,Jump rope,55,913.27
+33,Male,65,175,Walking,65,246.46
+37,Male,92,160,Jump rope,20,377.2
+25,Male,51,172,Jump rope,70,731.85
+29,Female,45,167,Swimming,15,78.75
+48,Male,56,173,Swimming,15,98.0
+48,Male,58,176,Swimming,40,270.67
+37,Female,99,162,Jump rope,25,507.38
+42,Female,52,165,Walking,20,60.67
+44,Male,65,190,Cycling,30,260.0
+31,Female,86,178,Jump rope,55,969.65
+31,Female,55,154,Cycling,70,513.33
+18,Male,91,176,Cycling,25,303.33
+51,Male,100,164,Jump rope,15,307.5
+27,Female,85,186,Running,50,694.17
+30,Female,75,189,Yoga,50,156.25
+29,Male,46,170,Jump rope,40,377.2
+60,Male,100,179,Cycling,25,333.33
+57,Male,57,166,Jump rope,30,350.55
+37,Male,88,190,Cycling,35,410.67
+27,Male,79,179,Swimming,50,460.83
+54,Male,46,156,Swimming,10,53.67
+45,Female,86,168,Running,45,632.1
+29,Male,85,159,Swimming,75,743.75
+34,Female,70,174,Swimming,75,612.5
+48,Female,54,182,Jump rope,45,498.15
+46,Female,94,176,Yoga,55,215.42
+49,Female,70,164,Swimming,15,122.5
+53,Female,63,175,Running,70,720.3
+20,Male,83,172,Running,90,1220.1
+30,Female,78,160,Swimming,80,728.0
+48,Female,60,155,Cycling,50,400.0
+51,Female,84,178,Walking,55,269.5
+19,Female,57,173,Walking,65,216.12
+18,Male,47,165,Swimming,20,109.67
+58,Female,55,173,Jump rope,10,112.75
+25,Female,66,174,Jump rope,35,473.55
+35,Female,81,175,Running,40,529.2
+27,Female,81,160,Jump rope,60,996.3
+48,Female,79,156,Walking,30,138.25
+50,Male,80,185,Running,55,718.67
+43,Male,93,163,Running,80,1215.2
+20,Female,53,165,Jump rope,40,434.6
+33,Female,97,150,Jump rope,10,198.85
+48,Male,72,180,Swimming,20,168.0
+60,Male,95,156,Yoga,85,336.46
+48,Male,55,154,Swimming,20,128.33
+21,Male,89,178,Jump rope,65,1185.92
+42,Female,70,150,Jump rope,75,1076.25
+59,Female,67,167,Jump rope,60,824.1
+59,Female,94,184,Jump rope,20,385.4
+44,Male,87,159,Running,25,355.25
+46,Male,48,158,Cycling,30,192.0
+21,Male,94,157,Yoga,30,117.5
+53,Female,71,173,Swimming,35,289.92
+38,Female,54,157,Walking,85,267.75
+40,Female,72,166,Walking,50,210.0
+51,Male,46,173,Cycling,25,153.33
+20,Male,60,156,Jump rope,55,676.5
+22,Male,96,167,Running,75,1176.0
+42,Male,73,181,Yoga,30,91.25
+25,Female,67,154,Yoga,40,111.67
+20,Male,85,184,Swimming,65,644.58
+35,Female,98,179,Running,30,480.2
+19,Male,57,181,Yoga,50,118.75
+21,Male,98,151,Jump rope,50,1004.5
+35,Male,95,168,Walking,40,221.67
+19,Male,62,170,Cycling,75,620.0
+24,Female,57,183,Yoga,85,201.88
+27,Male,55,171,Running,90,808.5
+50,Male,78,177,Swimming,40,364.0
+52,Female,62,184,Cycling,30,248.0
+33,Male,56,163,Walking,80,261.33
+56,Female,55,184,Running,35,314.42
+38,Male,63,168,Yoga,20,52.5
+43,Female,75,175,Swimming,15,131.25
+37,Female,81,154,Swimming,35,330.75
+52,Female,62,164,Walking,10,36.17
+41,Female,96,179,Walking,15,84.0
+53,Male,76,160,Swimming,60,532.0
+37,Male,57,153,Jump rope,60,701.1
+26,Male,72,174,Jump rope,40,590.4
+25,Female,75,189,Running,55,673.75
+50,Male,54,162,Running,20,176.4
+32,Female,100,150,Cycling,75,1000.0
+45,Female,58,183,Running,45,426.3
+46,Female,77,173,Cycling,15,154.0
+25,Male,60,168,Walking,85,297.5
+28,Female,64,160,Jump rope,60,787.2
+24,Male,76,172,Running,10,124.13
+43,Male,90,176,Jump rope,20,369.0
+33,Female,51,162,Running,10,83.3
+44,Male,54,162,Jump rope,35,387.45
+49,Female,80,161,Jump rope,55,902.0
+40,Female,53,161,Jump rope,80,869.2
+40,Male,98,166,Jump rope,35,703.15
+27,Male,82,181,Walking,35,167.42
+26,Male,54,176,Walking,30,94.5
+45,Female,66,160,Yoga,75,206.25
+22,Female,71,164,Cycling,65,615.33
+60,Male,59,158,Yoga,85,208.96
+53,Male,100,179,Running,45,735.0
+58,Male,88,170,Swimming,75,770.0
+36,Female,62,183,Running,90,911.4
+59,Female,96,174,Swimming,90,1008.0
+30,Female,56,152,Swimming,25,163.33
+45,Female,51,170,Yoga,25,53.12
+34,Female,60,166,Running,15,147.0
+18,Male,89,151,Cycling,30,356.0
+41,Female,61,187,Walking,25,88.96
+38,Male,93,174,Walking,10,54.25
+36,Female,57,176,Yoga,25,59.38
+44,Male,59,183,Cycling,50,393.33
+27,Female,69,170,Swimming,55,442.75
+43,Male,79,190,Yoga,10,32.92
+29,Female,64,187,Walking,70,261.33
+33,Female,99,162,Swimming,45,519.75
+60,Male,49,156,Swimming,65,371.58
+33,Female,45,160,Cycling,70,420.0
+51,Male,46,164,Yoga,90,172.5
+35,Male,46,190,Running,20,150.27
+49,Female,55,166,Jump rope,45,507.38
+34,Male,94,164,Running,55,844.43
+27,Male,73,161,Yoga,25,76.04
+25,Female,92,156,Jump rope,10,188.6
+37,Male,64,176,Jump rope,40,524.8
+46,Female,88,153,Cycling,40,469.33
+38,Male,99,173,Swimming,10,115.5
+28,Female,90,180,Walking,70,367.5
+44,Female,89,180,Cycling,55,652.67
+60,Female,59,187,Jump rope,60,725.7
+48,Male,84,188,Running,75,1029.0
+33,Male,61,187,Walking,15,53.38
+39,Female,55,185,Jump rope,10,112.75
+59,Female,59,187,Cycling,75,590.0
+25,Male,57,187,Running,10,93.1
+59,Male,60,160,Running,85,833.0
+54,Male,77,167,Walking,55,247.04
+19,Male,62,176,Jump rope,85,1080.35
+25,Male,77,162,Cycling,25,256.67
+57,Female,57,165,Yoga,45,106.88
+51,Male,72,170,Running,65,764.4
+27,Female,54,181,Jump rope,70,774.9
+46,Female,66,178,Running,10,107.8
+49,Male,98,174,Walking,50,285.83
+48,Male,91,179,Walking,30,159.25
+50,Female,50,156,Walking,25,72.92
+58,Female,83,178,Yoga,60,207.5
+41,Male,69,187,Running,80,901.6
+46,Male,85,184,Running,90,1249.5
+24,Female,68,181,Running,10,111.07
+56,Male,54,177,Cycling,90,648.0
+19,Male,47,154,Swimming,85,466.08
+44,Male,49,183,Running,30,240.1
+56,Male,66,156,Yoga,20,55.0
+24,Female,73,170,Jump rope,40,598.6
+27,Male,90,183,Walking,45,236.25
+45,Male,76,174,Yoga,65,205.83
+32,Female,83,157,Yoga,15,51.88
+46,Male,89,154,Running,45,654.15
+21,Male,61,190,Running,25,249.08
+22,Male,63,189,Yoga,80,210.0
+30,Male,54,186,Yoga,65,146.25
+33,Female,100,162,Yoga,70,291.67
+29,Male,69,177,Walking,35,140.88
+46,Male,74,165,Yoga,75,231.25
+18,Female,47,178,Jump rope,40,385.4
+52,Female,97,150,Walking,85,480.96
+30,Male,94,161,Running,10,153.53
+19,Female,77,178,Jump rope,75,1183.88
+52,Female,70,151,Yoga,65,189.58
+56,Female,69,156,Walking,85,342.12
+40,Female,59,157,Cycling,45,354.0
+37,Male,47,183,Swimming,70,383.83
+40,Male,90,169,Running,35,514.5
+31,Female,84,167,Swimming,80,784.0
+19,Female,88,186,Running,35,503.07
+35,Female,52,153,Jump rope,35,373.1
+55,Male,90,156,Running,30,441.0
+28,Female,78,179,Running,25,318.5
+35,Male,97,153,Jump rope,40,795.4
+34,Male,73,157,Cycling,60,584.0
+29,Female,53,150,Running,55,476.12
+29,Female,66,153,Jump rope,80,1082.4
+58,Female,84,151,Walking,20,98.0
+20,Female,47,177,Jump rope,20,192.7
+37,Male,89,177,Walking,10,51.92
+34,Female,56,157,Yoga,80,186.67
+49,Male,65,190,Running,70,743.17
+23,Male,62,158,Cycling,85,702.67
+42,Female,97,177,Swimming,15,169.75
+42,Female,83,190,Yoga,70,242.08
+27,Male,53,183,Jump rope,70,760.55
+23,Female,54,160,Running,65,573.3
+30,Female,55,155,Running,25,224.58
+26,Male,90,190,Cycling,90,1080.0
+19,Male,95,152,Walking,75,415.62
+55,Male,55,153,Walking,80,256.67
+44,Female,65,152,Jump rope,25,333.12
+55,Male,54,167,Walking,15,47.25
+23,Female,89,169,Jump rope,45,821.03
+52,Male,72,172,Yoga,40,120.0
+49,Female,96,158,Jump rope,60,1180.8
+57,Male,71,190,Yoga,50,147.92
+39,Male,95,179,Yoga,20,79.17
+24,Female,71,188,Swimming,55,455.58
+25,Female,60,169,Swimming,85,595.0
+21,Female,54,182,Yoga,35,78.75
+28,Male,95,173,Running,75,1163.75
+22,Male,64,182,Swimming,70,522.67
+23,Female,65,169,Jump rope,70,932.75
+41,Female,78,156,Cycling,60,624.0
+22,Male,98,184,Swimming,80,914.67
+32,Male,85,160,Jump rope,40,697.0
+37,Male,92,184,Running,15,225.4
+32,Male,78,184,Swimming,25,227.5
+54,Male,78,152,Swimming,55,500.5
+30,Male,78,162,Running,60,764.4
+52,Male,85,163,Walking,55,272.71
+24,Female,94,158,Running,35,537.37
+52,Male,62,176,Walking,25,90.42
+38,Female,95,164,Yoga,90,356.25
+57,Male,55,169,Jump rope,70,789.25
+53,Female,50,153,Running,35,285.83
+31,Female,98,182,Jump rope,90,1808.1
+24,Female,96,159,Jump rope,60,1180.8
+49,Male,85,190,Swimming,30,297.5
+34,Female,45,190,Swimming,40,210.0
+30,Male,71,182,Cycling,40,378.67
+50,Male,93,190,Yoga,30,116.25
+34,Male,70,170,Jump rope,15,215.25
+29,Male,90,155,Yoga,85,318.75
+38,Female,68,166,Cycling,55,498.67
+54,Male,68,171,Cycling,30,272.0
+28,Female,59,163,Yoga,10,24.58
+20,Male,93,185,Walking,10,54.25
+50,Male,84,161,Jump rope,55,947.1
+24,Female,61,181,Running,60,597.8
+21,Male,54,158,Jump rope,90,996.3
+35,Female,52,160,Cycling,10,69.33
+28,Male,72,180,Swimming,70,588.0
+45,Male,66,179,Jump rope,85,1150.05
+32,Male,86,188,Cycling,85,974.67
+50,Female,87,184,Cycling,45,522.0
+58,Male,92,169,Walking,10,53.67
+27,Male,72,183,Cycling,50,480.0
+47,Male,47,167,Cycling,50,313.33
+27,Male,79,166,Cycling,65,684.67
+52,Male,55,175,Jump rope,85,958.38
+51,Female,98,184,Swimming,50,571.67
+42,Male,68,163,Cycling,65,589.33
+39,Female,53,176,Running,85,735.82
+28,Male,49,153,Running,65,520.22
+40,Female,92,171,Swimming,20,214.67
+27,Female,70,171,Cycling,40,373.33
+34,Female,50,188,Walking,15,43.75
+29,Male,90,189,Yoga,65,243.75
+22,Male,49,159,Running,40,320.13
+35,Female,59,167,Walking,50,172.08
+20,Male,78,155,Cycling,20,208.0
+24,Female,97,176,Running,80,1267.47
+47,Male,64,155,Yoga,35,93.33
+23,Female,96,189,Yoga,30,120.0
+51,Male,79,166,Cycling,45,474.0
+55,Male,67,184,Swimming,15,117.25
+20,Male,70,161,Running,55,628.83
+47,Female,72,174,Swimming,35,294.0
+35,Female,65,176,Walking,75,284.38
+20,Male,78,159,Cycling,60,624.0
+55,Male,81,190,Walking,80,378.0
+23,Male,89,173,Running,40,581.47
+27,Male,86,177,Yoga,50,179.17
+27,Male,70,161,Swimming,65,530.83
+23,Female,63,167,Jump rope,40,516.6
+50,Female,46,181,Walking,65,174.42
+26,Female,63,160,Yoga,50,131.25
+46,Male,83,175,Running,75,1016.75
+40,Male,54,160,Running,30,264.6
+36,Male,48,178,Running,65,509.6
+21,Male,69,185,Cycling,20,184.0
+47,Male,91,161,Cycling,45,546.0
+30,Male,66,159,Jump rope,75,1014.75
+46,Female,81,173,Jump rope,35,581.18
+36,Female,81,189,Jump rope,25,415.13
+60,Female,71,156,Cycling,90,852.0
+22,Male,64,190,Swimming,35,261.33
+33,Male,63,183,Cycling,10,84.0
+31,Male,74,170,Running,10,120.87
+18,Female,64,172,Walking,55,205.33
+52,Female,69,151,Jump rope,70,990.15
+53,Female,66,154,Cycling,50,440.0
+28,Female,64,171,Yoga,55,146.67
+38,Male,88,165,Swimming,45,462.0
+58,Male,93,184,Yoga,45,174.38
+60,Female,76,189,Swimming,70,620.67
+55,Female,74,169,Swimming,30,259.0
+52,Male,53,169,Walking,55,170.04
+42,Female,50,184,Swimming,65,379.17
+42,Female,51,183,Swimming,15,89.25
+24,Female,52,166,Yoga,30,65.0
+21,Male,58,184,Cycling,40,309.33
+35,Male,51,153,Cycling,80,544.0
+19,Female,85,178,Walking,10,49.58
+22,Female,65,171,Swimming,25,189.58
+41,Male,46,158,Jump rope,60,565.8
+27,Male,57,183,Swimming,55,365.75
+35,Male,93,175,Cycling,50,620.0
+20,Male,70,181,Cycling,65,606.67
+45,Male,51,167,Cycling,25,170.0
+44,Female,62,152,Cycling,30,248.0
+58,Female,61,172,Cycling,10,81.33
+25,Male,56,157,Jump rope,15,172.2
+54,Male,99,164,Jump rope,45,913.28
+25,Female,83,174,Jump rope,65,1105.98
+41,Female,95,161,Cycling,60,760.0
+27,Male,71,190,Walking,35,144.96
+31,Female,88,165,Walking,30,154.0
+56,Male,46,179,Yoga,25,47.92
+27,Female,51,152,Jump rope,20,209.1
+46,Male,86,154,Running,45,632.1
+45,Male,97,185,Cycling,45,582.0
+45,Female,62,189,Jump rope,10,127.1
+54,Male,59,190,Cycling,75,590.0
+50,Male,97,175,Walking,50,282.92
+44,Female,61,174,Yoga,60,152.5
+41,Female,82,181,Running,55,736.63
+33,Male,73,174,Walking,45,191.62
+49,Female,82,167,Running,20,267.87
+58,Male,61,158,Walking,45,160.12
+38,Male,77,184,Swimming,45,404.25
+49,Female,81,183,Swimming,30,283.5
+42,Female,86,172,Swimming,70,702.33
+45,Female,99,155,Swimming,80,924.0
+33,Male,94,155,Cycling,50,626.67
+55,Male,71,155,Swimming,45,372.75
+39,Female,46,189,Swimming,25,134.17
+23,Female,91,156,Cycling,50,606.67
+54,Female,85,154,Running,80,1110.67
+34,Female,82,190,Running,45,602.7
+25,Female,91,160,Swimming,75,796.25
+28,Male,73,150,Jump rope,45,673.43
+29,Female,48,153,Yoga,30,60.0
+41,Male,97,156,Swimming,55,622.42
+21,Male,78,163,Swimming,85,773.5
+30,Female,100,190,Running,50,816.67
+46,Male,52,182,Walking,90,273.0
+56,Female,71,178,Walking,90,372.75
+51,Male,61,169,Cycling,15,122.0
+59,Male,70,190,Yoga,70,204.17
+36,Male,90,182,Cycling,75,900.0
+52,Male,85,190,Yoga,30,106.25
+36,Female,64,165,Cycling,15,128.0
+60,Male,52,156,Running,70,594.53
+31,Male,51,178,Cycling,65,442.0
+26,Male,65,185,Yoga,75,203.12
+34,Female,50,180,Walking,70,204.17
+28,Female,87,162,Walking,20,101.5
+47,Female,67,180,Running,70,766.03
+58,Male,60,171,Jump rope,35,430.5
+42,Female,66,151,Swimming,55,423.5
+39,Female,69,168,Swimming,75,603.75
+45,Male,78,156,Jump rope,35,559.65
+52,Male,46,186,Running,90,676.2
+47,Female,71,154,Cycling,80,757.33
+40,Female,79,175,Swimming,25,230.42
+32,Male,75,185,Running,65,796.25
+59,Female,76,159,Cycling,65,658.67
+43,Male,89,168,Swimming,70,726.83
+51,Female,90,151,Walking,50,262.5
+24,Male,50,152,Running,60,490.0
+60,Female,83,183,Running,85,1152.32
+34,Female,58,163,Yoga,30,72.5
+31,Female,76,174,Yoga,20,63.33
+53,Male,57,164,Cycling,25,190.0
+27,Female,55,157,Swimming,20,128.33
+34,Male,57,161,Running,90,837.9
+32,Male,94,169,Cycling,20,250.67
+48,Female,71,180,Cycling,60,568.0
+37,Female,69,166,Jump rope,20,282.9
+19,Female,85,156,Jump rope,85,1481.12
+18,Female,57,159,Cycling,55,418.0
+30,Female,67,154,Jump rope,85,1167.48
+43,Female,75,181,Swimming,60,525.0
+54,Female,67,168,Running,50,547.17
+56,Male,84,158,Walking,30,147.0
+58,Female,60,157,Walking,10,35.0
+31,Female,57,158,Walking,85,282.62
+55,Female,84,164,Yoga,90,315.0
+37,Female,72,188,Jump rope,15,221.4
+50,Female,96,179,Jump rope,90,1771.2
+34,Male,73,179,Cycling,25,243.33
+33,Male,56,168,Walking,75,245.0
+21,Male,76,175,Swimming,10,88.67
+40,Female,47,175,Walking,20,54.83
+35,Female,61,170,Swimming,75,533.75
+31,Male,70,150,Swimming,75,612.5
+25,Female,99,163,Running,65,1051.05
+22,Female,93,189,Jump rope,90,1715.85
+21,Male,78,152,Swimming,80,728.0
+30,Female,57,151,Walking,25,83.12
+60,Male,83,174,Cycling,70,774.67
+32,Male,45,188,Running,20,147.0
+19,Female,46,183,Walking,90,241.5
+24,Female,90,170,Jump rope,80,1476.0
+36,Male,94,159,Yoga,30,117.5
+50,Male,92,159,Jump rope,30,565.8
+21,Male,78,180,Swimming,45,409.5
+21,Male,49,174,Cycling,30,196.0
+60,Female,45,150,Jump rope,60,553.5
+35,Female,80,160,Cycling,70,746.67
+21,Male,95,173,Running,80,1241.33
+46,Male,58,170,Yoga,35,84.58
+42,Male,64,158,Swimming,85,634.67
+33,Female,55,183,Yoga,35,80.21
+49,Male,64,167,Swimming,50,373.33
+24,Male,84,188,Walking,65,318.5
+54,Male,98,150,Cycling,90,1176.0
+57,Male,60,153,Running,80,784.0
+25,Female,86,153,Yoga,75,268.75
+46,Female,70,152,Cycling,20,186.67
+48,Male,59,151,Running,85,819.12
+43,Male,66,172,Walking,15,57.75
+30,Male,72,173,Yoga,85,255.0
+53,Female,48,178,Yoga,25,50.0
+60,Male,62,166,Running,50,506.33
+50,Male,80,179,Running,85,1110.67
+51,Male,61,181,Cycling,40,325.33
+19,Female,70,176,Running,75,857.5
+50,Female,70,185,Swimming,40,326.67
+30,Male,48,181,Walking,15,42.0
+47,Female,99,162,Running,55,889.35
+54,Female,76,163,Running,70,868.93
+41,Female,78,185,Yoga,30,97.5
+37,Female,83,180,Running,85,1152.32
+51,Female,48,153,Running,35,274.4
+42,Male,80,179,Swimming,75,700.0
+51,Male,64,156,Yoga,80,213.33
+28,Female,84,156,Running,55,754.6
+27,Male,90,166,Cycling,25,300.0
+46,Female,60,152,Jump rope,90,1107.0
+25,Male,73,172,Walking,80,340.67
+18,Female,66,187,Swimming,75,577.5
+19,Female,96,182,Running,60,940.8
+28,Female,75,179,Yoga,90,281.25
+39,Female,92,172,Yoga,50,191.67
+33,Male,56,163,Running,80,731.73
+33,Male,57,157,Running,15,139.65
+36,Female,50,155,Swimming,90,525.0
+44,Female,67,153,Running,15,164.15
+40,Male,88,167,Jump rope,80,1443.2
+36,Male,87,153,Cycling,30,348.0
+42,Male,45,173,Cycling,65,390.0
+19,Female,87,157,Yoga,90,326.25
+40,Female,96,189,Running,30,470.4
+45,Male,87,174,Swimming,50,507.5
+33,Male,77,186,Walking,40,179.67
+37,Female,57,185,Yoga,20,47.5
+24,Male,70,163,Running,25,285.83
+19,Male,90,161,Walking,60,315.0
+26,Female,50,165,Cycling,60,400.0
+28,Male,51,151,Yoga,45,95.62
+26,Male,55,173,Jump rope,90,1014.75
+25,Female,81,160,Walking,25,118.12
+28,Female,80,190,Jump rope,50,820.0
+60,Female,93,158,Jump rope,35,667.28
+36,Male,85,158,Walking,90,446.25
+60,Female,54,172,Swimming,30,189.0
+56,Male,86,157,Walking,90,451.5
+39,Female,70,155,Cycling,25,233.33
+29,Male,67,176,Walking,10,39.08
+29,Female,47,156,Jump rope,80,770.8
+50,Male,87,186,Jump rope,85,1515.98
+26,Female,50,165,Running,20,163.33
+19,Female,87,186,Running,60,852.6
+44,Female,85,172,Swimming,35,347.08
+59,Male,75,189,Swimming,55,481.25
+33,Female,65,157,Swimming,85,644.58
+28,Male,94,189,Yoga,65,254.58
+36,Female,99,153,Yoga,90,371.25
+29,Female,84,190,Cycling,70,784.0
+28,Female,50,170,Yoga,60,125.0
+60,Male,45,180,Cycling,25,150.0
+57,Male,66,176,Walking,85,327.25
+41,Male,70,174,Jump rope,50,717.5
+43,Male,88,159,Walking,25,128.33
+35,Male,68,184,Cycling,90,816.0
+19,Male,85,152,Cycling,10,113.33
+50,Female,97,150,Swimming,45,509.25
+41,Male,93,184,Running,85,1291.15
+25,Female,65,158,Yoga,40,108.33
+35,Male,59,157,Swimming,15,103.25
+39,Male,97,154,Walking,15,84.88
+48,Male,95,166,Walking,45,249.38
+21,Female,76,162,Jump rope,85,1324.3
+35,Male,94,163,Cycling,10,125.33
+38,Male,60,180,Running,30,294.0
+52,Male,77,151,Cycling,35,359.33
+28,Male,93,173,Walking,85,461.12
+60,Male,86,165,Yoga,80,286.67
+37,Male,95,168,Jump rope,10,194.75
+37,Female,75,172,Cycling,55,550.0
+57,Male,76,150,Walking,40,177.33
+25,Male,63,188,Jump rope,55,710.33
+32,Female,70,175,Yoga,15,43.75
+40,Female,57,167,Cycling,45,342.0
+28,Male,70,168,Swimming,30,245.0
+44,Male,60,160,Swimming,10,70.0
+35,Male,96,181,Cycling,40,512.0
+40,Female,49,179,Swimming,80,457.33
+55,Male,51,188,Jump rope,90,940.95
+34,Male,47,163,Walking,25,68.54
+49,Male,88,172,Walking,20,102.67
+33,Female,71,187,Running,35,405.88
+27,Male,47,168,Swimming,70,383.83
+30,Female,97,150,Yoga,25,101.04
+39,Female,75,157,Swimming,55,481.25
+36,Female,51,165,Cycling,75,510.0
+57,Female,96,175,Yoga,80,320.0
+41,Male,55,171,Running,90,808.5
+52,Male,78,162,Cycling,70,728.0
+28,Male,53,164,Jump rope,20,217.3
+20,Male,88,150,Running,55,790.53
+42,Male,87,184,Cycling,85,986.0
+52,Female,98,183,Walking,90,514.5
+18,Female,96,153,Swimming,45,504.0
+45,Male,86,154,Yoga,85,304.58
+60,Male,58,154,Yoga,70,169.17
+57,Male,55,176,Yoga,45,103.12
+30,Male,57,167,Running,45,418.95
+35,Male,97,188,Cycling,35,452.67
+24,Male,79,181,Swimming,10,92.17
+21,Male,54,185,Walking,10,31.5
+20,Female,61,169,Cycling,70,569.33
+26,Male,69,168,Swimming,55,442.75
+57,Female,77,170,Walking,50,224.58
+56,Female,99,183,Running,20,323.4
+22,Male,52,188,Walking,85,257.83
+25,Female,58,166,Jump rope,85,1010.65
+50,Female,90,163,Jump rope,10,184.5
+59,Male,49,150,Yoga,20,40.83
+50,Female,62,162,Jump rope,25,317.75
+23,Male,47,171,Swimming,60,329.0
+18,Male,87,151,Cycling,25,290.0
+35,Male,94,187,Jump rope,45,867.15
+47,Male,78,163,Yoga,80,260.0
+24,Male,47,190,Yoga,30,58.75
+26,Male,60,163,Running,40,392.0
+33,Male,58,154,Cycling,25,193.33
+60,Male,79,186,Walking,45,207.38
+59,Male,69,160,Swimming,25,201.25
+26,Female,60,163,Walking,55,192.5
+42,Male,100,166,Cycling,90,1200.0
+40,Male,100,157,Swimming,55,641.67
+26,Female,95,163,Jump rope,80,1558.0
+32,Female,89,163,Cycling,30,356.0
+50,Male,58,159,Yoga,30,72.5
+23,Female,64,182,Yoga,85,226.67
+25,Male,73,153,Yoga,25,76.04
+30,Male,51,189,Running,80,666.4
+44,Male,90,169,Jump rope,60,1107.0
+40,Male,61,189,Yoga,15,38.12
+42,Male,91,156,Walking,25,132.71
+56,Male,93,150,Cycling,60,744.0
+46,Female,79,186,Jump rope,75,1214.62
+24,Female,78,150,Swimming,90,819.0
+36,Male,79,169,Yoga,70,230.42
+24,Male,69,155,Swimming,50,402.5
+36,Male,52,165,Walking,60,182.0
+28,Female,72,174,Cycling,85,816.0
+54,Female,73,175,Running,15,178.85
+30,Female,93,177,Jump rope,60,1143.9
+57,Male,62,170,Walking,65,235.08
+44,Male,50,182,Cycling,40,266.67
+55,Male,50,154,Swimming,70,408.33
+19,Male,92,168,Running,35,525.93
+19,Male,52,160,Cycling,45,312.0
+54,Female,83,182,Cycling,15,166.0
+19,Female,58,189,Swimming,50,338.33
+38,Male,73,183,Jump rope,30,448.95
+18,Male,47,164,Yoga,10,19.58
+27,Female,59,155,Yoga,60,147.5
+24,Female,45,179,Yoga,85,159.38
+59,Male,88,182,Yoga,85,311.67
+52,Female,77,157,Swimming,85,763.58
+50,Male,53,184,Walking,40,123.67
+56,Female,98,169,Swimming,25,285.83
+36,Female,60,153,Cycling,10,80.0
+55,Male,45,151,Yoga,40,75.0
+30,Male,46,172,Swimming,15,80.5
+51,Male,100,162,Cycling,90,1200.0
+28,Female,58,163,Cycling,15,116.0
+33,Female,86,185,Swimming,30,301.0
+25,Male,92,166,Walking,35,187.83
+59,Female,65,169,Running,80,849.33
+37,Male,83,172,Cycling,35,387.33
+19,Male,74,182,Jump rope,40,606.8
+57,Female,72,161,Walking,40,168.0
+56,Male,52,153,Cycling,85,589.33
+43,Female,79,175,Yoga,10,32.92
+28,Female,51,187,Cycling,80,544.0
+40,Female,98,157,Swimming,10,114.33
+47,Female,92,182,Walking,30,161.0
+52,Male,97,154,Walking,25,141.46
+54,Male,49,177,Running,55,440.18
+52,Female,51,169,Swimming,25,148.75
+36,Male,80,188,Running,15,196.0
+46,Female,69,170,Yoga,55,158.12
+49,Female,46,182,Walking,50,134.17
+36,Male,97,187,Walking,30,169.75
+18,Male,47,163,Running,35,268.68
+59,Female,65,165,Yoga,60,162.5
+44,Male,71,182,Running,40,463.87
+40,Male,81,159,Running,75,992.25
+48,Female,52,169,Running,25,212.33
+42,Female,68,172,Jump rope,40,557.6
+38,Male,98,164,Swimming,25,285.83
+28,Female,60,162,Walking,35,122.5
+55,Female,46,161,Swimming,45,241.5
+18,Female,69,182,Cycling,85,782.0
+51,Male,54,189,Walking,50,157.5
+55,Female,90,178,Yoga,25,93.75
+29,Male,99,184,Jump rope,85,1725.08
+23,Male,86,160,Yoga,60,215.0
+51,Male,73,178,Jump rope,20,299.3
+30,Female,54,181,Swimming,35,220.5
+33,Female,97,154,Running,20,316.87
+40,Female,60,168,Swimming,50,350.0
+54,Male,100,161,Swimming,30,350.0
+29,Female,74,176,Jump rope,85,1289.45
+55,Female,56,165,Cycling,30,224.0
+36,Male,81,154,Yoga,10,33.75
+25,Male,95,160,Walking,50,277.08
+46,Male,88,171,Cycling,55,645.33
+49,Male,56,158,Jump rope,50,574.0
+41,Male,62,181,Swimming,80,578.67
+60,Male,57,164,Cycling,75,570.0
+41,Male,55,170,Walking,65,208.54
+24,Male,86,151,Running,65,913.03
+30,Female,77,174,Running,65,817.48
+33,Male,93,151,Running,25,379.75
+42,Male,100,158,Walking,10,58.33
+34,Male,95,160,Walking,35,193.96
+53,Male,68,190,Swimming,35,277.67
+52,Male,46,178,Swimming,60,322.0
+42,Male,67,162,Swimming,70,547.17
+21,Female,73,182,Swimming,30,255.5
+44,Male,54,173,Running,55,485.1
+34,Female,47,172,Cycling,80,501.33
+58,Male,86,159,Swimming,30,301.0
+30,Male,82,150,Jump rope,45,756.45
+33,Male,95,169,Cycling,10,126.67
+35,Male,87,182,Walking,45,228.38
+22,Male,81,150,Swimming,35,330.75
+33,Female,69,183,Cycling,10,92.0
+42,Female,84,188,Cycling,80,896.0
+42,Female,67,156,Walking,70,273.58
+41,Female,48,190,Walking,70,196.0
+21,Male,70,163,Cycling,30,280.0
+40,Female,58,166,Yoga,30,72.5
+22,Male,85,163,Yoga,55,194.79
+45,Male,96,177,Yoga,60,240.0
+53,Female,74,183,Cycling,50,493.33
+30,Male,83,187,Jump rope,50,850.75
+41,Female,84,165,Swimming,20,196.0
+58,Female,75,157,Swimming,70,612.5
+49,Male,75,174,Cycling,15,150.0
+51,Female,96,153,Running,80,1254.4
+27,Female,87,177,Walking,20,101.5
+36,Male,89,180,Swimming,30,311.5
+51,Male,90,176,Swimming,45,472.5
+26,Male,73,151,Running,55,655.78
+25,Female,66,186,Jump rope,20,270.6
+56,Male,84,190,Jump rope,10,172.2
+45,Female,81,159,Cycling,90,972.0
+42,Female,51,170,Jump rope,35,365.93
+35,Female,74,164,Swimming,70,604.33
+25,Female,84,164,Running,40,548.8
+34,Male,78,169,Jump rope,30,479.7
+53,Male,85,174,Jump rope,25,435.62
+53,Female,77,176,Yoga,45,144.38
+52,Male,71,181,Swimming,10,82.83
+22,Male,57,156,Walking,65,216.12
+43,Female,59,154,Walking,90,309.75
+36,Male,91,183,Jump rope,75,1399.12
+20,Female,65,153,Swimming,45,341.25
+21,Female,88,152,Swimming,40,410.67
+55,Male,92,164,Yoga,60,230.0
+34,Male,95,185,Cycling,30,380.0
+31,Male,58,165,Walking,45,152.25
+56,Female,63,165,Running,90,926.1
+37,Male,89,182,Jump rope,45,821.03
+18,Male,97,180,Walking,25,141.46
+35,Female,66,162,Running,10,107.8
