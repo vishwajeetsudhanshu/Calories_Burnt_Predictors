@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Calories Burnt Predictor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: url("/static/fitness.jpg") no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .nav {
+      width: 100%;
+      padding: 20px 40px;
+      background-color: rgba(0, 0, 0, 0.7);
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .nav a {
+      color: white;
+      text-decoration: none;
+      margin-left: 30px;
+      font-size: 22px;
+      font-weight: bold;
+      transition: color 0.3s ease;
+    }
+
+    .nav a:hover {
+      color: #ffcc00;
+    }
+
+    .header {
+      padding: 80px 40px 30px 40px;
+      text-align: left;
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+
+    .header h1 {
+      font-size: 60px;
+      color: #ffcc00;
+      margin-bottom: 20px;
+    }
+
+    .header p {
+      font-size: 24px;
+      max-width: 1000px;
+      line-height: 1.6;
+    }
+
+    .content {
+      background-color: rgba(0, 0, 0, 0.6);
+      margin: 30px auto;
+      padding: 40px;
+      max-width: 1000px;
+      border-radius: 12px;
+    }
+
+    .content h2 {
+      font-size: 36px;
+      color: #ffcc00;
+      margin-bottom: 15px;
+    }
+
+    .content p, ul {
+      font-size: 22px;
+      line-height: 1.8;
+      color: #f1f1f1;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 20px;
+      background-color: rgba(0, 0, 0, 0.7);
+      color: #ddd;
+      margin-top: auto;
+    }
+
+    a {
+      color: #ffcc00;
+    }
+
+    @media (max-width: 768px) {
+      .nav {
+        flex-direction: column;
+        align-items: flex-end;
+      }
+      .header h1 {
+        font-size: 42px;
+      }
+      .header p, .content p, .content ul {
+        font-size: 18px;
+      }
+      .content h2 {
+        font-size: 28px;
+      }
+      .nav a {
+        margin: 10px 0;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .header h1 {
+        font-size: 32px;
+      }
+      .nav a {
+        font-size: 18px;
+        margin-left: 20px;
+      }
+      .header, .content {
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="nav">
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/predict">Predict</a>
+  </div>
+
+  <div class="header">
+    <h1>Calories Burnt Predictor</h1>
+    <p>
+      Welcome to your personal fitness assistant! Track your calorie burn from real workout inputs.
+      Get smarter with your fitness goals using machine learning insights tailored just for you.
+    </p>
+  </div>
+
+  <div class="content">
+    <h2>Why Tracking Calories Matters</h2>
+    <p>
+      Tracking calories burnt gives insight into how effective your exercises are, helping you adjust your workouts and nutrition. This is essential for:
+    </p>
+    <ul>
+      <li>📊 Understanding your body’s energy usage</li>
+      <li>⚖️ Managing weight and metabolism</li>
+      <li>💪 Improving workout routines</li>
+      <li>❤️ Enhancing cardiovascular health</li>
+    </ul>
+
+    <h2>How This Tool Works</h2>
+    <p>
+      This app uses machine learning trained on real fitness data to predict calories burnt.
+      Just enter simple details like:
+      <ul>
+        <li>✅ Gender, Age, Height, Weight</li>
+        <li>✅ Activity Type (e.g., Running, Cycling)</li>
+        <li>✅ Workout Duration</li>
+      </ul>
+      It outputs an estimated calorie value based on your input, giving you instant feedback.
+    </p>
+
+    <h2>Let’s Begin</h2>
+    <p>
+      Go to the <a href="/predict">Predict Page</a> and start tracking your calories now!
+      Small actions today lead to big results tomorrow.
+    </p>
+  </div>
+
+  <footer>
+    &copy; 2025 | Smart Health, Smart You 💡 | Calories Burnt Predictor
+  </footer>
+
+</body>
+</html>

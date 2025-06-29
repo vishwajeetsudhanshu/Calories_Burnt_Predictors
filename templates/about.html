@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us - Calories Burnt Predictor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: url("/static/about.jpg") no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .nav {
+      width: 100%;
+      padding: 20px 40px;
+      background-color: rgba(0, 0, 0, 0.7);
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .nav a {
+      color: white;
+      text-decoration: none;
+      margin-left: 30px;
+      font-size: 22px;
+      font-weight: bold;
+      transition: color 0.3s ease;
+    }
+
+    .nav a:hover {
+      color: #ffcc00;
+    }
+
+    .header {
+      padding: 80px 40px 30px 40px;
+      text-align: left;
+      background-color: rgba(0, 0, 0, 0.6);
+    }
+
+    .header h1 {
+      font-size: 50px;
+      color: #ffcc00;
+      margin-bottom: 15px;
+    }
+
+    .header p {
+      font-size: 22px;
+      max-width: 900px;
+      line-height: 1.6;
+      color: #eee;
+    }
+
+    .content {
+      background-color: rgba(0, 0, 0, 0.6);
+      margin: 30px auto;
+      padding: 40px;
+      max-width: 900px;
+      border-radius: 12px;
+    }
+
+    .content h2 {
+      font-size: 34px;
+      color: #ffcc00;
+      margin-bottom: 15px;
+    }
+
+    .content p {
+      font-size: 20px;
+      line-height: 1.8;
+      color: #f1f1f1;
+      margin-bottom: 20px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 18px;
+      background-color: rgba(0, 0, 0, 0.7);
+      color: #ddd;
+      margin-top: auto;
+    }
+
+    a {
+      color: #ffcc00;
+    }
+
+    @media (max-width: 768px) {
+      .nav {
+        flex-direction: column;
+        align-items: flex-end;
+      }
+      .header h1 {
+        font-size: 38px;
+      }
+      .header p, .content p {
+        font-size: 18px;
+      }
+      .content h2 {
+        font-size: 26px;
+      }
+      .nav a {
+        margin: 10px 0;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="nav">
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/predict">Predict</a>
+  </div>
+
+  <div class="header">
+    <h1>About Us</h1>
+    <p>
+      We believe that fitness should be accessible, data-driven, and fun. This Calories Burnt Predictor project was developed by passionate learners of data science and web technologies to help users get meaningful insights into their physical activities.
+    </p>
+  </div>
+
+  <div class="content">
+    <h2>Our Mission</h2>
+    <p>
+      Our goal is to empower individuals with technology to take charge of their fitness journeys. Using machine learning, we've created an easy-to-use application that estimates calories burnt based on your specific workout inputs.
+    </p>
+
+    <h2>Why We Built This</h2>
+    <p>
+      Many fitness apps are either too generic or complicated. We wanted to build a personalized calorie predictor that’s easy, educational, and engaging for everyone—from fitness enthusiasts to beginners.
+    </p>
+
+    <h2>Technologies Used</h2>
+    <p>
+      <strong>⚙️ Machine Learning:</strong> Python, pandas, scikit-learn<br>
+      <strong>🌐 Web:</strong> Flask, HTML, CSS<br>
+      <strong>🎨 Design:</strong> Custom styling with modern, responsive layouts
+    </p>
+
+    <h2>Contact & Feedback</h2>
+    <p>
+      We’d love to hear your feedback and ideas! Connect with us at <a href="#">support@calorieburnpredictor.com</a> or via our social channels.
+    </p>
+  </div>
+
+  <footer>
+    &copy; 2025 | Smart Health, Smart You 💡 | Calories Burnt Predictor
+  </footer>
+
+</body>
+</html>

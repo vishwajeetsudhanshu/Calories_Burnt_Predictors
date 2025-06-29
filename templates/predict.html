@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calorie Burn Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url("/static/calories.jpeg");
+            background-size: cover;
+            color: white;
+            padding: 40px;
+        }
+        form {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-radius: 10px;
+            width: 400px;
+            margin: auto;
+        }
+        input, select, button {
+            width: 100%;
+            padding: 8px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: none;
+        }
+        button {
+            background-color: #ff5722;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #e64a19;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 24px;
+            text-align: center;
+            color: #00ffcc;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center;">Predict Calories Burnt</h1>
+    <form method="POST">
+        <label>Gender:</label>
+        <select name="gender" required>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select>
+
+        <label>Age:</label>
+        <input type="number" name="age" required>
+
+        <label>Height (cm):</label>
+        <input type="number" name="height" required>
+
+        <label>Weight (kg):</label>
+        <input type="number" name="weight" required>
+
+        <label>Activity Type:</label>
+        <select name="activity" required>
+            <option value="Walking">Walking</option>
+            <option value="Running">Running</option>
+            <option value="Cycling">Cycling</option>
+            <option value="Jump Rope">Jump Rope</option>
+            <option value="Swimming">Swimming</option>
+            <option value="Weight Training">Weight Training</option>
+            <!-- Add other activities matching your dataset -->
+        </select>
+
+        <label>Duration (minutes):</label>
+        <input type="number" name="duration" required>
+
+        <button type="submit">Predict</button>
+
+        {% if result is not none %}
+            <div class="result">🔥 Estimated Calories Burnt: {{ result }} kcal</div>
+        {% endif %}
+    </form>
+</body>
+</html>
